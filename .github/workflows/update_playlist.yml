@@ -4,7 +4,7 @@ on:
   workflow_dispatch: # Allows manual triggering
   schedule:
     # Runs every 2 hours, at the top of the hour (00:00, 02:00, 04:00 UTC, etc.)
-    - cron: '0 */2 * * *' # <--- Schedule changed to run every 2 hours
+    - cron: '45 * * * *' # <--- Schedule changed to run every 2 hours
 
 jobs:
   build-epg: # Job name updated for clarity
