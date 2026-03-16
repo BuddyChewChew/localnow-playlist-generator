@@ -3,7 +3,7 @@ name: Generate LocalNow EPG XML # Workflow name updated for clarity
 on:
   workflow_dispatch: # Allows manual triggering
   schedule:
-    # Runs every 2 hours, at the top of the hour (00:00, 02:00, 04:00 UTC, etc.)
+    # Runs every hour, 15 minutes before the next hour (e.g., 00:45, 01:45, 02:45 UTC)
     - cron: '45 * * * *' # <--- Schedule changed to run every 2 hours
 
 jobs:
