@@ -1,42 +1,46 @@
-name: Generate LocalNow EPG XML # Workflow name updated for clarity
+name: Generate LocalNow EPG XML
 
 on:
-  workflow_dispatch: # Allows manual triggering
+  workflow_dispatch:
   schedule:
     # Runs every hour, 15 minutes before the next hour (e.g., 00:45, 01:45, 02:45 UTC)
-    - cron: '45 * * * *' # <--- Schedule changed to run every 2 hours
+    - cron: '45 * * * *'
 
 jobs:
-  build-epg: # Job name updated for clarity
+  build-epg:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Needed to commit epg.xml
+      contents: write
     steps:
       - name: Checkout repository code
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Required for rebasing
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10' # Or your preferred version
+          python-version: '3.10'
           cache: 'pip'
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
-
-      # Removed the M3U fetching and modification steps
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
       - name: Run EPG generation script
-        run: python generate_epg.py # This creates epg.xml in the workspace
+        run: python generate_epg.py
 
-      # Commit ONLY the epg.xml file if it has changed
       - name: Commit and push epg.xml
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Automated EPG update" # Commit message reflects only EPG
-          file_pattern: "epg.xml" # Only track changes to epg.xml
+          branch: main
+          commit_options: '--no-verify'
+          push_options: '--force'
+          status_options: '--untracked-files=no'
+          commit_message: "Automated EPG update"
+          file_pattern: "epg.xml"
           commit_user_name: "GitHub Actions Bot"
           commit_user_email: "github-actions[bot]@users.noreply.github.com"
           commit_author: "GitHub Actions Bot <github-actions[bot]@users.noreply.github.com>"
+          create_branch: false
