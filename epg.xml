@@ -3,14 +3,6 @@
   <channel id="LN_27B297E5-83A0-457F-B9EC-33C5A020F040">
     <display-name>FailArmy</display-name>
   </channel>
-  <programme start="20260815124700 +0000" stop="20260815131800 +0000" channel="LN_27B297E5-83A0-457F-B9EC-33C5A020F040">
-    <title lang="en">FailArmy Expectations vs. Reality</title>
-    <desc lang="en">FailArmy</desc>
-  </programme>
-  <programme start="20260815131800 +0000" stop="20260815134900 +0000" channel="LN_27B297E5-83A0-457F-B9EC-33C5A020F040">
-    <title lang="en">FailArmy Expectations vs. Reality</title>
-    <desc lang="en">What do parenthood, skydiving and staycation fails all have in common? They exceeded our expectations.</desc>
-  </programme>
   <programme start="20260815134900 +0000" stop="20260815142000 +0000" channel="LN_27B297E5-83A0-457F-B9EC-33C5A020F040">
     <title lang="en">World's Messiest Fails</title>
     <desc lang="en">Messes big and small come together to rack up a cleanup time that can only be described as huge.</desc>
@@ -22,6 +14,14 @@
   <programme start="20260815145100 +0000" stop="20260815152200 +0000" channel="LN_27B297E5-83A0-457F-B9EC-33C5A020F040">
     <title lang="en">World's Messiest Fails</title>
     <desc lang="en">Cleaning up the mess kids and dogs make.</desc>
+  </programme>
+  <programme start="20260815152200 +0000" stop="20260815155300 +0000" channel="LN_27B297E5-83A0-457F-B9EC-33C5A020F040">
+    <title lang="en">World's Messiest Fails</title>
+    <desc lang="en">This holiday season, people are getting exactly what they asked for: a big old mess.</desc>
+  </programme>
+  <programme start="20260815155300 +0000" stop="20260815162500 +0000" channel="LN_27B297E5-83A0-457F-B9EC-33C5A020F040">
+    <title lang="en">FailFactory</title>
+    <desc lang="en">Failing has never been this epic.</desc>
   </programme>
   <channel id="LN_6D30170C-D7B3-46A2-8C1F-302D8399F44D">
     <display-name>Free Movies Plus</display-name>
@@ -164,10 +164,6 @@
   <channel id="LN_A7FA55BD-F771-46DA-B7A0-B974DA61DF21">
     <display-name>BuzzFeed Unsolved</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_A7FA55BD-F771-46DA-B7A0-B974DA61DF21">
-    <title lang="en">BuzzFeed Unsolved: True Crime</title>
-    <desc lang="en">In this season premiere, Ryan and Shane finally take on the most infamous serial killer of all time.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_A7FA55BD-F771-46DA-B7A0-B974DA61DF21">
     <title lang="en">BuzzFeed Unsolved: True Crime</title>
     <desc lang="en">Ryan and Shane investigate The Gardner Heist, one of the world’s most baffling mysteries.</desc>
@@ -183,6 +179,10 @@
   <programme start="20260815153000 +0000" stop="20260815160000 +0000" channel="LN_A7FA55BD-F771-46DA-B7A0-B974DA61DF21">
     <title lang="en">BuzzFeed Unsolved: True Crime</title>
     <desc lang="en">Ryan and Shane discuss the details surrounding the death of “town bully” Ken Rex McEllory in 1981.</desc>
+  </programme>
+  <programme start="20260815160000 +0000" stop="20260815170000 +0000" channel="LN_A7FA55BD-F771-46DA-B7A0-B974DA61DF21">
+    <title lang="en">BuzzFeed Unsolved: True Crime</title>
+    <desc lang="en">Ryan and Shane delve into the theories surrounding the murder of actor William Desmond Taylor in 1922.</desc>
   </programme>
   <channel id="LN_14F5D3B6-FA2C-4E41-91AD-CD037209D874">
     <display-name>NBC News NOW</display-name>
@@ -256,10 +256,6 @@
   <channel id="LN_7AD66CC7-82F6-45D7-A9DD-DCBC16958F71">
     <display-name>TODAY All Day</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_7AD66CC7-82F6-45D7-A9DD-DCBC16958F71">
-    <title lang="en">How to Eat Plants</title>
-    <desc lang="en">Samah Dada dives into plant-based trends like meat alternatives and vegan comfort foods.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_7AD66CC7-82F6-45D7-A9DD-DCBC16958F71">
     <title lang="en">How to Eat Plants</title>
     <desc lang="en">TODAY All Day is a 24-hour streaming channel featuring information, entertainment and uplifting stories from TODAY anchors and reporters.</desc>
@@ -275,6 +271,10 @@
   <programme start="20260815150000 +0000" stop="20260815153000 +0000" channel="LN_7AD66CC7-82F6-45D7-A9DD-DCBC16958F71">
     <title lang="en">How to Eat Plants</title>
     <desc lang="en">Samah Dada dives into plant-based trends like meat alternatives and vegan comfort foods.</desc>
+  </programme>
+  <programme start="20260815153000 +0000" stop="20260815160000 +0000" channel="LN_7AD66CC7-82F6-45D7-A9DD-DCBC16958F71">
+    <title lang="en">How to Eat Plants</title>
+    <desc lang="en">TODAY All Day is a 24-hour streaming channel featuring information, entertainment and uplifting stories from TODAY anchors and reporters.</desc>
   </programme>
   <channel id="LN_324D86DB-0F5E-4035-A08B-80897A293C0D">
     <display-name>60 Minutes</display-name>
@@ -417,10 +417,6 @@
   <channel id="LN_88CE1401-5EBC-4163-983F-534C8916321A">
     <display-name>Yahoo! Finance</display-name>
   </channel>
-  <programme start="20260815123000 +0000" stop="20260815133000 +0000" channel="LN_88CE1401-5EBC-4163-983F-534C8916321A">
-    <title lang="en">Market Movers</title>
-    <desc lang="en">Yahoo Finance highlights key moments in the previous trading session.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815143000 +0000" channel="LN_88CE1401-5EBC-4163-983F-534C8916321A">
     <title lang="en">YF Reports: Mag 7 Earnings</title>
     <desc lang="en">Members of the illustrious Mag 7 report earnings.</desc>
@@ -434,6 +430,10 @@
     <desc lang="en">Power Players with Brian Sozzi goes beyond titles, revealing the human side of industry titans.</desc>
   </programme>
   <programme start="20260815153000 +0000" stop="20260815160000 +0000" channel="LN_88CE1401-5EBC-4163-983F-534C8916321A">
+    <title lang="en">Trader Talk</title>
+    <desc lang="en">Wall Street wisdom without the BS. Kenny Polcari keeps it real for everyday investors.</desc>
+  </programme>
+  <programme start="20260815160000 +0000" stop="20260815163000 +0000" channel="LN_88CE1401-5EBC-4163-983F-534C8916321A">
     <title lang="en">Trader Talk</title>
     <desc lang="en">Wall Street wisdom without the BS. Kenny Polcari keeps it real for everyday investors.</desc>
   </programme>
@@ -578,10 +578,6 @@
   <channel id="LN_6901EB4F-8CD3-468D-B1F6-3001FF467777">
     <display-name>ROI TV</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815132900 +0000" channel="LN_6901EB4F-8CD3-468D-B1F6-3001FF467777">
-    <title lang="en">Mike and His WhiteBoard</title>
-    <desc lang="en">New to options trading? Have no fear, Mike and his whiteboard are here! Learn trading concepts and mechanics in a visual way.</desc>
-  </programme>
   <programme start="20260815132900 +0000" stop="20260815135900 +0000" channel="LN_6901EB4F-8CD3-468D-B1F6-3001FF467777">
     <title lang="en">Mike and His WhiteBoard</title>
     <desc lang="en">New to options trading? Have no fear, Mike and his whiteboard are here! Learn trading concepts and mechanics in a visual way.</desc>
@@ -598,13 +594,13 @@
     <title lang="en">Mike and His WhiteBoard</title>
     <desc lang="en">New to options trading? Have no fear, Mike and his whiteboard are here! Learn trading concepts and mechanics in a visual way.</desc>
   </programme>
+  <programme start="20260815153200 +0000" stop="20260815160800 +0000" channel="LN_6901EB4F-8CD3-468D-B1F6-3001FF467777">
+    <title lang="en">Mike and His WhiteBoard</title>
+    <desc lang="en">New to options trading? Have no fear, Mike and his whiteboard are here! Learn trading concepts and mechanics in a visual way.</desc>
+  </programme>
   <channel id="LN_195280D1-654A-45BE-BCCB-556B9E56CA80">
     <display-name>WeatherSpy</display-name>
   </channel>
-  <programme start="20260815124123 +0000" stop="20260815134523 +0000" channel="LN_195280D1-654A-45BE-BCCB-556B9E56CA80">
-    <title lang="en">The Weather Files | Tornado 2</title>
-    <desc lang="en">Tornadoes. They twist. They turn. They kill. A tornado chaser stuck on a dead end street with no way out.</desc>
-  </programme>
   <programme start="20260815134523 +0000" stop="20260815141523 +0000" channel="LN_195280D1-654A-45BE-BCCB-556B9E56CA80">
     <title lang="en">Angry Planet | Crystal Cave</title>
     <desc lang="en">In 2000, a remarkable find was made in Chihuahua, Mexico, of a spectacular cave filled with giant crystals, some over 20 meters long. But it is a intensely difficult spot to explore – with temperatures over 50 degrees C and humidity well over 100%. George leads an Explorers Club Flag Expedition into the cave, wearing special refrigerated suits and respirators to battle the extreme environment.</desc>
@@ -621,13 +617,13 @@
     <title lang="en">Angry Planet | Fire and Water</title>
     <desc lang="en">With summer wildfires overpowering the Yukon forests, host/adventurer George Kourounis follows the fabled route of the Klondike Gold Rush sourdoughs through the bawdy town of Skagway, Alaska, paddling the white water rivers and the White Horse Rapids into the Yukon. He travels on mountain bike, steam train and Cessna to experience the huge fires and meet the northern fire crews battling the blazes.</desc>
   </programme>
+  <programme start="20260815154653 +0000" stop="20260815161653 +0000" channel="LN_195280D1-654A-45BE-BCCB-556B9E56CA80">
+    <title lang="en">Mission: Hurricane | Hurricane Patricia</title>
+    <desc lang="en">In 2015, Josh Morgerman traveled to Mexico to chase what would become one of the strongest tropical hurricanes ever recorded. His harrowing experience with Patricia would forever shape his identity as a Hurricane Chaser.</desc>
+  </programme>
   <channel id="LN_D08B8566-8303-4C43-B854-782AF2D7EB8F">
     <display-name>Dateline 24/7</display-name>
   </channel>
-  <programme start="20260815114900 +0000" stop="20260815132600 +0000" channel="LN_D08B8566-8303-4C43-B854-782AF2D7EB8F">
-    <title lang="en">Dateline NBC</title>
-    <desc lang="en">A tight-knit Long Island family go to extraordinary lengths to find their missing sister.</desc>
-  </programme>
   <programme start="20260815132600 +0000" stop="20260815141300 +0000" channel="LN_D08B8566-8303-4C43-B854-782AF2D7EB8F">
     <title lang="en">Dateline NBC</title>
     <desc lang="en">After filming wraps on an indie horror movie, the cast members learn their lead actress is not who she says she is and has been charged with killing her uncle.</desc>
@@ -643,6 +639,10 @@
   <programme start="20260815154700 +0000" stop="20260815163500 +0000" channel="LN_D08B8566-8303-4C43-B854-782AF2D7EB8F">
     <title lang="en">Dateline NBC</title>
     <desc lang="en">A model with a checkered past goes undercover to reveal the truth about a cold case involving a romantic getaway on a boat that ended with a woman being lost at sea.</desc>
+  </programme>
+  <programme start="20260815163500 +0000" stop="20260815181200 +0000" channel="LN_D08B8566-8303-4C43-B854-782AF2D7EB8F">
+    <title lang="en">Dateline NBC</title>
+    <desc lang="en">After an apparent home invasion in Minnesota leaves Heidi Firkus dead and her husband, Nick, hospitalized, detectives learn the young couple was facing financial troubles.</desc>
   </programme>
   <channel id="LN_D10ACB25-D8D4-4445-9D47-30195BD2DE7E">
     <display-name>American Crimes</display-name>
@@ -693,10 +693,6 @@
   <channel id="LN_596E8325-B870-491C-8DF8-C279814C5538">
     <display-name>Court TV</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_596E8325-B870-491C-8DF8-C279814C5538">
-    <title lang="en">Corrupt Crimes</title>
-    <desc lang="en">A man holds the patrons of an Australian café hostage for more than two days.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_596E8325-B870-491C-8DF8-C279814C5538">
     <title lang="en">Corrupt Crimes</title>
     <desc lang="en">Self-proclaimed genius Martin Frankel becomes a multimillionaire by breaking the law.</desc>
@@ -713,13 +709,13 @@
     <title lang="en">Corrupt Crimes</title>
     <desc lang="en">A homegrown terrorism group plans a jihad in Southern California.</desc>
   </programme>
+  <programme start="20260815153000 +0000" stop="20260815160000 +0000" channel="LN_596E8325-B870-491C-8DF8-C279814C5538">
+    <title lang="en">Corrupt Crimes</title>
+    <desc lang="en">A prison inmate attacks more than 20 guards and countless prisoners, and takes 11 hostages.</desc>
+  </programme>
   <channel id="LN_EE5C8C56-77A4-4D7D-BF0E-FAED2AC0F396">
     <display-name>Court TV Legendary Trials</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_EE5C8C56-77A4-4D7D-BF0E-FAED2AC0F396">
-    <title lang="en">Corrupt Crimes</title>
-    <desc lang="en">A man holds the patrons of an Australian café hostage for more than two days.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_EE5C8C56-77A4-4D7D-BF0E-FAED2AC0F396">
     <title lang="en">Corrupt Crimes</title>
     <desc lang="en">Self-proclaimed genius Martin Frankel becomes a multimillionaire by breaking the law.</desc>
@@ -735,6 +731,10 @@
   <programme start="20260815150000 +0000" stop="20260815153000 +0000" channel="LN_EE5C8C56-77A4-4D7D-BF0E-FAED2AC0F396">
     <title lang="en">Corrupt Crimes</title>
     <desc lang="en">A homegrown terrorism group plans a jihad in Southern California.</desc>
+  </programme>
+  <programme start="20260815153000 +0000" stop="20260815160000 +0000" channel="LN_EE5C8C56-77A4-4D7D-BF0E-FAED2AC0F396">
+    <title lang="en">Corrupt Crimes</title>
+    <desc lang="en">A prison inmate attacks more than 20 guards and countless prisoners, and takes 11 hostages.</desc>
   </programme>
   <channel id="LN_45A8BAAC-64A3-4D51-AE48-3C12AC8E0A17">
     <display-name>Law &amp; Crime</display-name>
@@ -762,14 +762,6 @@
   <channel id="LN_41830D3A-37B5-4C6C-B242-A08B82B441D9">
     <display-name>Forensic Files</display-name>
   </channel>
-  <programme start="20260815125900 +0000" stop="20260815132500 +0000" channel="LN_41830D3A-37B5-4C6C-B242-A08B82B441D9">
-    <title lang="en">Forensic Files</title>
-    <desc lang="en">Highway policeman is shocked when a bloody traffic collision is classified as an accident.</desc>
-  </programme>
-  <programme start="20260815132500 +0000" stop="20260815135100 +0000" channel="LN_41830D3A-37B5-4C6C-B242-A08B82B441D9">
-    <title lang="en">Forensic Files</title>
-    <desc lang="en">An irrigation canal murder remains unsolved until a similar murder occurs.</desc>
-  </programme>
   <programme start="20260815135100 +0000" stop="20260815141300 +0000" channel="LN_41830D3A-37B5-4C6C-B242-A08B82B441D9">
     <title lang="en">Forensic Files</title>
     <desc lang="en">Start your own crime-solving party anytime with this channel featuring every episode of FORENSIC FILES. This hit series uses evidence and interviews to help solve real crimes, disease outbreaks and accidents around the world.</desc>
@@ -782,13 +774,17 @@
     <title lang="en">Forensic Files</title>
     <desc lang="en">Police recover the submerged car of missing man but find no body; uncovering a motive for murder.</desc>
   </programme>
+  <programme start="20260815150500 +0000" stop="20260815152900 +0000" channel="LN_41830D3A-37B5-4C6C-B242-A08B82B441D9">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">Dispatch receives a call from a man who says his girlfriend shot herself.</desc>
+  </programme>
+  <programme start="20260815152900 +0000" stop="20260815155500 +0000" channel="LN_41830D3A-37B5-4C6C-B242-A08B82B441D9">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">Police investigate a Native American woman's murder less than 10 miles from another murder scene.</desc>
+  </programme>
   <channel id="LN_86B50402-32F0-4EBF-9AF8-65DAE9C09A44">
     <display-name>Mysteria</display-name>
   </channel>
-  <programme start="20260815130823 +0000" stop="20260815133918 +0000" channel="LN_86B50402-32F0-4EBF-9AF8-65DAE9C09A44">
-    <title lang="en">Suitcase Murder</title>
-    <desc lang="en">A woman was murdered, and her body was found inside two suitcases.</desc>
-  </programme>
   <programme start="20260815133918 +0000" stop="20260815141143 +0000" channel="LN_86B50402-32F0-4EBF-9AF8-65DAE9C09A44">
     <title lang="en">Top Fan</title>
     <desc lang="en">Streamer's fans realized that her killer had actually been her most devoted fan.</desc>
@@ -805,13 +801,13 @@
     <title lang="en">Family Killer</title>
     <desc lang="en">16-year-old opened fire at home, killing four family members - was it cold-blooded murder or mental illness?</desc>
   </programme>
+  <programme start="20260815160528 +0000" stop="20260815164053 +0000" channel="LN_86B50402-32F0-4EBF-9AF8-65DAE9C09A44">
+    <title lang="en">Notorious Killer</title>
+    <desc lang="en">A notorious killer hunted down a YouTuber.</desc>
+  </programme>
   <channel id="LN_A60BF0C6-3ED5-4A10-B189-FE6864B29180">
     <display-name>Crime Scenes</display-name>
   </channel>
-  <programme start="20260815123721 +0000" stop="20260815132558 +0000" channel="LN_A60BF0C6-3ED5-4A10-B189-FE6864B29180">
-    <title lang="en">The Lake Erie Murders</title>
-    <desc lang="en">Amy's killer remains on the loose, and the case goes nationwide.</desc>
-  </programme>
   <programme start="20260815132558 +0000" stop="20260815141432 +0000" channel="LN_A60BF0C6-3ED5-4A10-B189-FE6864B29180">
     <title lang="en">The Lake Erie Murders</title>
     <desc lang="en">A twisted world surrounds the death of high school student Debbie Gama.</desc>
@@ -828,13 +824,13 @@
     <title lang="en">The Lake Erie Murders</title>
     <desc lang="en">Police investigate when a bag of body parts washes up on the lakeshore.</desc>
   </programme>
+  <programme start="20260815164015 +0000" stop="20260815172845 +0000" channel="LN_A60BF0C6-3ED5-4A10-B189-FE6864B29180">
+    <title lang="en">The Lake Erie Murders</title>
+    <desc lang="en">Small town secrets are exposed after an 11-year-old girl disappears.</desc>
+  </programme>
   <channel id="LN_70E6008B-8E98-4B80-8CE2-D721592DF1C1">
     <display-name>World's Most Evil Killers</display-name>
   </channel>
-  <programme start="20260815124100 +0000" stop="20260815133700 +0000" channel="LN_70E6008B-8E98-4B80-8CE2-D721592DF1C1">
-    <title lang="en">World's Most Evil Killers</title>
-    <desc lang="en">A fugitive from the United States murders one British police officer and tries to kill two more.</desc>
-  </programme>
   <programme start="20260815133700 +0000" stop="20260815143200 +0000" channel="LN_70E6008B-8E98-4B80-8CE2-D721592DF1C1">
     <title lang="en">World's Most Evil Killers</title>
     <desc lang="en">Jerome Brudos is a serial killer and necrophile who murdered four women in Oregon during the 1960s.</desc>
@@ -851,13 +847,13 @@
     <title lang="en">World's Most Evil Killers</title>
     <desc lang="en">A woman murders her sister after developing a deadly obsession with her brother-in-law.</desc>
   </programme>
+  <programme start="20260815171900 +0000" stop="20260815181700 +0000" channel="LN_70E6008B-8E98-4B80-8CE2-D721592DF1C1">
+    <title lang="en">World's Most Evil Killers</title>
+    <desc lang="en">Two missing mothers were linked when evidence tied Derek Brown to both their violent deaths.</desc>
+  </programme>
   <channel id="LN_7DB404D9-5CF0-414C-9A60-A05839756563">
     <display-name>Kung Fu Movies</display-name>
   </channel>
-  <programme start="20260815112600 +0000" stop="20260815132000 +0000" channel="LN_7DB404D9-5CF0-414C-9A60-A05839756563">
-    <title lang="en">The Guy with the Secret Kung Fu</title>
-    <desc lang="en">Two Ming patriots spend their days helping the weak and rescuing damsels in distress. This alum gets them in trouble, though, as they are captured and then volunteered to go after the fearsome Dragon Gang, a tribe of bandits that have been terrorizing the land</desc>
-  </programme>
   <programme start="20260815132000 +0000" stop="20260815151800 +0000" channel="LN_7DB404D9-5CF0-414C-9A60-A05839756563">
     <title lang="en">The Doll Squad</title>
     <desc lang="en">A squad of beautiful government agents chase saboteurs</desc>
@@ -873,6 +869,10 @@
   <programme start="20260815191400 +0000" stop="20260815211100 +0000" channel="LN_7DB404D9-5CF0-414C-9A60-A05839756563">
     <title lang="en">37 Plots of Kung Fu</title>
     <desc lang="en">Slow Coach and Luck Boy are two knockabout scheming orphans who were saved from a life of begging by Granny- a fierce kung fu mistress. The Leopard Fist dispatches Granny iand now Slow Coach and Lucky Boy have to step up to the plate and avenge the Granny and fight for the survival of the Xin Yi clan.</desc>
+  </programme>
+  <programme start="20260815211100 +0000" stop="20260815225900 +0000" channel="LN_7DB404D9-5CF0-414C-9A60-A05839756563">
+    <title lang="en">Enforcer From Death Row</title>
+    <desc lang="en">A death row inmate is deployed to crush a deadly spy ring</desc>
   </programme>
   <channel id="LN_E1323824-8949-45C5-B8B9-DF36E8B84232">
     <display-name>Urban Action Channel</display-name>
@@ -969,10 +969,6 @@
   <channel id="LN_30A3BFFC-A9BE-44F0-9EF4-69B96AA51F43">
     <display-name>The Dick Van Dyke Show</display-name>
   </channel>
-  <programme start="20260815125100 +0000" stop="20260815132100 +0000" channel="LN_30A3BFFC-A9BE-44F0-9EF4-69B96AA51F43">
-    <title lang="en">The Dick Van Dyke Show</title>
-    <desc lang="en">Rob feels very much the hero when he hires a maid for his overworked wife, Laura.</desc>
-  </programme>
   <programme start="20260815132100 +0000" stop="20260815135200 +0000" channel="LN_30A3BFFC-A9BE-44F0-9EF4-69B96AA51F43">
     <title lang="en">The Dick Van Dyke Show</title>
     <desc lang="en">Rob gets involved with the police when he thinks he has witnessed two crooks making their getaway.</desc>
@@ -989,13 +985,13 @@
     <title lang="en">The Dick Van Dyke Show</title>
     <desc lang="en">When a handsome bachelor moves in next door, Rob and Laura turn matchmakers.</desc>
   </programme>
+  <programme start="20260815151900 +0000" stop="20260815154900 +0000" channel="LN_30A3BFFC-A9BE-44F0-9EF4-69B96AA51F43">
+    <title lang="en">The Dick Van Dyke Show</title>
+    <desc lang="en">Laura meets her old love and discovers he has entered the priesthood.</desc>
+  </programme>
   <channel id="LN_4571DFCC-78BE-46A8-9808-E7E9A312FCC7">
     <display-name>FilmRise Classic TV</display-name>
   </channel>
-  <programme start="20260815125100 +0000" stop="20260815134800 +0000" channel="LN_4571DFCC-78BE-46A8-9808-E7E9A312FCC7">
-    <title lang="en">Bonanza</title>
-    <desc lang="en">Little Joe and Hoss seek Joe's date, who disappeared while the trio was at a carnival.</desc>
-  </programme>
   <programme start="20260815134800 +0000" stop="20260815144400 +0000" channel="LN_4571DFCC-78BE-46A8-9808-E7E9A312FCC7">
     <title lang="en">Bonanza</title>
     <desc lang="en">Bank robbers hide on a ranch that Hoss and Little Joe are visiting.</desc>
@@ -1012,13 +1008,13 @@
     <title lang="en">Death Valley Days</title>
     <desc lang="en">Robert Louis Stevenson is exploring a deserted mine with his son.</desc>
   </programme>
+  <programme start="20260815170500 +0000" stop="20260815173200 +0000" channel="LN_4571DFCC-78BE-46A8-9808-E7E9A312FCC7">
+    <title lang="en">Death Valley Days</title>
+    <desc lang="en">A rough-hewn girl transforms herself for a man.</desc>
+  </programme>
   <channel id="LN_38D9E180-1A43-439F-800D-74268C5EC966">
     <display-name>ALF</display-name>
   </channel>
-  <programme start="20260815131239 +0000" stop="20260815133545 +0000" channel="LN_38D9E180-1A43-439F-800D-74268C5EC966">
-    <title lang="en">Birdman Of Melmac</title>
-    <desc lang="en">The Shumways' pet bird Harry is dubbed a rare Melmacian species, and Harry lets the new fame go to his head.</desc>
-  </programme>
   <programme start="20260815133545 +0000" stop="20260815140251 +0000" channel="LN_38D9E180-1A43-439F-800D-74268C5EC966">
     <title lang="en">Pismo And The Orbit Gyro</title>
     <desc lang="en">The Orbit Gyro needs maintenance, resulting in its operator, a robot named Pismo, having a few screws loose.</desc>
@@ -1035,13 +1031,13 @@
     <title lang="en">Captain Bobaroo</title>
     <desc lang="en">A bump on the head has Bob Shumway thinking he is a "Captain Kangaroo"-esque TV show host.</desc>
   </programme>
+  <programme start="20260815152330 +0000" stop="20260815155029 +0000" channel="LN_38D9E180-1A43-439F-800D-74268C5EC966">
+    <title lang="en">Need At The Races</title>
+    <desc lang="en">Neep runs past a motorcycle gang and Gordon realizes that Neep has what it takes to compete in dog races.</desc>
+  </programme>
   <channel id="LN_2C7D3071-F7F4-4039-8FAB-195FA86E22B5">
     <display-name>Three Stooges+</display-name>
   </channel>
-  <programme start="20260815131250 +0000" stop="20260815133501 +0000" channel="LN_2C7D3071-F7F4-4039-8FAB-195FA86E22B5">
-    <title lang="en">Mutts To You</title>
-    <desc lang="en">The Stooges,professional dog washers,find a baby.</desc>
-  </programme>
   <programme start="20260815133501 +0000" stop="20260815135511 +0000" channel="LN_2C7D3071-F7F4-4039-8FAB-195FA86E22B5">
     <title lang="en">For Crimin' Out Loud</title>
     <desc lang="en">The Stooges are detectives hired to protect a politician.</desc>
@@ -1058,13 +1054,13 @@
     <title lang="en">Squareheads Of The Round Table</title>
     <desc lang="en">The Stooges help their friend Cedric the Blacksmith.</desc>
   </programme>
+  <programme start="20260815150032 +0000" stop="20260815152102 +0000" channel="LN_2C7D3071-F7F4-4039-8FAB-195FA86E22B5">
+    <title lang="en">Corny Casanovas</title>
+    <desc lang="en">The Stooges don't know it,but they are all engaged to the same girl.</desc>
+  </programme>
   <channel id="LN_CF478ED2-CE98-4C90-B325-62095E95CBF7">
     <display-name>The Bob Ross Channel</display-name>
   </channel>
-  <programme start="20260815125000 +0000" stop="20260815132500 +0000" channel="LN_CF478ED2-CE98-4C90-B325-62095E95CBF7">
-    <title lang="en">The Joy of Painting with Bob Ross</title>
-    <desc lang="en">Guest Artist Joyce Ortner captures the true beauty of the ocean waves, blue and enchanting in this breathtaking seascape masterpiece.</desc>
-  </programme>
   <programme start="20260815132500 +0000" stop="20260815140000 +0000" channel="LN_CF478ED2-CE98-4C90-B325-62095E95CBF7">
     <title lang="en">The Joy of Painting with Bob Ross</title>
     <desc lang="en">Bob Ross creates a proud strong windmill, standing in watch beside old farm buildings where happy little animals lay still in the night.</desc>
@@ -1081,13 +1077,13 @@
     <title lang="en">The Joy of Painting with Bob Ross</title>
     <desc lang="en">Bob Ross paints a beautiful summer scene today rushing little riverlet flowing through the luscious greenery of a cabin landscape.</desc>
   </programme>
+  <programme start="20260815154500 +0000" stop="20260815162000 +0000" channel="LN_CF478ED2-CE98-4C90-B325-62095E95CBF7">
+    <title lang="en">The Joy of Painting with Bob Ross</title>
+    <desc lang="en">Luscious green grass and fresh evergreens, purple and pink sky -- giving the water a perfect glow in this Bob Ross black canvas masterpiece.</desc>
+  </programme>
   <channel id="LN_366A93FC-968E-4242-A28E-75B470E3195B">
     <display-name>Hot Ones</display-name>
   </channel>
-  <programme start="20260815130500 +0000" stop="20260815132900 +0000" channel="LN_366A93FC-968E-4242-A28E-75B470E3195B">
-    <title lang="en">Hot Ones</title>
-    <desc lang="en">Gary Vaynerchuk discusses his goal to own a football team.</desc>
-  </programme>
   <programme start="20260815132900 +0000" stop="20260815135300 +0000" channel="LN_366A93FC-968E-4242-A28E-75B470E3195B">
     <title lang="en">Hot Ones</title>
     <desc lang="en">Artie Lange talks about Kanye West and touchdown dances.</desc>
@@ -1104,13 +1100,13 @@
     <title lang="en">Hot Ones</title>
     <desc lang="en">Wale joins 100 brave live audience members for the first-ever group dab.</desc>
   </programme>
+  <programme start="20260815151400 +0000" stop="20260815153800 +0000" channel="LN_366A93FC-968E-4242-A28E-75B470E3195B">
+    <title lang="en">Hot Ones</title>
+    <desc lang="en">Bob Saget, from his love of Johnny Carson to his resemblance to the lady on the Cholula bottle.</desc>
+  </programme>
   <channel id="LN_6F98F890-E5E7-489B-BC79-10640D57AC11">
     <display-name>America's Funniest Home Videos</display-name>
   </channel>
-  <programme start="20260815125636 +0000" stop="20260815134818 +0000" channel="LN_6F98F890-E5E7-489B-BC79-10640D57AC11">
-    <title lang="en">America’s Funniest Home Videos</title>
-    <desc lang="en">Groomsmen chased by geese, a raccoon heist, a tot with a toilet seat, and a hammock disaster.</desc>
-  </programme>
   <programme start="20260815134818 +0000" stop="20260815143955 +0000" channel="LN_6F98F890-E5E7-489B-BC79-10640D57AC11">
     <title lang="en">America’s Funniest Home Videos</title>
     <desc lang="en">Animal encounters with a monkey, seagull, and lion—plus a montage of swingset mishaps.</desc>
@@ -1126,6 +1122,10 @@
   <programme start="20260815162118 +0000" stop="20260815171305 +0000" channel="LN_6F98F890-E5E7-489B-BC79-10640D57AC11">
     <title lang="en">America’s Funniest Home Videos</title>
     <desc lang="en">Pranks with chest waxing and a snake surprise—plus dogs doing the darndest things.</desc>
+  </programme>
+  <programme start="20260815171305 +0000" stop="20260815180338 +0000" channel="LN_6F98F890-E5E7-489B-BC79-10640D57AC11">
+    <title lang="en">America’s Funniest Home Videos</title>
+    <desc lang="en">Tom Bergeron awards $100K and a Disney Cruise vacation in the biggest prize giveaway yet.</desc>
   </programme>
   <channel id="LN_00C9AEC1-8DF8-4F80-88FD-19DF47C40D53">
     <display-name>Laff More</display-name>
@@ -1153,10 +1153,6 @@
   <channel id="LN_CB5CDBE8-57CC-42D0-BED6-E5979B26EE80">
     <display-name>Mr. Bean Live Action</display-name>
   </channel>
-  <programme start="20260815130107 +0000" stop="20260815133114 +0000" channel="LN_CB5CDBE8-57CC-42D0-BED6-E5979B26EE80">
-    <title lang="en">Mr Bean</title>
-    <desc lang="en">Mr Bean has a hard time waiting his turn at the hospital.</desc>
-  </programme>
   <programme start="20260815133114 +0000" stop="20260815140331 +0000" channel="LN_CB5CDBE8-57CC-42D0-BED6-E5979B26EE80">
     <title lang="en">Mr Bean</title>
     <desc lang="en">Mr Bean has a grand day at the hairdresser's.</desc>
@@ -1173,13 +1169,13 @@
     <title lang="en">Mr Bean</title>
     <desc lang="en">Mr Bean goes to a swimming pool but finds himself terrified of the high diving board.</desc>
   </programme>
+  <programme start="20260815153248 +0000" stop="20260815160055 +0000" channel="LN_CB5CDBE8-57CC-42D0-BED6-E5979B26EE80">
+    <title lang="en">Mr Bean</title>
+    <desc lang="en">Mr Bean buys a portable television but can't get it to work properly.</desc>
+  </programme>
   <channel id="LN_61FD3E40-54BC-4E1E-9BB1-40B60DDD6662">
     <display-name>The Red Green Show</display-name>
   </channel>
-  <programme start="20260815130200 +0000" stop="20260815133000 +0000" channel="LN_61FD3E40-54BC-4E1E-9BB1-40B60DDD6662">
-    <title lang="en">The Red Green Show</title>
-    <desc lang="en">The Possum Lake area is struck by a big storm, as predicted by Old Man Sedgwick's body.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815135900 +0000" channel="LN_61FD3E40-54BC-4E1E-9BB1-40B60DDD6662">
     <title lang="en">The Red Green Show</title>
     <desc lang="en">Moose Thompson wins a home barber kit and gives out free haircuts.</desc>
@@ -1196,13 +1192,13 @@
     <title lang="en">The Red Green Show</title>
     <desc lang="en">The guys invent a candidate for "Man of the Year."</desc>
   </programme>
+  <programme start="20260815152200 +0000" stop="20260815155000 +0000" channel="LN_61FD3E40-54BC-4E1E-9BB1-40B60DDD6662">
+    <title lang="en">The Red Green Show</title>
+    <desc lang="en">Women appreciate creative input; Men appreciate silence. All bets are off when a big American network eyes the Lodge and wants to make some minor changes to the show.</desc>
+  </programme>
   <channel id="LN_5EEC076F-D640-49C0-A621-09A30D247889">
     <display-name>Always Funny</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_5EEC076F-D640-49C0-A621-09A30D247889">
-    <title lang="en">World's Funniest Videos: Top 10 Countdown</title>
-    <desc lang="en">Clips from alligator alley, to dolphin cove, big bear run, and everywhere animals roam.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_5EEC076F-D640-49C0-A621-09A30D247889">
     <title lang="en">World's Funniest Videos: Top 10 Countdown</title>
     <desc lang="en">We'll meet an itchy grizzly, an elk sniffing a hunter and a golfer who makes a hole in one squirrel.</desc>
@@ -1219,17 +1215,13 @@
     <title lang="en">Laugh It Up Countdown</title>
     <desc lang="en">Always Funny is family-friendly comedy programming from the creators of America’s Funniest Home Videos. 24/7 Laughs delivered in hilarious comedy home videos that are funny for all ages!</desc>
   </programme>
+  <programme start="20260815153000 +0000" stop="20260815160000 +0000" channel="LN_5EEC076F-D640-49C0-A621-09A30D247889">
+    <title lang="en">Laugh It Up Countdown</title>
+    <desc lang="en">Always Funny is family-friendly comedy programming from the creators of America’s Funniest Home Videos. 24/7 Laughs delivered in hilarious comedy home videos that are funny for all ages!</desc>
+  </programme>
   <channel id="LN_27B297E5-83A0-457F-B9EC-33C5A020F040">
     <display-name>FailArmy</display-name>
   </channel>
-  <programme start="20260815124700 +0000" stop="20260815131800 +0000" channel="LN_27B297E5-83A0-457F-B9EC-33C5A020F040">
-    <title lang="en">FailArmy Expectations vs. Reality</title>
-    <desc lang="en">FailArmy</desc>
-  </programme>
-  <programme start="20260815131800 +0000" stop="20260815134900 +0000" channel="LN_27B297E5-83A0-457F-B9EC-33C5A020F040">
-    <title lang="en">FailArmy Expectations vs. Reality</title>
-    <desc lang="en">What do parenthood, skydiving and staycation fails all have in common? They exceeded our expectations.</desc>
-  </programme>
   <programme start="20260815134900 +0000" stop="20260815142000 +0000" channel="LN_27B297E5-83A0-457F-B9EC-33C5A020F040">
     <title lang="en">World's Messiest Fails</title>
     <desc lang="en">Messes big and small come together to rack up a cleanup time that can only be described as huge.</desc>
@@ -1242,13 +1234,17 @@
     <title lang="en">World's Messiest Fails</title>
     <desc lang="en">Cleaning up the mess kids and dogs make.</desc>
   </programme>
+  <programme start="20260815152200 +0000" stop="20260815155300 +0000" channel="LN_27B297E5-83A0-457F-B9EC-33C5A020F040">
+    <title lang="en">World's Messiest Fails</title>
+    <desc lang="en">This holiday season, people are getting exactly what they asked for: a big old mess.</desc>
+  </programme>
+  <programme start="20260815155300 +0000" stop="20260815162500 +0000" channel="LN_27B297E5-83A0-457F-B9EC-33C5A020F040">
+    <title lang="en">FailFactory</title>
+    <desc lang="en">Failing has never been this epic.</desc>
+  </programme>
   <channel id="LN_081016AD-69A3-4236-A8A0-75391DB6F522">
     <display-name>Mystery Science Theater 3000</display-name>
   </channel>
-  <programme start="20260815114756 +0000" stop="20260815134819 +0000" channel="LN_081016AD-69A3-4236-A8A0-75391DB6F522">
-    <title lang="en">MST3K: Jack Frost</title>
-    <desc lang="en">Mike and the 'bots get terminal enchantment from Frosty (1964).</desc>
-  </programme>
   <programme start="20260815134819 +0000" stop="20260815155112 +0000" channel="LN_081016AD-69A3-4236-A8A0-75391DB6F522">
     <title lang="en">MST3K: Bloodlust!</title>
     <desc lang="en">Mike and the Bots watch a cheap ripoff of The Most Dangerous Game.</desc>
@@ -1265,17 +1261,13 @@
     <title lang="en">MST3K: The Giant Spider Invasion</title>
     <desc lang="en">Mike and the 'bots suffer through The Giant Spider Invasion (1975).</desc>
   </programme>
+  <programme start="20260815214946 +0000" stop="20260815234104 +0000" channel="LN_081016AD-69A3-4236-A8A0-75391DB6F522">
+    <title lang="en">Rifftrax: Breaker Breaker</title>
+    <desc lang="en">It's a Chuck Norris filled tale of moonshine, hillbillies, and sweet airbrushed eagles on the side of vans!</desc>
+  </programme>
   <channel id="LN_B55F1141-71F9-463B-9383-3FDF2F34B220">
     <display-name>Jamie Kennedy Comedy</display-name>
   </channel>
-  <programme start="20260815121001 +0000" stop="20260815132522 +0000" channel="LN_B55F1141-71F9-463B-9383-3FDF2F34B220">
-    <title lang="en">Stricken (R)</title>
-    <desc lang="en">College students and locals clash in a Midwestern town over the students' obsession with practical jokes. What started out as a joke has turned deadly as students start turning up lifeless.</desc>
-  </programme>
-  <programme start="20260815132522 +0000" stop="20260815135029 +0000" channel="LN_B55F1141-71F9-463B-9383-3FDF2F34B220">
-    <title lang="en">The Jamie Kennedy Experiment: S1 E13 (TV-MA)</title>
-    <desc lang="en">Jamie crashes a yoga class, then poses as a flower-shop assistant who enlists a customer to cover his escape with the boss's wife.</desc>
-  </programme>
   <programme start="20260815135029 +0000" stop="20260815155649 +0000" channel="LN_B55F1141-71F9-463B-9383-3FDF2F34B220">
     <title lang="en">Kickin' It Old Skool (PG-13)</title>
     <desc lang="en">A young breakdancer hits his head during a talent show and slips into a coma for twenty years.</desc>
@@ -1288,13 +1280,17 @@
     <title lang="en">The Jamie Kennedy Experiment: S1 E3 (TV-MA)</title>
     <desc lang="en">Jamie poses as a pizza deliverer working for the mob, hires people to be his friends at a birthday party, and tests men's determination to woo a sexy woman.</desc>
   </programme>
+  <programme start="20260815164801 +0000" stop="20260815171340 +0000" channel="LN_B55F1141-71F9-463B-9383-3FDF2F34B220">
+    <title lang="en">The Jamie Kennedy Experiment: S1 E11 (TV-MA)</title>
+    <desc lang="en">Jamie wanders to an eatery with a loud cell phone that will not stop ringing; Jamie poses as a masseuse who chants and sings while tending to customers.</desc>
+  </programme>
+  <programme start="20260815171340 +0000" stop="20260815190718 +0000" channel="LN_B55F1141-71F9-463B-9383-3FDF2F34B220">
+    <title lang="en">Café (TV-14)</title>
+    <desc lang="en">When tragedy strikes the community surrounding a cafe in West Philadelphia, the cafe's regulars come to realize how intertwined their lives truly are.</desc>
+  </programme>
   <channel id="LN_8B382916-6958-4C22-98BF-3F3CD781A4A9">
     <display-name>Just For Laughs Gags</display-name>
   </channel>
-  <programme start="20260815125000 +0000" stop="20260815132200 +0000" channel="LN_8B382916-6958-4C22-98BF-3F3CD781A4A9">
-    <title lang="en">Just for Laughs Gags</title>
-    <desc lang="en">Need a laugh? In this episode a curator naps in the casket with a corpse, motorists get their car transformed into a police cruiser, a turn-style gives a painful blow to the family jewels and an allergic cop returns a snotty driver’s ID!</desc>
-  </programme>
   <programme start="20260815132200 +0000" stop="20260815135400 +0000" channel="LN_8B382916-6958-4C22-98BF-3F3CD781A4A9">
     <title lang="en">Just for Laughs Gags</title>
     <desc lang="en">Don’t break your funny bone! In this delirious episode a cop runs 80/mph on foot, a kid is crammed into a lost and found box in an impossible position, a 3D printer prints out live copies of people and passersby are attacked by teddy bears!</desc>
@@ -1310,6 +1306,10 @@
   <programme start="20260815145400 +0000" stop="20260815152400 +0000" channel="LN_8B382916-6958-4C22-98BF-3F3CD781A4A9">
     <title lang="en">Just Kidding</title>
     <desc lang="en">Candid Camera Just Kidding</desc>
+  </programme>
+  <programme start="20260815152400 +0000" stop="20260815155400 +0000" channel="LN_8B382916-6958-4C22-98BF-3F3CD781A4A9">
+    <title lang="en">Just for Laughs Gags</title>
+    <desc lang="en">Candid camera pranks Just for Laughs Gags</desc>
   </programme>
   <channel id="LN_DFA77213-D191-4A0D-993A-54AB336FB0C3">
     <display-name>ION Television</display-name>
@@ -1429,14 +1429,6 @@
   <channel id="LN_720A158D-FCF3-4A78-B0C9-D65CB40FACE0">
     <display-name>The Bold and the Beautiful</display-name>
   </channel>
-  <programme start="20260815125309 +0000" stop="20260815131725 +0000" channel="LN_720A158D-FCF3-4A78-B0C9-D65CB40FACE0">
-    <title lang="en">The Bold And The Beautiful: Episode 6226</title>
-    <desc lang="en">Beverly refuses to back down when Amber warns her. Rick supports Hope in following her heart to Liam.</desc>
-  </programme>
-  <programme start="20260815131725 +0000" stop="20260815134141 +0000" channel="LN_720A158D-FCF3-4A78-B0C9-D65CB40FACE0">
-    <title lang="en">The Bold And The Beautiful: Episode 6227</title>
-    <desc lang="en">Bill and Katie argue over Steffy's intentions. Steffy sets up a romantic beach surprise for Thomas and Hope.</desc>
-  </programme>
   <programme start="20260815134141 +0000" stop="20260815140626 +0000" channel="LN_720A158D-FCF3-4A78-B0C9-D65CB40FACE0">
     <title lang="en">The Bold And The Beautiful: Episode 6228</title>
     <desc lang="en">Bill calls Alison to help him with his and Steffy's latest scheme. Thomas seems to make progress with Hope.</desc>
@@ -1448,6 +1440,14 @@
   <programme start="20260815143041 +0000" stop="20260815145627 +0000" channel="LN_720A158D-FCF3-4A78-B0C9-D65CB40FACE0">
     <title lang="en">The Bold And The Beautiful: Episode 6230</title>
     <desc lang="en">Katie and Liam make separate discoveries about Bill and Steffy. Steffy chase Liam on an ATV.</desc>
+  </programme>
+  <programme start="20260815145627 +0000" stop="20260815152044 +0000" channel="LN_720A158D-FCF3-4A78-B0C9-D65CB40FACE0">
+    <title lang="en">The Bold And The Beautiful: Episode 6231</title>
+    <desc lang="en">Tension rises when Liam finally catches up to Hope and Thomas. Steffy takes a frightful fall from her ATV.</desc>
+  </programme>
+  <programme start="20260815152044 +0000" stop="20260815154500 +0000" channel="LN_720A158D-FCF3-4A78-B0C9-D65CB40FACE0">
+    <title lang="en">The Bold And The Beautiful: Episode 6232</title>
+    <desc lang="en">Ridge, Taylor and Bill go to Cabo as Steffy is unconscious in a hospital. Ridge, Taylor and Thomas hold vigil.</desc>
   </programme>
   <channel id="LN_50B8EFBD-1F3B-426C-AB7E-4EA33B0A24F2">
     <display-name>Highway To Heaven</display-name>
@@ -1498,10 +1498,6 @@
   <channel id="LN_0D984558-B866-4F2E-A424-3CEE79AC0A67">
     <display-name>MagellanTV Wildest</display-name>
   </channel>
-  <programme start="20260815123634 +0000" stop="20260815133749 +0000" channel="LN_0D984558-B866-4F2E-A424-3CEE79AC0A67">
-    <title lang="en">Dawn to Dusk</title>
-    <desc lang="en">Enjoy a tropical 24 hours with creatures from tiny zooplankton to whale sharks.</desc>
-  </programme>
   <programme start="20260815133749 +0000" stop="20260815143910 +0000" channel="LN_0D984558-B866-4F2E-A424-3CEE79AC0A67">
     <title lang="en">Dawn to Dusk</title>
     <desc lang="en">Celebrate spring's arrival with creatures seeking either a dinner or a date.</desc>
@@ -1518,13 +1514,13 @@
     <title lang="en">Secrets Of Wild Australia</title>
     <desc lang="en">Animals must adapt to survive in a land of geographical contradiction.</desc>
   </programme>
+  <programme start="20260815173857 +0000" stop="20260815183907 +0000" channel="LN_0D984558-B866-4F2E-A424-3CEE79AC0A67">
+    <title lang="en">Multitudes: The Power of Numbers</title>
+    <desc lang="en">Look inside an array of ecosystems to learn why animals congregate in crowds.</desc>
+  </programme>
   <channel id="LN_D2B46CB5-9C27-49E2-A022-30B482C208AC">
     <display-name>True History</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_D2B46CB5-9C27-49E2-A022-30B482C208AC">
-    <title lang="en">American Presidents and the Rule of Law</title>
-    <desc lang="en">Exploring the roots of the presidency and presidential power as outlined in the U.S. Constitution.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_D2B46CB5-9C27-49E2-A022-30B482C208AC">
     <title lang="en">Presidential Investigations through History</title>
     <desc lang="en">Learn how we're still dealing with the fallout of famous investigations into abuses of presidential power.</desc>
@@ -1541,13 +1537,13 @@
     <title lang="en">Ordinary Lives in Revolutionary Times</title>
     <desc lang="en">Take a first look at the roles common people played in the revolution and its impact on them.</desc>
   </programme>
+  <programme start="20260815153000 +0000" stop="20260815160000 +0000" channel="LN_D2B46CB5-9C27-49E2-A022-30B482C208AC">
+    <title lang="en">Down and Out in Colonial America</title>
+    <desc lang="en">Assess the reality of urban poverty among American colonists in the 1760s.</desc>
+  </programme>
   <channel id="LN_41E6152D-2E5D-47B1-B910-6C069D7FDCD1">
     <display-name>History &amp; Warfare Now</display-name>
   </channel>
-  <programme start="20260815125444 +0000" stop="20260815135038 +0000" channel="LN_41E6152D-2E5D-47B1-B910-6C069D7FDCD1">
-    <title lang="en">WW2 Treasure Hunters</title>
-    <desc lang="en">Finds reveal a D-Day camp linked to Operation Overlord.</desc>
-  </programme>
   <programme start="20260815135038 +0000" stop="20260815144441 +0000" channel="LN_41E6152D-2E5D-47B1-B910-6C069D7FDCD1">
     <title lang="en">WW2 Treasure Hunters</title>
     <desc lang="en">Relics show hidden munitions stores in the countryside.</desc>
@@ -1564,13 +1560,13 @@
     <title lang="en">Hitler's Secret Sex Life</title>
     <desc lang="en">Connect the dots from Hitler's traumatic, abusive childhood to his psychopathy.</desc>
   </programme>
+  <programme start="20260815172442 +0000" stop="20260815181906 +0000" channel="LN_41E6152D-2E5D-47B1-B910-6C069D7FDCD1">
+    <title lang="en">Hitler's Secret Sex Life</title>
+    <desc lang="en">Investigate Hitler's controlling behaviours, which drove his partners to death.</desc>
+  </programme>
   <channel id="LN_98BB142C-3E04-4D9C-924F-A4DAD0410741">
     <display-name>Cosmic Frontiers</display-name>
   </channel>
-  <programme start="20260815131339 +0000" stop="20260815134234 +0000" channel="LN_98BB142C-3E04-4D9C-924F-A4DAD0410741">
-    <title lang="en">Space: The New Frontier</title>
-    <desc lang="en">Technology is on the brink of taking us places we have only dreamed of.</desc>
-  </programme>
   <programme start="20260815134234 +0000" stop="20260815141139 +0000" channel="LN_98BB142C-3E04-4D9C-924F-A4DAD0410741">
     <title lang="en">Space: The New Frontier</title>
     <desc lang="en">The moon is our closest celestial companion. Few have walked on her surface, but her allure remains strong.</desc>
@@ -1587,13 +1583,13 @@
     <title lang="en">Space: The New Frontier</title>
     <desc lang="en">From the beginnings of our solar system, there remain many clues to reveal its evolution.</desc>
   </programme>
+  <programme start="20260815154242 +0000" stop="20260815161348 +0000" channel="LN_98BB142C-3E04-4D9C-924F-A4DAD0410741">
+    <title lang="en">Space: The New Frontier</title>
+    <desc lang="en">In the cold, dark expanse of our solar system, beyond the asteroid belt, lie the giant planets.</desc>
+  </programme>
   <channel id="LN_DF94EDDF-F261-4ED9-8356-592D99E6A40B">
     <display-name>Historian</display-name>
   </channel>
-  <programme start="20260815131500 +0000" stop="20260815134500 +0000" channel="LN_DF94EDDF-F261-4ED9-8356-592D99E6A40B">
-    <title lang="en">Curious Traveler</title>
-    <desc lang="en">Who were the Habsburgs, Maria Theresa, Franz Joseph and Sisi? And how did they shape Vienna? What is the Ringstrasse, and why are there so many oversized, ornate public buildings dotting it? Where did Mozart perform as a 6-year-old prodigy? When and wh...</desc>
-  </programme>
   <programme start="20260815134500 +0000" stop="20260815141500 +0000" channel="LN_DF94EDDF-F261-4ED9-8356-592D99E6A40B">
     <title lang="en">Curious Traveler</title>
     <desc lang="en">This beautiful region of England is full of picture-perfect rolling hills, quaint stone cottages, sprawling country estates and that distinct Yorkshire dialect. Why are country estates named Castles and Abbeys? What is The Shambles, and how did it get ...</desc>
@@ -1610,13 +1606,13 @@
     <title lang="en">Curious Traveler</title>
     <desc lang="en">Why did the Scottish kings live in Edinburgh, and why dont we have Scottish kings anymore? Why was Edinburgh Castle built high upon on Castle Rock? Whats the connection between Edinburgh and Harry Potter? And where are the real-life inspirations for Ha...</desc>
   </programme>
+  <programme start="20260815154500 +0000" stop="20260815161500 +0000" channel="LN_DF94EDDF-F261-4ED9-8356-592D99E6A40B">
+    <title lang="en">Curious Traveler</title>
+    <desc lang="en">Why is there a stone giant holding a flame, high in the hills overlooking the town? How did silver help shape this Mexican town? Why are its streets and alleys so winding, and what happened to the Guanajuato River? What does the towns main church have ...</desc>
+  </programme>
   <channel id="LN_BF6805ED-1E7C-4D7F-8380-A8FFBEE5C4DD">
     <display-name>Telemundo Noticias Florida</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_BF6805ED-1E7C-4D7F-8380-A8FFBEE5C4DD">
-    <title lang="en">Más con Masihy</title>
-    <desc lang="en">Espacio dedicado a asuntos que afectan a la comunidad, como estafas, derechos del consumidor, y más.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_BF6805ED-1E7C-4D7F-8380-A8FFBEE5C4DD">
     <title lang="en">Más con Masihy</title>
     <desc lang="en">Espacio dedicado a asuntos que afectan a la comunidad, como estafas, derechos del consumidor, y más.</desc>
@@ -1633,13 +1629,13 @@
     <title lang="en">Acceso Total con Melina León</title>
     <desc lang="en">Las noticias de última hora, temas locales, el tiempo en Florida!</desc>
   </programme>
+  <programme start="20260815150000 +0000" stop="20260815153000 +0000" channel="LN_BF6805ED-1E7C-4D7F-8380-A8FFBEE5C4DD">
+    <title lang="en">Conectados con Daisy</title>
+    <desc lang="en">Toda la actualidad y las noticias más relevantes del sur de la Florida.</desc>
+  </programme>
   <channel id="LN_1C5A65F4-B701-4A75-A353-80CA1004D222">
     <display-name>Telemundo Noticias California</display-name>
   </channel>
-  <programme start="20260815131000 +0000" stop="20260815134500 +0000" channel="LN_1C5A65F4-B701-4A75-A353-80CA1004D222">
-    <title lang="en">6am: Noticiero Telemundo Sacramento en la Noche</title>
-    <desc lang="en">Las noticias de última hora, temas locales, el tiempo en California.</desc>
-  </programme>
   <programme start="20260815134500 +0000" stop="20260815142000 +0000" channel="LN_1C5A65F4-B701-4A75-A353-80CA1004D222">
     <title lang="en">7am: Noticiero Telemundo área de la bahía en la Noche</title>
     <desc lang="en">Las noticias de última hora, temas locales e investigaciones de impacto en el área de la bahía.</desc>
@@ -1656,13 +1652,13 @@
     <title lang="en">8:30am: Noticiero Telemundo Sacramento en la Noche</title>
     <desc lang="en">Las noticias de última hora, temas locales, el tiempo en California.</desc>
   </programme>
+  <programme start="20260815160500 +0000" stop="20260815164000 +0000" channel="LN_1C5A65F4-B701-4A75-A353-80CA1004D222">
+    <title lang="en">9am: Noticiero Telemundo San Diego en la Noche</title>
+    <desc lang="en">Las noticias de última hora, temas locales, el tiempo en California.</desc>
+  </programme>
   <channel id="LN_7F1E91C8-5A81-4BE0-8C7D-C3DC3C71F7A0">
     <display-name>Telemundo Noticias Texas</display-name>
   </channel>
-  <programme start="20260815124500 +0000" stop="20260815132000 +0000" channel="LN_7F1E91C8-5A81-4BE0-8C7D-C3DC3C71F7A0">
-    <title lang="en">7:30am: Noticiero Telemundo Dallas/Fort Worth en la Noche</title>
-    <desc lang="en">Las noticias de última hora, temas locales, el tiempo en Texas.</desc>
-  </programme>
   <programme start="20260815132000 +0000" stop="20260815135500 +0000" channel="LN_7F1E91C8-5A81-4BE0-8C7D-C3DC3C71F7A0">
     <title lang="en">8:30am: Noticiero Telemundo El Paso en la Noche</title>
     <desc lang="en">Las noticias de última hora, temas locales, el tiempo en Texas.</desc>
@@ -1679,13 +1675,13 @@
     <title lang="en">Regreso a clases: Más allá del aula</title>
     <desc lang="en">Las noticias de última hora, temas locales, el tiempo en Texas.</desc>
   </programme>
+  <programme start="20260815153000 +0000" stop="20260815160000 +0000" channel="LN_7F1E91C8-5A81-4BE0-8C7D-C3DC3C71F7A0">
+    <title lang="en">Nuestra mesa</title>
+    <desc lang="en">Las historias de inmigrantes quienes encontraron el ingrediente secreto que les dio sabor a su vida.</desc>
+  </programme>
   <channel id="LN_6FC1200A-60DC-4584-854A-B9FA15BA06F2">
     <display-name>Telemundo Noticias Noreste</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_6FC1200A-60DC-4584-854A-B9FA15BA06F2">
-    <title lang="en">Enfoque Nueva York</title>
-    <desc lang="en">Análisis de los eventos noticiosos, políticos y de asuntos públicos del área triestatal.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_6FC1200A-60DC-4584-854A-B9FA15BA06F2">
     <title lang="en">Enfoque Nueva Inglaterra</title>
     <desc lang="en">Entrevistas, debates y un análisis de los eventos más importantes de la semana.</desc>
@@ -1702,13 +1698,13 @@
     <title lang="en">Desocupar los albergues</title>
     <desc lang="en">Una iniciativa en conjunto con cientos de albergues para reducir el número de mascotas sin hogar.</desc>
   </programme>
+  <programme start="20260815153000 +0000" stop="20260815160000 +0000" channel="LN_6FC1200A-60DC-4584-854A-B9FA15BA06F2">
+    <title lang="en">Enfoque Nueva York</title>
+    <desc lang="en">Análisis de los eventos noticiosos, políticos y de asuntos públicos del área triestatal.</desc>
+  </programme>
   <channel id="LN_446FABE6-D80D-406D-9254-99DCBF06DE3D">
     <display-name>Telemundo al Dia</display-name>
   </channel>
-  <programme start="20260815124800 +0000" stop="20260815132600 +0000" channel="LN_446FABE6-D80D-406D-9254-99DCBF06DE3D">
-    <title lang="en">La mesa caliente</title>
-    <desc lang="en">Un equipo de mujeres audaces y empoderadas debate sobre los temas más controversiales.</desc>
-  </programme>
   <programme start="20260815132600 +0000" stop="20260815140500 +0000" channel="LN_446FABE6-D80D-406D-9254-99DCBF06DE3D">
     <title lang="en">Hoy día</title>
     <desc lang="en">Un espacio dedicado a promover hábitos saludables para mejorar la calidad de vida cada día.</desc>
@@ -1725,13 +1721,13 @@
     <title lang="en">Hoy día</title>
     <desc lang="en">Un espacio dedicado a promover hábitos saludables para mejorar la calidad de vida cada día.</desc>
   </programme>
+  <programme start="20260815171300 +0000" stop="20260815180000 +0000" channel="LN_446FABE6-D80D-406D-9254-99DCBF06DE3D">
+    <title lang="en">QUÉDAT: El señor de los cielos pódcast oficial</title>
+    <desc lang="en">The most trusted news source for the Hispanic community in the US, offering the most important news and the latest in entertainment and sports. Content includes shows like Al Rojo Vivo, La Mesa Caliente, Telemundo Deportes, and more.</desc>
+  </programme>
   <channel id="LN_F358A202-36D3-44EE-A4B8-E0D08CE958A7">
     <display-name>Noticias Telemundo Ahora</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_F358A202-36D3-44EE-A4B8-E0D08CE958A7">
-    <title lang="en">Las noticias de la semana AHORA</title>
-    <desc lang="en">Un resumen de las noticias más destacadas de la semana.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_F358A202-36D3-44EE-A4B8-E0D08CE958A7">
     <title lang="en">Las noticias de la semana AHORA</title>
     <desc lang="en">Un resumen de las noticias más destacadas de la semana.</desc>
@@ -1748,13 +1744,13 @@
     <title lang="en">AHORA Planeta Tierra</title>
     <desc lang="en">Se abordan la emergencia climática, los problemas que afectan al planeta y cómo solucionarlos.</desc>
   </programme>
+  <programme start="20260815153000 +0000" stop="20260815160000 +0000" channel="LN_F358A202-36D3-44EE-A4B8-E0D08CE958A7">
+    <title lang="en">AHORA Planeta Tierra</title>
+    <desc lang="en">Se abordan la emergencia climática, los problemas que afectan al planeta y cómo solucionarlos.</desc>
+  </programme>
   <channel id="LN_B116CD89-27DF-489D-B281-767172CC7985">
     <display-name>CNN Noticias</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_B116CD89-27DF-489D-B281-767172CC7985">
-    <title lang="en">CNN Noticias, tu fuente de noticias en español</title>
-    <desc lang="en">CNN Noticias ofrece las últimas noticias en español de Estados Unidos, Latinoamérica y el resto del mundo.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_B116CD89-27DF-489D-B281-767172CC7985">
     <title lang="en">CNN Noticias, tu fuente de noticias en español</title>
     <desc lang="en">CNN Noticias ofrece las últimas noticias en español de Estados Unidos, Latinoamérica y el resto del mundo.</desc>
@@ -1771,17 +1767,13 @@
     <title lang="en">CNN Noticias, tu fuente de noticias en español</title>
     <desc lang="en">CNN Noticias ofrece las últimas noticias en español de Estados Unidos, Latinoamérica y el resto del mundo.</desc>
   </programme>
+  <programme start="20260815153000 +0000" stop="20260815160000 +0000" channel="LN_B116CD89-27DF-489D-B281-767172CC7985">
+    <title lang="en">CNN Noticias, tu fuente de noticias en español</title>
+    <desc lang="en">CNN Noticias ofrece las últimas noticias en español de Estados Unidos, Latinoamérica y el resto del mundo.</desc>
+  </programme>
   <channel id="LN_2B411E4B-58F1-47FD-84A5-C8CDB543A9D8">
     <display-name>TuDiscovery</display-name>
   </channel>
-  <programme start="20260815125838 +0000" stop="20260815132443 +0000" channel="LN_2B411E4B-58F1-47FD-84A5-C8CDB543A9D8">
-    <title lang="en">Escuela de diseño con Erick Millán</title>
-    <desc lang="en">Erick diseña un espacio para Marisol que debe cumplir dos propósitos.</desc>
-  </programme>
-  <programme start="20260815132443 +0000" stop="20260815134725 +0000" channel="LN_2B411E4B-58F1-47FD-84A5-C8CDB543A9D8">
-    <title lang="en">Escuela de diseño con Erick Millán</title>
-    <desc lang="en">Erick nos enseña cómo transformar la cocina de una maestra de arte.</desc>
-  </programme>
   <programme start="20260815134725 +0000" stop="20260815141429 +0000" channel="LN_2B411E4B-58F1-47FD-84A5-C8CDB543A9D8">
     <title lang="en">Escuela de diseño con Erick Millán</title>
     <desc lang="en">Erick ayuda a una pareja que sueña con tener un oasis al aire libre.</desc>
@@ -1794,13 +1786,17 @@
     <title lang="en">Discovery Home &amp; Health presenta</title>
     <desc lang="en">Especialistas destacados abordan la diabetes de forma exhaustiva.</desc>
   </programme>
+  <programme start="20260815150535 +0000" stop="20260815153110 +0000" channel="LN_2B411E4B-58F1-47FD-84A5-C8CDB543A9D8">
+    <title lang="en">Discovery Home &amp; Health presenta</title>
+    <desc lang="en">Especialistas destacados abordan la obesidad infantil de forma exhaustiva.</desc>
+  </programme>
+  <programme start="20260815153110 +0000" stop="20260815155644 +0000" channel="LN_2B411E4B-58F1-47FD-84A5-C8CDB543A9D8">
+    <title lang="en">Discovery Home &amp; Health presenta</title>
+    <desc lang="en">Especialistas destacados abordan la osteoporosis de forma exhaustiva.</desc>
+  </programme>
   <channel id="LN_6A552BBF-F6F5-43F6-A5DB-BCE796FBCB7B">
     <display-name>Crimen</display-name>
   </channel>
-  <programme start="20260815122808 +0000" stop="20260815131939 +0000" channel="LN_6A552BBF-F6F5-43F6-A5DB-BCE796FBCB7B">
-    <title lang="en">Red de mentiras</title>
-    <desc lang="en">Una estrella deportiva traumatizada cae en una trampa por Facebook.</desc>
-  </programme>
   <programme start="20260815131939 +0000" stop="20260815140909 +0000" channel="LN_6A552BBF-F6F5-43F6-A5DB-BCE796FBCB7B">
     <title lang="en">Red de mentiras</title>
     <desc lang="en">Una adolescente se desespera cuando ve sus fotos íntimas publicadas.</desc>
@@ -1817,13 +1813,13 @@
     <title lang="en">Red de mentiras</title>
     <desc lang="en">Una veterana del ejército desaparece tras una cita acordada por internet.</desc>
   </programme>
+  <programme start="20260815163746 +0000" stop="20260815172726 +0000" channel="LN_6A552BBF-F6F5-43F6-A5DB-BCE796FBCB7B">
+    <title lang="en">Red de mentiras</title>
+    <desc lang="en">Una madre cae en una trampa por medio de los juegos sexuales en línea.</desc>
+  </programme>
   <channel id="LN_6D3A6DA6-1BB3-4746-ACA0-6BC0C2BC33DB">
     <display-name>Construcciones Asombrosas</display-name>
   </channel>
-  <programme start="20260815124009 +0000" stop="20260815133156 +0000" channel="LN_6D3A6DA6-1BB3-4746-ACA0-6BC0C2BC33DB">
-    <title lang="en">Mansiones en los árboles</title>
-    <desc lang="en">Pete construye una casa del árbol que se convertirá en un hospedaje.</desc>
-  </programme>
   <programme start="20260815133156 +0000" stop="20260815142141 +0000" channel="LN_6D3A6DA6-1BB3-4746-ACA0-6BC0C2BC33DB">
     <title lang="en">Mansiones en los árboles</title>
     <desc lang="en">Pete busca las construcciones sobre árboles más maravillosas del mundo.</desc>
@@ -1840,13 +1836,13 @@
     <title lang="en">Hogares extraños</title>
     <desc lang="en">Casas increíbles hechas con un castillo, un hospital un furgón, y más.</desc>
   </programme>
+  <programme start="20260815164421 +0000" stop="20260815173258 +0000" channel="LN_6D3A6DA6-1BB3-4746-ACA0-6BC0C2BC33DB">
+    <title lang="en">Hogares extraños</title>
+    <desc lang="en">Casas increíbles hechas con un castillo, un vagón, y la casa de un perro.</desc>
+  </programme>
   <channel id="LN_BAA7B0C1-76FD-4DDD-87EA-7034BD93028F">
     <display-name>Vidas Extremas</display-name>
   </channel>
-  <programme start="20260815123445 +0000" stop="20260815132421 +0000" channel="LN_BAA7B0C1-76FD-4DDD-87EA-7034BD93028F">
-    <title lang="en">Diesel Dave</title>
-    <desc lang="en">Heavy D envía a Diesel Dave y The Muscle a una misión secreta nocturna.</desc>
-  </programme>
   <programme start="20260815132421 +0000" stop="20260815141346 +0000" channel="LN_BAA7B0C1-76FD-4DDD-87EA-7034BD93028F">
     <title lang="en">El dúo mecánico</title>
     <desc lang="en">El equipo restaura una camioneta Chevy P30 Step Van del 73.</desc>
@@ -1863,13 +1859,13 @@
     <title lang="en">El dúo mecánico</title>
     <desc lang="en">El equipo junto a Brian Bass transformará un Ford Coupe 34 en un Hot Rod.</desc>
   </programme>
+  <programme start="20260815164259 +0000" stop="20260815173414 +0000" channel="LN_BAA7B0C1-76FD-4DDD-87EA-7034BD93028F">
+    <title lang="en">El dúo mecánico</title>
+    <desc lang="en">Los chicos construirán junto a Big Mike su primer Datsun 280Z del 75.</desc>
+  </programme>
   <channel id="LN_D2459C8C-B921-49DE-A840-8BACDF18E771">
     <display-name>Bodas+</display-name>
   </channel>
-  <programme start="20260815131349 +0000" stop="20260815133950 +0000" channel="LN_D2459C8C-B921-49DE-A840-8BACDF18E771">
-    <title lang="en">Vestido de novia: Atlanta</title>
-    <desc lang="en">Tras perder a su madre, elegir un vestido es muy difícil para Margaret.</desc>
-  </programme>
   <programme start="20260815133950 +0000" stop="20260815140550 +0000" channel="LN_D2459C8C-B921-49DE-A840-8BACDF18E771">
     <title lang="en">Vestido de novia: Atlanta</title>
     <desc lang="en">Caitlyn no quiere compartir el protagonismo mientras compra un vestido.</desc>
@@ -1886,13 +1882,13 @@
     <title lang="en">Vestido de novia: Atlanta</title>
     <desc lang="en">Lori llega a su límite con las damas de honor más groseras que ha conocido.</desc>
   </programme>
+  <programme start="20260815152353 +0000" stop="20260815154954 +0000" channel="LN_D2459C8C-B921-49DE-A840-8BACDF18E771">
+    <title lang="en">Vestido de novia: Atlanta</title>
+    <desc lang="en">El prometido de E'terica cuestiona su gusto por los vestidos de novia.</desc>
+  </programme>
   <channel id="LN_2F20DCA2-9005-4C24-9BF4-B2E2607F356F">
     <display-name>Expedientes Sobrenaturales</display-name>
   </channel>
-  <programme start="20260815122954 +0000" stop="20260815132125 +0000" channel="LN_2F20DCA2-9005-4C24-9BF4-B2E2607F356F">
-    <title lang="en">Monstruos de Alaska</title>
-    <desc lang="en">El equipo investiga un Bigfoot agresivo que vive en el agua.</desc>
-  </programme>
   <programme start="20260815132125 +0000" stop="20260815141251 +0000" channel="LN_2F20DCA2-9005-4C24-9BF4-B2E2607F356F">
     <title lang="en">Monstruos de Alaska</title>
     <desc lang="en">Antonio Ballatore construye espacios para mascotas y las personas que aman.</desc>
@@ -1908,6 +1904,10 @@
   <programme start="20260815155046 +0000" stop="20260815164007 +0000" channel="LN_2F20DCA2-9005-4C24-9BF4-B2E2607F356F">
     <title lang="en">Alienígenas en Alaska</title>
     <desc lang="en">Una pareja encuentra enormes huellas cerca del lago Nancy</desc>
+  </programme>
+  <programme start="20260815164007 +0000" stop="20260815172952 +0000" channel="LN_2F20DCA2-9005-4C24-9BF4-B2E2607F356F">
+    <title lang="en">Alienígenas en Alaska</title>
+    <desc lang="en">Una bestia legendaria ataca una cabaña en las Islas Aleutianas.</desc>
   </programme>
   <channel id="LN_433DDB79-4CA9-4EEA-BB7D-8FDF5FC788E9">
     <display-name>TMZ</display-name>
@@ -1935,10 +1935,6 @@
   <channel id="LN_A9BAC7BD-E8B0-4B2D-B290-9AF210B32B50">
     <display-name>ET</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_A9BAC7BD-E8B0-4B2D-B290-9AF210B32B50">
-    <title lang="en">Entertainment Tonight</title>
-    <desc lang="en">News and features about performers, productions and the milieu.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_A9BAC7BD-E8B0-4B2D-B290-9AF210B32B50">
     <title lang="en">Here Comes the Sun</title>
     <desc lang="en">Taking a closer look at some of the people, places, and things brought to viewers every weekend.</desc>
@@ -1955,13 +1951,13 @@
     <title lang="en">Entertainment Tonight</title>
     <desc lang="en">News and features about performers, productions and the milieu.</desc>
   </programme>
+  <programme start="20260815153000 +0000" stop="20260815163000 +0000" channel="LN_A9BAC7BD-E8B0-4B2D-B290-9AF210B32B50">
+    <title lang="en">ET Weekend</title>
+    <desc lang="en">A one-hour version of ET's broadcast on a deep coverage of the week's entertainment stories.</desc>
+  </programme>
   <channel id="LN_F18D7F32-BC3A-444E-BB73-8F5336F53EFC">
     <display-name>Inside Edition</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_F18D7F32-BC3A-444E-BB73-8F5336F53EFC">
-    <title lang="en">Inside Edition</title>
-    <desc lang="en">A syndicated news magazine includes investigative reports, interviews with newsmakers and more.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_F18D7F32-BC3A-444E-BB73-8F5336F53EFC">
     <title lang="en">Inside Edition</title>
     <desc lang="en">A syndicated news magazine includes investigative reports, interviews with newsmakers and more.</desc>
@@ -1977,6 +1973,10 @@
   <programme start="20260815150000 +0000" stop="20260815153000 +0000" channel="LN_F18D7F32-BC3A-444E-BB73-8F5336F53EFC">
     <title lang="en">Inside Edition</title>
     <desc lang="en">A syndicated news magazine includes investigative reports, interviews with newsmakers and more.</desc>
+  </programme>
+  <programme start="20260815153000 +0000" stop="20260815160000 +0000" channel="LN_F18D7F32-BC3A-444E-BB73-8F5336F53EFC">
+    <title lang="en">Caught on Camera</title>
+    <desc lang="en">Caught on Camera.</desc>
   </programme>
   <channel id="LN_B2DACF04-EB66-492A-96BE-DC13E160C5EE">
     <display-name>BuzzFeed Celeb</display-name>
@@ -2027,10 +2027,6 @@
   <channel id="LN_4B4E8CD0-637B-4CC8-A407-59A26CC06775">
     <display-name>FOX Soul</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_4B4E8CD0-637B-4CC8-A407-59A26CC06775">
-    <title lang="en">UrbanMD TV</title>
-    <desc lang="en">UrbanMD TV is the first show promoting healthy living through a multicultural lens.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_4B4E8CD0-637B-4CC8-A407-59A26CC06775">
     <title lang="en">UrbanMD TV</title>
     <desc lang="en">UrbanMD TV is the first show promoting healthy living through a multicultural lens.</desc>
@@ -2046,6 +2042,10 @@
   <programme start="20260815160000 +0000" stop="20260815170730 +0000" channel="LN_4B4E8CD0-637B-4CC8-A407-59A26CC06775">
     <title lang="en">Whitney Houston - The Greatest Love Of All</title>
     <desc lang="en">Whitney Houston, known as "Nippy," rose to fame with her legendary voice and stunning performances.</desc>
+  </programme>
+  <programme start="20260815170730 +0000" stop="20260815180955 +0000" channel="LN_4B4E8CD0-637B-4CC8-A407-59A26CC06775">
+    <title lang="en">Chaka Khan: Great Women Singers - Chaka Khan</title>
+    <desc lang="en">Chaka performs live at The Blue Note in 1993, surrounded by jazzmen, singing rare songs.</desc>
   </programme>
   <channel id="LN_F981CDC4-C3EB-4C65-8134-AB5F1920F9DC">
     <display-name>TheGrio</display-name>
@@ -2096,10 +2096,6 @@
   <channel id="LN_34BB5F8F-9AD6-45F7-A897-0A4574D5F8EC">
     <display-name>Black Enterprise Streaming Television</display-name>
   </channel>
-  <programme start="20260815125800 +0000" stop="20260815134300 +0000" channel="LN_34BB5F8F-9AD6-45F7-A897-0A4574D5F8EC">
-    <title lang="en">The Rundown with Ramon</title>
-    <desc lang="en">Matt Feierstein, president of Ever Commerce, speaks about the power of getting new customers, follow-ups, and referrals and leveraging technology to enhance and grow your business. He discusses this with Ramon Ray, publisher of ZoneofGenius.com</desc>
-  </programme>
   <programme start="20260815134300 +0000" stop="20260815141300 +0000" channel="LN_34BB5F8F-9AD6-45F7-A897-0A4574D5F8EC">
     <title lang="en">The Rundown with Ramon</title>
     <desc lang="en">No matter what kind of business you want to start, you must be intentional with every step. That's a lesson Justin Konikow, a prominent real estate broker and media producer in southwestern Ontario, Canada, has learned through his ventures in the real ...</desc>
@@ -2116,13 +2112,13 @@
     <title lang="en">The Rundown with Ramon</title>
     <desc lang="en">Getting hired in a new job can be an exciting step forward for those carving out career paths. At the same time, the journey to success can be elusive. Navigating the ins and outs of the corporate world and trying to get ahead isn’t always easy when yo...</desc>
   </programme>
+  <programme start="20260815155800 +0000" stop="20260815162900 +0000" channel="LN_34BB5F8F-9AD6-45F7-A897-0A4574D5F8EC">
+    <title lang="en">The Rundown with Ramon</title>
+    <desc lang="en">Becoming an entrepreneur is a daring and often challenging endeavor, one that many guests on The Rundown With Ramon know all too well. One of the things that makes that journey a bit less rocky is leaning on fellow entrepreneurs like Brian Hess, who re...</desc>
+  </programme>
   <channel id="LN_E8D95774-6E12-47D2-9FDF-DBE1D1652D26">
     <display-name>Bounce XL</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_E8D95774-6E12-47D2-9FDF-DBE1D1652D26">
-    <title lang="en">The Bernie Mac Show</title>
-    <desc lang="en">Stream the best in Black television, including original programming, reality TV, scripted sitcoms, dramas and more on Bounce XL.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_E8D95774-6E12-47D2-9FDF-DBE1D1652D26">
     <title lang="en">The Bernie Mac Show</title>
     <desc lang="en">Stream the best in Black television, including original programming, reality TV, scripted sitcoms, dramas and more on Bounce XL.</desc>
@@ -2139,13 +2135,13 @@
     <title lang="en">The Bernie Mac Show</title>
     <desc lang="en">Stream the best in Black television, including original programming, reality TV, scripted sitcoms, dramas and more on Bounce XL.</desc>
   </programme>
+  <programme start="20260815153000 +0000" stop="20260815160000 +0000" channel="LN_E8D95774-6E12-47D2-9FDF-DBE1D1652D26">
+    <title lang="en">The Bernie Mac Show</title>
+    <desc lang="en">Stream the best in Black television, including original programming, reality TV, scripted sitcoms, dramas and more on Bounce XL.</desc>
+  </programme>
   <channel id="LN_0FC89598-DE79-4E78-8FE8-C1AF33EBC428">
     <display-name>The Pet Collective</display-name>
   </channel>
-  <programme start="20260815131106 +0000" stop="20260815134206 +0000" channel="LN_0FC89598-DE79-4E78-8FE8-C1AF33EBC428">
-    <title lang="en">Paws VS. Claws | Food</title>
-    <desc lang="en">The dogs are hungry to face off the cats for the title of furry weight champion.</desc>
-  </programme>
   <programme start="20260815134206 +0000" stop="20260815141306 +0000" channel="LN_0FC89598-DE79-4E78-8FE8-C1AF33EBC428">
     <title lang="en">Crazy Fun Time Pet Countdown | Family First</title>
     <desc lang="en">No matter what, you know that your family has got your back!</desc>
@@ -2161,6 +2157,10 @@
   <programme start="20260815151606 +0000" stop="20260815154706 +0000" channel="LN_0FC89598-DE79-4E78-8FE8-C1AF33EBC428">
     <title lang="en">TPC Chasing More Gold</title>
     <desc lang="en">Pets from around the world leap, sprint, and tumble in this Olympic-inspired furry athlete showcase!</desc>
+  </programme>
+  <programme start="20260815154706 +0000" stop="20260815161906 +0000" channel="LN_0FC89598-DE79-4E78-8FE8-C1AF33EBC428">
+    <title lang="en">We Heart Animals | Cute and Fluffy</title>
+    <desc lang="en">Pandas, rabbits, squirrels, hamsters and more are featured in this episode.</desc>
   </programme>
   <channel id="LN_5087B07C-3542-44BF-B4BE-7E017CB3160E">
     <display-name>Dog Whisperer</display-name>
@@ -2188,10 +2188,6 @@
   <channel id="LN_4EE1B29A-0BD2-438D-B294-4EF58B916529">
     <display-name>Paws &amp; Claws</display-name>
   </channel>
-  <programme start="20260815130144 +0000" stop="20260815135004 +0000" channel="LN_4EE1B29A-0BD2-438D-B294-4EF58B916529">
-    <title lang="en">Dr. Jeff: Rocky Mountain Vet</title>
-    <desc lang="en">A micro-pig with an injured leg requires surgery that could be deadly.</desc>
-  </programme>
   <programme start="20260815135004 +0000" stop="20260815143634 +0000" channel="LN_4EE1B29A-0BD2-438D-B294-4EF58B916529">
     <title lang="en">Dr. Jeff: Rocky Mountain Vet</title>
     <desc lang="en">When a puppy is kicked in the head by a donkey, Dr. Jeff is her only hope.</desc>
@@ -2207,6 +2203,10 @@
   <programme start="20260815161224 +0000" stop="20260815170254 +0000" channel="LN_4EE1B29A-0BD2-438D-B294-4EF58B916529">
     <title lang="en">Dr. Jeff: Rocky Mountain Vet</title>
     <desc lang="en">A servicewoman asks Dr. Jeff for help with her pit bull's injured leg.</desc>
+  </programme>
+  <programme start="20260815170254 +0000" stop="20260815175029 +0000" channel="LN_4EE1B29A-0BD2-438D-B294-4EF58B916529">
+    <title lang="en">Dr. Jeff: Rocky Mountain Vet</title>
+    <desc lang="en">Dr. Jeff acts quickly to save a young dog foaming at the mouth.</desc>
   </programme>
   <channel id="LN_2F313B57-C7AE-4230-8EF0-CA6078850402">
     <display-name>Bark TV</display-name>
@@ -2257,10 +2257,6 @@
   <channel id="LN_8182FC5A-C716-40EF-86BB-9A5F84AED954">
     <display-name>Joel Osteen Network</display-name>
   </channel>
-  <programme start="20260815125525 +0000" stop="20260815132902 +0000" channel="LN_8182FC5A-C716-40EF-86BB-9A5F84AED954">
-    <title lang="en">Time To Stop Running</title>
-    <desc lang="en">God will give you grace to confront the difficult things. Beyond that giant is a new level of destiny.</desc>
-  </programme>
   <programme start="20260815132902 +0000" stop="20260815140243 +0000" channel="LN_8182FC5A-C716-40EF-86BB-9A5F84AED954">
     <title lang="en">Your Super Bloom Season</title>
     <desc lang="en">Though it rains now, a super bloom awaits. God's favor will make unseen things happen through the rain.</desc>
@@ -2276,6 +2272,10 @@
   <programme start="20260815150959 +0000" stop="20260815154313 +0000" channel="LN_8182FC5A-C716-40EF-86BB-9A5F84AED954">
     <title lang="en">Keep The Right Identity</title>
     <desc lang="en">Your environment doesn't define you. Wherever you are, you are a child of God crowned with His favor.</desc>
+  </programme>
+  <programme start="20260815154313 +0000" stop="20260815161640 +0000" channel="LN_8182FC5A-C716-40EF-86BB-9A5F84AED954">
+    <title lang="en">Mix Your Faith</title>
+    <desc lang="en">To see God's promises fulfilled, add your faith. This activates the power of His promise in your life.</desc>
   </programme>
   <channel id="LN_3BB1C077-3B27-4172-A3BB-BE577D88A3D0">
     <display-name>JLTV</display-name>
@@ -2303,10 +2303,6 @@
   <channel id="LN_C59E1BA3-BC22-4CDA-BD58-75F78895A7AF">
     <display-name>In Touch+</display-name>
   </channel>
-  <programme start="20260815130001 +0000" stop="20260815133001 +0000" channel="LN_C59E1BA3-BC22-4CDA-BD58-75F78895A7AF">
-    <title lang="en">Answers with Bayless Conley</title>
-    <desc lang="en">Lessons from Philippians - Keep Moving Forward</desc>
-  </programme>
   <programme start="20260815133001 +0000" stop="20260815140000 +0000" channel="LN_C59E1BA3-BC22-4CDA-BD58-75F78895A7AF">
     <title lang="en">Ed Young Ministries</title>
     <desc lang="en">Pastor Ed Young continues the Know Theology series with a compelling message on the doctrine of the Trinity.</desc>
@@ -2323,13 +2319,13 @@
     <title lang="en">Courage For Life: Conversations</title>
     <desc lang="en">In part 2, Ann White and Shari Rigby continue to discuss bringing faith-filled stories to life.</desc>
   </programme>
+  <programme start="20260815153002 +0000" stop="20260815154450 +0000" channel="LN_C59E1BA3-BC22-4CDA-BD58-75F78895A7AF">
+    <title lang="en">Courage For Life</title>
+    <desc lang="en">Do you believe salvation is for all people? In Romans chapter 10, Ann White shares that faith comes by hearing</desc>
+  </programme>
   <channel id="LN_EE1BDF9D-693D-44CC-98E4-4C922FE0618B">
     <display-name>Elevation Church Network</display-name>
   </channel>
-  <programme start="20260815125136 +0000" stop="20260815134340 +0000" channel="LN_EE1BDF9D-693D-44CC-98E4-4C922FE0618B">
-    <title lang="en">Hold Your Peace</title>
-    <desc lang="en">Pastor Holly Furtick teaches how to practice God-given peace when trouble feels overwhelming.</desc>
-  </programme>
   <programme start="20260815134340 +0000" stop="20260815144235 +0000" channel="LN_EE1BDF9D-693D-44CC-98E4-4C922FE0618B">
     <title lang="en">This Might Be My God Moment</title>
     <desc lang="en">Are you standing over a situation that’s too big for you? If you feel like your hope, logic, and options are at a dead end, pay attention because this might be your “my God moment.”</desc>
@@ -2345,6 +2341,10 @@
   <programme start="20260815170104 +0000" stop="20260815175847 +0000" channel="LN_EE1BDF9D-693D-44CC-98E4-4C922FE0618B">
     <title lang="en">It Still Works</title>
     <desc lang="en">Pastor Steven showed us through the life of Moses how faith often looks like taking action even while you feel full of doubt. God can do miracles when we have the courage to look our doubt in the face and do it anyway.</desc>
+  </programme>
+  <programme start="20260815175847 +0000" stop="20260815190247 +0000" channel="LN_EE1BDF9D-693D-44CC-98E4-4C922FE0618B">
+    <title lang="en">Same Lies New Loops</title>
+    <desc lang="en">The enemy loves to trap you in the same old lies: “It’s not enough” and “You’re not loved.” But God’s truth breaks the cycle. When you change what you say, you change what you see, and His presence opens a new loop of peace and hope.</desc>
   </programme>
   <channel id="LN_EF37B5DC-D83E-4E11-BD19-6018F6C92938">
     <display-name>Deal or No Deal</display-name>
@@ -2395,10 +2395,6 @@
   <channel id="LN_557B95A4-B3FA-49AC-B1FD-F594AB536B3C">
     <display-name>Fear Factor</display-name>
   </channel>
-  <programme start="20260815122951 +0000" stop="20260815132441 +0000" channel="LN_557B95A4-B3FA-49AC-B1FD-F594AB536B3C">
-    <title lang="en">Fear Factor 2.0 USA</title>
-    <desc lang="en">Four couples compete for a grand prize of $50,000.</desc>
-  </programme>
   <programme start="20260815132441 +0000" stop="20260815150522 +0000" channel="LN_557B95A4-B3FA-49AC-B1FD-F594AB536B3C">
     <title lang="en">Fear Factor 2.0 USA</title>
     <desc lang="en">In a special 2 hour Fear Factor five teams of 2 are bungeed off a cliff while tied under a helicopter.</desc>
@@ -2414,6 +2410,10 @@
   <programme start="20260815165311 +0000" stop="20260815174705 +0000" channel="LN_557B95A4-B3FA-49AC-B1FD-F594AB536B3C">
     <title lang="en">Fear Factor USA</title>
     <desc lang="en">Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+  </programme>
+  <programme start="20260815174705 +0000" stop="20260815183755 +0000" channel="LN_557B95A4-B3FA-49AC-B1FD-F594AB536B3C">
+    <title lang="en">Fear Factor 2.0 USA</title>
+    <desc lang="en">Four teams of two attempt to win $50,000.</desc>
   </programme>
   <channel id="LN_D0DF28EB-0756-4476-80C4-FD05DE2E4E09">
     <display-name>Scream Factory TV</display-name>
@@ -2441,10 +2441,6 @@
   <channel id="LN_06FFDD3B-A149-4023-8EF8-96685EB19DDE">
     <display-name>Screambox TV</display-name>
   </channel>
-  <programme start="20260815113500 +0000" stop="20260815132500 +0000" channel="LN_06FFDD3B-A149-4023-8EF8-96685EB19DDE">
-    <title lang="en">Devil Dog Hound of Hell</title>
-    <desc lang="en">Mans best friend turns out to be a family nightmare. The story centers around a suburban family and the harrowing experiences they endure from a possessed dog they innocently adopt. A household pet is conveniently killed, only to be replaced by a new d...</desc>
-  </programme>
   <programme start="20260815132500 +0000" stop="20260815151000 +0000" channel="LN_06FFDD3B-A149-4023-8EF8-96685EB19DDE">
     <title lang="en">The Dark Side Of The Moon</title>
     <desc lang="en">In 2022, a repair crew is sent to fix an orbital weapon but their spaceship malfunctions and ends up heading toward the dark side of the moon. There, in a mysterious, seemingly abandoned space shuttle, a sinister force lies in wait.</desc>
@@ -2460,6 +2456,10 @@
   <programme start="20260815185000 +0000" stop="20260815204500 +0000" channel="LN_06FFDD3B-A149-4023-8EF8-96685EB19DDE">
     <title lang="en">The Final Wish</title>
     <desc lang="en">From the creator of the Final Destination franchise comes a new tale of death. Following the passing of his father, Aaron Hammond (MICHAEL WELCH) returns to his hometown to help his devastated mother (LIN SHAYE) and to confront his past demons. Sifting...</desc>
+  </programme>
+  <programme start="20260815204500 +0000" stop="20260815221000 +0000" channel="LN_06FFDD3B-A149-4023-8EF8-96685EB19DDE">
+    <title lang="en">The White Reindeer</title>
+    <desc lang="en">The debut feature film by Finnish documentarian Erik Blomberg, this eerie and spectacularly filmed horror experience (Mondo Digital) remains a pioneering shocker of shamanism, vampirism and female sexuality: Unknowingly born a witch, a frustrated young...</desc>
   </programme>
   <channel id="LN_AFE4F17B-882F-4DFF-9014-972E16331779">
     <display-name>Dark Matter TV</display-name>
@@ -2533,10 +2533,6 @@
   <channel id="LN_93B6C05F-675F-4ED1-8FF9-942FDA693714">
     <display-name>Mysterious Worlds</display-name>
   </channel>
-  <programme start="20260815130021 +0000" stop="20260815134921 +0000" channel="LN_93B6C05F-675F-4ED1-8FF9-942FDA693714">
-    <title lang="en">Mysteries at the Museum</title>
-    <desc lang="en">Don investigates a spy, a gruesome crime spree and a legendary sea beast.</desc>
-  </programme>
   <programme start="20260815134921 +0000" stop="20260815143824 +0000" channel="LN_93B6C05F-675F-4ED1-8FF9-942FDA693714">
     <title lang="en">Mysteries at the Museum</title>
     <desc lang="en">Don examines a cryptic relic, an Arctic expedition and a nuclear accident.</desc>
@@ -2553,13 +2549,13 @@
     <title lang="en">Mysteries at the Museum</title>
     <desc lang="en">Don investigates a lottery scam, a hijacking and a ghost sighting.</desc>
   </programme>
+  <programme start="20260815170529 +0000" stop="20260815175640 +0000" channel="LN_93B6C05F-675F-4ED1-8FF9-942FDA693714">
+    <title lang="en">Mysteries at the Museum</title>
+    <desc lang="en">Don Wildman examines a flying car, a saw used in a riot and a strange fire.</desc>
+  </programme>
   <channel id="LN_E856E29A-0D9D-4250-B163-CCCCEE58E228">
     <display-name>Haunt TV</display-name>
   </channel>
-  <programme start="20260815125319 +0000" stop="20260815134445 +0000" channel="LN_E856E29A-0D9D-4250-B163-CCCCEE58E228">
-    <title lang="en">Paranormal Mysteries</title>
-    <desc lang="en">Find a shocking connection in a theatre plagued by paranormal activity.</desc>
-  </programme>
   <programme start="20260815134445 +0000" stop="20260815143507 +0000" channel="LN_E856E29A-0D9D-4250-B163-CCCCEE58E228">
     <title lang="en">Paranormal Mysteries</title>
     <desc lang="en">Listen as eerie voices call out from the cells in Alabama’s famed Pauly Jail.</desc>
@@ -2576,13 +2572,13 @@
     <title lang="en">Paranormal Mysteries</title>
     <desc lang="en">Search for the source of echoing voices and sinister shadows in an old hospital.</desc>
   </programme>
+  <programme start="20260815171049 +0000" stop="20260815173238 +0000" channel="LN_E856E29A-0D9D-4250-B163-CCCCEE58E228">
+    <title lang="en">Paranormal State</title>
+    <desc lang="en">Visit a bar where a cranky ghost named Charlie won’t stop misbehaving.</desc>
+  </programme>
   <channel id="LN_15F7FB08-92A3-4376-9096-28697AC18E2F">
     <display-name>NBC LX Home</display-name>
   </channel>
-  <programme start="20260815131600 +0000" stop="20260815134100 +0000" channel="LN_15F7FB08-92A3-4376-9096-28697AC18E2F">
-    <title lang="en">Open House</title>
-    <desc lang="en">Exploring the best of Malibu living.</desc>
-  </programme>
   <programme start="20260815134100 +0000" stop="20260815140600 +0000" channel="LN_15F7FB08-92A3-4376-9096-28697AC18E2F">
     <title lang="en">Open House</title>
     <desc lang="en">A trippy Brooklyn funhouse; designer Craig Wright's stylish Spanish colonial.</desc>
@@ -2599,13 +2595,13 @@
     <title lang="en">Open House</title>
     <desc lang="en">Getting an inside look at an ultra-modern homage to Italy's Amalfi Coast.</desc>
   </programme>
+  <programme start="20260815152100 +0000" stop="20260815154600 +0000" channel="LN_15F7FB08-92A3-4376-9096-28697AC18E2F">
+    <title lang="en">Open House</title>
+    <desc lang="en">Taking a closer look at midcentury modern reimagined with architect Paul McClean.</desc>
+  </programme>
   <channel id="LN_1C9943C5-A055-4CEB-9ED4-A184056D102F">
     <display-name>Gusto TV</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_1C9943C5-A055-4CEB-9ED4-A184056D102F">
-    <title lang="en">Watts on the Grill</title>
-    <desc lang="en">Gusto TV is the world's most innovative linear food TV channel. We deliver a diverse mix of inspiring programming that resonates globally.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_1C9943C5-A055-4CEB-9ED4-A184056D102F">
     <title lang="en">Watts on the Grill</title>
     <desc lang="en">Gusto TV is the world's most innovative linear food TV channel. We deliver a diverse mix of inspiring programming that resonates globally.</desc>
@@ -2619,6 +2615,10 @@
     <desc lang="en">Gusto TV is the world's most innovative linear food TV channel. We deliver a diverse mix of inspiring programming that resonates globally.</desc>
   </programme>
   <programme start="20260815150000 +0000" stop="20260815153000 +0000" channel="LN_1C9943C5-A055-4CEB-9ED4-A184056D102F">
+    <title lang="en">Watts on the Grill</title>
+    <desc lang="en">Gusto TV is the world's most innovative linear food TV channel. We deliver a diverse mix of inspiring programming that resonates globally.</desc>
+  </programme>
+  <programme start="20260815153000 +0000" stop="20260815160000 +0000" channel="LN_1C9943C5-A055-4CEB-9ED4-A184056D102F">
     <title lang="en">Watts on the Grill</title>
     <desc lang="en">Gusto TV is the world's most innovative linear food TV channel. We deliver a diverse mix of inspiring programming that resonates globally.</desc>
   </programme>
@@ -2671,10 +2671,6 @@
   <channel id="LN_6BA20EC9-8180-40F7-93B4-8B155693990D">
     <display-name>Tastemade</display-name>
   </channel>
-  <programme start="20260815130011 +0000" stop="20260815133011 +0000" channel="LN_6BA20EC9-8180-40F7-93B4-8B155693990D">
-    <title lang="en">Hardcore Carnivore</title>
-    <desc lang="en">Jess visits the East Foundation in South Texas to participate in a fast-paced, yet methodical deer capture.</desc>
-  </programme>
   <programme start="20260815133011 +0000" stop="20260815140006 +0000" channel="LN_6BA20EC9-8180-40F7-93B4-8B155693990D">
     <title lang="en">Hardcore Carnivore</title>
     <desc lang="en">Jess shares butchery techniques of axis deer and prepares a delicious backstrap grilled over live fire.</desc>
@@ -2690,6 +2686,10 @@
   <programme start="20260815150004 +0000" stop="20260815153004 +0000" channel="LN_6BA20EC9-8180-40F7-93B4-8B155693990D">
     <title lang="en">Barbecue: Smoke Out</title>
     <desc lang="en">Noah and Kev make a Crawfish Boil; Smoked Crab Legs; Grilled Rainbow Trout; and Red Beans &amp; Rice.</desc>
+  </programme>
+  <programme start="20260815153004 +0000" stop="20260815160014 +0000" channel="LN_6BA20EC9-8180-40F7-93B4-8B155693990D">
+    <title lang="en">Barbecue: Smoke Out</title>
+    <desc lang="en">We’re cooking Beef Ribs, Fried Ribs, Smoked Ribs, Grilled Ribs and even Dirty Cabbage.</desc>
   </programme>
   <channel id="LN_780105BB-7865-4123-BEA6-6E42B1846BD3">
     <display-name>Tasty</display-name>
@@ -2717,10 +2717,6 @@
   <channel id="LN_89414FA1-1452-4D60-9739-E00ECF43B9D6">
     <display-name>Welcome Home</display-name>
   </channel>
-  <programme start="20260815130033 +0000" stop="20260815134812 +0000" channel="LN_89414FA1-1452-4D60-9739-E00ECF43B9D6">
-    <title lang="en">Tanked</title>
-    <desc lang="en">Appliance store owners in NY want a refrigerator turned into an aquarium.</desc>
-  </programme>
   <programme start="20260815134812 +0000" stop="20260815143451 +0000" channel="LN_89414FA1-1452-4D60-9739-E00ECF43B9D6">
     <title lang="en">Tanked</title>
     <desc lang="en">Wayde and Brett promise to make a tank that functions as a pinball machine.</desc>
@@ -2737,13 +2733,13 @@
     <title lang="en">Tanked</title>
     <desc lang="en">The guys talk about their favorite tanks, fish and pranks from Season 1.</desc>
   </programme>
+  <programme start="20260815165715 +0000" stop="20260815174454 +0000" channel="LN_89414FA1-1452-4D60-9739-E00ECF43B9D6">
+    <title lang="en">Tanked</title>
+    <desc lang="en">The guys must do a marquee tank in San Diego and a jellyfish tank in Vegas.</desc>
+  </programme>
   <channel id="LN_D5C1BF5E-4AA7-46FE-AB62-1F04C5607C51">
     <display-name>Homeful</display-name>
   </channel>
-  <programme start="20260815125330 +0000" stop="20260815134700 +0000" channel="LN_D5C1BF5E-4AA7-46FE-AB62-1F04C5607C51">
-    <title lang="en">Backroad Bounty</title>
-    <desc lang="en">Strike gold with a classic car, hit a yard sale, and assess a family collection.</desc>
-  </programme>
   <programme start="20260815134700 +0000" stop="20260815144030 +0000" channel="LN_D5C1BF5E-4AA7-46FE-AB62-1F04C5607C51">
     <title lang="en">Backroad Bounty</title>
     <desc lang="en">Search for valuable junk in a 17-acre scrapyard and vintage finds in a bunkie.</desc>
@@ -2759,6 +2755,10 @@
   <programme start="20260815162628 +0000" stop="20260815172104 +0000" channel="LN_D5C1BF5E-4AA7-46FE-AB62-1F04C5607C51">
     <title lang="en">Holmes on Homes</title>
     <desc lang="en">Flush away the rubble of two terrible, unfinished accessible bathroom renos.</desc>
+  </programme>
+  <programme start="20260815172104 +0000" stop="20260815181530 +0000" channel="LN_D5C1BF5E-4AA7-46FE-AB62-1F04C5607C51">
+    <title lang="en">Holmes on Homes</title>
+    <desc lang="en">Hum along as a country-singing guest star helps Mike make this kitchen right.</desc>
   </programme>
   <channel id="LN_65A8075F-6E33-489C-9EA5-BC969730DF27">
     <display-name>Tastemade Home</display-name>
@@ -2809,14 +2809,6 @@
   <channel id="LN_0533EDE3-0FB3-444E-8AEB-D7307D4EB5FA">
     <display-name>How To</display-name>
   </channel>
-  <programme start="20260815125917 +0000" stop="20260815132310 +0000" channel="LN_0533EDE3-0FB3-444E-8AEB-D7307D4EB5FA">
-    <title lang="en">How Do They Do It?</title>
-    <desc lang="en">Robots that can assemble a car in a minute are built by humans.</desc>
-  </programme>
-  <programme start="20260815132310 +0000" stop="20260815134703 +0000" channel="LN_0533EDE3-0FB3-444E-8AEB-D7307D4EB5FA">
-    <title lang="en">How Do They Do It?</title>
-    <desc lang="en">Workers produce the giant propellers that push the world's biggest ships.</desc>
-  </programme>
   <programme start="20260815134703 +0000" stop="20260815141059 +0000" channel="LN_0533EDE3-0FB3-444E-8AEB-D7307D4EB5FA">
     <title lang="en">How Do They Do It?</title>
     <desc lang="en">Workers blast through solid rock beneath a South African city.</desc>
@@ -2828,6 +2820,14 @@
   <programme start="20260815143452 +0000" stop="20260815145845 +0000" channel="LN_0533EDE3-0FB3-444E-8AEB-D7307D4EB5FA">
     <title lang="en">How Do They Do It?</title>
     <desc lang="en">Explosive rockets are used to catch planes in mid-air.</desc>
+  </programme>
+  <programme start="20260815145845 +0000" stop="20260815152238 +0000" channel="LN_0533EDE3-0FB3-444E-8AEB-D7307D4EB5FA">
+    <title lang="en">How Do They Do It?</title>
+    <desc lang="en">Workers maintain the biggest aquarium on the planet.</desc>
+  </programme>
+  <programme start="20260815152238 +0000" stop="20260815154631 +0000" channel="LN_0533EDE3-0FB3-444E-8AEB-D7307D4EB5FA">
+    <title lang="en">How Do They Do It?</title>
+    <desc lang="en">Dirt is used to put the stainless in stainless steel.</desc>
   </programme>
   <channel id="LN_D2DC3D4D-2ACF-475A-A254-0016D18F3BF0">
     <display-name>At the Movies</display-name>
@@ -2855,10 +2855,6 @@
   <channel id="LN_BB4BC900-1313-4711-8483-9DB687F4AE5E">
     <display-name>Shout! TV</display-name>
   </channel>
-  <programme start="20260815123423 +0000" stop="20260815134818 +0000" channel="LN_BB4BC900-1313-4711-8483-9DB687F4AE5E">
-    <title lang="en">The Johnny Carson Show</title>
-    <desc lang="en">It's a comedy fan's heaven when Dom Deluise and Don Rickles head to the couch.</desc>
-  </programme>
   <programme start="20260815134818 +0000" stop="20260815144243 +0000" channel="LN_BB4BC900-1313-4711-8483-9DB687F4AE5E">
     <title lang="en">The Johnny Carson Show</title>
     <desc lang="en">Brenner jokes about music from India, chewing gum with liquid centers, and his favorite restaurant: IHOP.</desc>
@@ -2874,6 +2870,10 @@
   <programme start="20260815170028 +0000" stop="20260815175710 +0000" channel="LN_BB4BC900-1313-4711-8483-9DB687F4AE5E">
     <title lang="en">The Johnny Carson Show</title>
     <desc lang="en">Keenan Ivory Wayans recalls how his first appearance on the show, in 1986, was the highlight of his career.</desc>
+  </programme>
+  <programme start="20260815175710 +0000" stop="20260815185940 +0000" channel="LN_BB4BC900-1313-4711-8483-9DB687F4AE5E">
+    <title lang="en">The Best Of The Carol Burnett Show</title>
+    <desc lang="en">As The Oldest Conductor, Tim Conway leads the Sydney Orchestra.</desc>
   </programme>
   <channel id="LN_81229C1A-6D45-43AB-8E20-6991B800F08D">
     <display-name>Shout! Movies</display-name>
@@ -3039,10 +3039,6 @@
   <channel id="LN_B7688A14-B68F-4A9B-8857-28A584CCB016">
     <display-name>PBS Nature</display-name>
   </channel>
-  <programme start="20260815124400 +0000" stop="20260815134300 +0000" channel="LN_B7688A14-B68F-4A9B-8857-28A584CCB016">
-    <title lang="en">Equus: Story of the Horse</title>
-    <desc lang="en">How humans saved the wild horse from extinction and how mankind created over four hundred specialized breeds over time.</desc>
-  </programme>
   <programme start="20260815134300 +0000" stop="20260815145100 +0000" channel="LN_B7688A14-B68F-4A9B-8857-28A584CCB016">
     <title lang="en">Nature</title>
     <desc lang="en">Cinematographer Wolfgang Bayer compares mustangs with the settling of North America.</desc>
@@ -3059,13 +3055,13 @@
     <title lang="en">Nature</title>
     <desc lang="en">Cloud, the wild white stallion now in his prime, rules Arrowhead Mountain in Montana.</desc>
   </programme>
+  <programme start="20260815175600 +0000" stop="20260815185700 +0000" channel="LN_B7688A14-B68F-4A9B-8857-28A584CCB016">
+    <title lang="en">Nature</title>
+    <desc lang="en">The relationship between a horse and rider depends on understanding the animal, building trust, communication and working in unison.</desc>
+  </programme>
   <channel id="LN_600378AB-319C-4603-AA65-DD647279C634">
     <display-name>Love Nature</display-name>
   </channel>
-  <programme start="20260815130523 +0000" stop="20260815133737 +0000" channel="LN_600378AB-319C-4603-AA65-DD647279C634">
-    <title lang="en">Wild Dogs: Running with the Pack</title>
-    <desc lang="en">Predators, noisy neighbours and dwindling resources threaten the curious pups.</desc>
-  </programme>
   <programme start="20260815133737 +0000" stop="20260815140952 +0000" channel="LN_600378AB-319C-4603-AA65-DD647279C634">
     <title lang="en">Wild Dogs: Running with the Pack</title>
     <desc lang="en">Evade lions, leopards and hyenas and retreat from charging elephants.</desc>
@@ -3082,13 +3078,13 @@
     <title lang="en">Land Of Gremlins</title>
     <desc lang="en">See how these endangered primates survive against all odds in a rapidly shrinking habitat.</desc>
   </programme>
+  <programme start="20260815161519 +0000" stop="20260815171413 +0000" channel="LN_600378AB-319C-4603-AA65-DD647279C634">
+    <title lang="en">Land Of Gremlins</title>
+    <desc lang="en">See how Madagascar’s diverse landscapes influence plant and animal evolution.</desc>
+  </programme>
   <channel id="LN_4D513963-AE23-4455-8E8F-D6E4FD90B3F1">
     <display-name>Waypoint TV</display-name>
   </channel>
-  <programme start="20260815130001 +0000" stop="20260815133001 +0000" channel="LN_4D513963-AE23-4455-8E8F-D6E4FD90B3F1">
-    <title lang="en">Beyond The Surface</title>
-    <desc lang="en">Today, Capt. Danny is joined by his son Dillan for a plug-filled day in their local waters of Cedar Key, FL!</desc>
-  </programme>
   <programme start="20260815133001 +0000" stop="20260815140000 +0000" channel="LN_4D513963-AE23-4455-8E8F-D6E4FD90B3F1">
     <title lang="en">Captain's Log</title>
     <desc lang="en">Capt. Jonathan Moss is in Florida’s Big Bend, inshore fishing the Negative Low Tide on an Airboat!</desc>
@@ -3104,6 +3100,10 @@
   <programme start="20260815150001 +0000" stop="20260815153000 +0000" channel="LN_4D513963-AE23-4455-8E8F-D6E4FD90B3F1">
     <title lang="en">The Green Way Outdoors</title>
     <desc lang="en">The Green Way team continue their African journey with hunts for both the majestic Kudu and elusive Golden Wildebeest. The experience comes full circle when the meat from these animals is donated to local schoolchildren, who receive not only fresh meals but also school supplies and sweets that light up the village.</desc>
+  </programme>
+  <programme start="20260815153000 +0000" stop="20260815160001 +0000" channel="LN_4D513963-AE23-4455-8E8F-D6E4FD90B3F1">
+    <title lang="en">Wildbound by Forloh</title>
+    <desc lang="en">In part 2 of the British episodes, Andy visits the majestic land of Scotland. Here he is introduced to Scottish deer stalking, a type of hunting that is full of history and etiquette. He hunts ‘monarch’ stags and goes into the Atlantic waters to find some of the freshest shellfish on the planet which he, and Mike Robinson cook and eat. Concluding the British episodes in a place as wild as Scotland really sets the tone for the series.</desc>
   </programme>
   <channel id="LN_23F40B93-4CDF-46AC-A617-60935E7562CC">
     <display-name>Outdoor America</display-name>
@@ -3131,10 +3131,6 @@
   <channel id="LN_91FC1DC5-E691-4ACC-811C-F3B6F70F2A9C">
     <display-name>Wired2Fish</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_91FC1DC5-E691-4ACC-811C-F3B6F70F2A9C">
-    <title lang="en">Hank Parker Fishing - Lake Monticello</title>
-    <desc lang="en">Hank Parker goes after the fish on Lake Monticello with friend Bobby Williams.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_91FC1DC5-E691-4ACC-811C-F3B6F70F2A9C">
     <title lang="en">Hank Parker: High School Bassin'</title>
     <desc lang="en">Hank sets out with two next-generation fishermen... high schoolers with a hunger for the outdoors. He shares his tricks of the trade as he &amp; his young friends land some big bass using a variety baits.</desc>
@@ -3151,13 +3147,13 @@
     <title lang="en">Hank Parker Outdoors: Big Bass at Rockhouse Farms</title>
     <desc lang="en">Hank and close friend/business partner, Keith Kelly return to Hank's premiere signature lake.</desc>
   </programme>
+  <programme start="20260815153000 +0000" stop="20260815160000 +0000" channel="LN_91FC1DC5-E691-4ACC-811C-F3B6F70F2A9C">
+    <title lang="en">Hank Parker Outdoors: 'Pitching' for bass</title>
+    <desc lang="en">Fom South Carolina to Texas, today's show covers 1,500 miles of bass fishing &amp; baseball fun. Hank's grandson pitcher, Alec takes a break from sports camp to join "pawpaw."</desc>
+  </programme>
   <channel id="LN_02C8D91A-6765-48BC-BC15-8BC069E88062">
     <display-name>Pursuit Up</display-name>
   </channel>
-  <programme start="20260815123000 +0000" stop="20260815133000 +0000" channel="LN_02C8D91A-6765-48BC-BC15-8BC069E88062">
-    <title lang="en">Lake Don Pedro Bass Tournament</title>
-    <desc lang="en">We Deliver The Outdoors.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_02C8D91A-6765-48BC-BC15-8BC069E88062">
     <title lang="en">Pursuit UP Presents: Reel Animals 08/03/26</title>
     <desc lang="en">Pursuit UP Presents: Reel Animals 08/03/26.</desc>
@@ -3174,17 +3170,13 @@
     <title lang="en">stealthcam and garmin</title>
     <desc lang="en">Season 21, Episode 03.</desc>
   </programme>
+  <programme start="20260815153000 +0000" stop="20260815160000 +0000" channel="LN_02C8D91A-6765-48BC-BC15-8BC069E88062">
+    <title lang="en">Hunting Black Roe Deer In Germany</title>
+    <desc lang="en">We Deliver The Outdoors.</desc>
+  </programme>
   <channel id="LN_C34083CA-9A5E-4ED4-AB94-61145D1E3496">
     <display-name>Skull Bound TV</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815132300 +0000" channel="LN_C34083CA-9A5E-4ED4-AB94-61145D1E3496">
-    <title lang="en">Hunting is Conservation</title>
-    <desc lang="en">Join host and skull artist Jana Waller as she takes viewers on hunting and fishing adventures across the globe, featuring breathtaking scenery and incredible wildlife.</desc>
-  </programme>
-  <programme start="20260815132300 +0000" stop="20260815134900 +0000" channel="LN_C34083CA-9A5E-4ED4-AB94-61145D1E3496">
-    <title lang="en">Benghazi Hero's First Elk Hunt</title>
-    <desc lang="en">Join host and skull artist Jana Waller as she takes viewers on hunting and fishing adventures across the globe, featuring breathtaking scenery and incredible wildlife.</desc>
-  </programme>
   <programme start="20260815134900 +0000" stop="20260815141200 +0000" channel="LN_C34083CA-9A5E-4ED4-AB94-61145D1E3496">
     <title lang="en">Utah Elk Hunt with Corey Garmen</title>
     <desc lang="en">Join host and skull artist Jana Waller as she takes viewers on hunting and fishing adventures across the globe, featuring breathtaking scenery and incredible wildlife.</desc>
@@ -3197,13 +3189,17 @@
     <title lang="en">Texas Trifecta 1</title>
     <desc lang="en">Join host and skull artist Jana Waller as she takes viewers on hunting and fishing adventures across the globe, featuring breathtaking scenery and incredible wildlife.</desc>
   </programme>
+  <programme start="20260815145700 +0000" stop="20260815151500 +0000" channel="LN_C34083CA-9A5E-4ED4-AB94-61145D1E3496">
+    <title lang="en">Idaho Spring Bear 1</title>
+    <desc lang="en">Join host and skull artist Jana Waller as she takes viewers on hunting and fishing adventures across the globe, featuring breathtaking scenery and incredible wildlife.</desc>
+  </programme>
+  <programme start="20260815151500 +0000" stop="20260815153800 +0000" channel="LN_C34083CA-9A5E-4ED4-AB94-61145D1E3496">
+    <title lang="en">Black Bear Gone Grizzly</title>
+    <desc lang="en">Join host and skull artist Jana Waller as she takes viewers on hunting and fishing adventures across the globe, featuring breathtaking scenery and incredible wildlife.</desc>
+  </programme>
   <channel id="LN_300BF733-923B-4966-9678-9C4FBDEEF75A">
     <display-name>Game &amp; Fish TV</display-name>
   </channel>
-  <programme start="20260815125718 +0000" stop="20260815132828 +0000" channel="LN_300BF733-923B-4966-9678-9C4FBDEEF75A">
-    <title lang="en">The Obsession of Carter Andrews</title>
-    <desc lang="en">Carter's Obsession off Isla Secas, Panama, seeking Sprague's first black marlin; both recall Jose Wejebe.</desc>
-  </programme>
   <programme start="20260815132828 +0000" stop="20260815135936 +0000" channel="LN_300BF733-923B-4966-9678-9C4FBDEEF75A">
     <title lang="en">The Obsession of Carter Andrews</title>
     <desc lang="en">Cape Cod Roadtrip! Carter hooks up Seavee boat, Merury and Raymarine, drives from Florida to chase albacore.</desc>
@@ -3220,13 +3216,13 @@
     <title lang="en">Ultimate Match Fishing</title>
     <desc lang="en">Wesley Strader goes head-to-head against David Walker for a spot in the UMF semifinals.</desc>
   </programme>
+  <programme start="20260815153034 +0000" stop="20260815160053 +0000" channel="LN_300BF733-923B-4966-9678-9C4FBDEEF75A">
+    <title lang="en">Ultimate Match Fishing</title>
+    <desc lang="en">Former Champion Dave Lefebre battles Spencer Shuffield on Kentucky Lake.</desc>
+  </programme>
   <channel id="LN_83509CB7-5277-4C09-AB5E-7CCF2CD3B1DF">
     <display-name>H2O TV</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_83509CB7-5277-4C09-AB5E-7CCF2CD3B1DF">
-    <title lang="en">Water Ways TV Ep201: Vancouver Island – Canada</title>
-    <desc lang="en">Water Ways TV host Steven Bull checks out Vancouver Island, from deep sea fishing to inland lakes with a special appearance by the Canadian Forces Snowbirds.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815143000 +0000" channel="LN_83509CB7-5277-4C09-AB5E-7CCF2CD3B1DF">
     <title lang="en">Liquid Edge Ep104</title>
     <desc lang="en">Liquid Edge is surfing barrels on Hawaii’s North Shore, making friends with sharks, enjoying epic waterfalls in Mexico, traveling to Indonesia with professional surfers, hanging ten with one of longboarding’s beauties...and it’s not surfing if you aren’t getting slammed, plus plenty more on Liquid Edge.</desc>
@@ -3243,13 +3239,13 @@
     <title lang="en">World of Watersports Ep317: Whitewater Kayaking - Arctic Circle, Norway</title>
     <desc lang="en">German extreme kayaking superstar Adrian Mattern sets out together with a team of four to explore the whitewater treasures of Northern Norway at the Arctic Circle.</desc>
   </programme>
+  <programme start="20260815160000 +0000" stop="20260815163000 +0000" channel="LN_83509CB7-5277-4C09-AB5E-7CCF2CD3B1DF">
+    <title lang="en">Water Matters Ep103: Plastics &amp; Pollution</title>
+    <desc lang="en">Water Matters documents water-related environmental issues from around the globe as a number of the world’s best documentary filmmakers and environmental organizations share their stories regarding the planet’s water crisis as well as potential solutions for a healthier world.</desc>
+  </programme>
   <channel id="LN_F67E869E-CCB4-49A8-973F-90A601DBA0DB">
     <display-name>American Stories Network</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_F67E869E-CCB4-49A8-973F-90A601DBA0DB">
-    <title lang="en">All Stars</title>
-    <desc lang="en">With a successful mission under their belts, the team of All Stars can relax and enjoy a day of diving.. or so they thought. The CIA is calling the team back into action for a VBSS mission to secure deadly poisons that are inbound for civilians. If the team thought the previous mission was challenging, this one makes it look like a cake walk. The All Stars must call upon all their training thus far to make it through this mission, when an unknown element threatens to jeopardize it and them.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_F67E869E-CCB4-49A8-973F-90A601DBA0DB">
     <title lang="en">Surviving Mann</title>
     <desc lang="en">Season 3 of Surviving Mann starts with no time wasted... straight to PT. The contestants are thrown straight into physical training, to determine where everyone lies and how to properly group them into the iconic Black and Blue Surviving Mann teams. From Olympic athletes to cast favorites, these eight competitors are ready to prove what they’ve got.</desc>
@@ -3266,13 +3262,13 @@
     <title lang="en">Aftermath</title>
     <desc lang="en">Aftermath hosts Chris and Cindy sit down with contestants Caleb and Jen to discuss one of the hardest days in Surviving Mann history. Caleb gives insight on his tug of war strategy.. which took inspiration from an unusual source. Next, Dr. Jeff West gives us the scoop about his life changing product. In the same vein, Eric from Nutrient Survival goes over what his company is doing for soldiers and civilians alike.</desc>
   </programme>
+  <programme start="20260815153000 +0000" stop="20260815160000 +0000" channel="LN_F67E869E-CCB4-49A8-973F-90A601DBA0DB">
+    <title lang="en">Surviving Mann</title>
+    <desc lang="en">Still reeling from a mission briefing from the CIA, the contestants are thrown into a punishment for breaking protocol. It’s safe to say the contestants are having a sobering morning. However, the contestants are given a minor reprieve when Don assigns them to some stretch PT to give them a break before the ropes course gauntlet in the afternoon.</desc>
+  </programme>
   <channel id="LN_A7FA55BD-F771-46DA-B7A0-B974DA61DF21">
     <display-name>BuzzFeed Unsolved</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_A7FA55BD-F771-46DA-B7A0-B974DA61DF21">
-    <title lang="en">BuzzFeed Unsolved: True Crime</title>
-    <desc lang="en">In this season premiere, Ryan and Shane finally take on the most infamous serial killer of all time.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_A7FA55BD-F771-46DA-B7A0-B974DA61DF21">
     <title lang="en">BuzzFeed Unsolved: True Crime</title>
     <desc lang="en">Ryan and Shane investigate The Gardner Heist, one of the world’s most baffling mysteries.</desc>
@@ -3289,13 +3285,13 @@
     <title lang="en">BuzzFeed Unsolved: True Crime</title>
     <desc lang="en">Ryan and Shane discuss the details surrounding the death of “town bully” Ken Rex McEllory in 1981.</desc>
   </programme>
+  <programme start="20260815160000 +0000" stop="20260815170000 +0000" channel="LN_A7FA55BD-F771-46DA-B7A0-B974DA61DF21">
+    <title lang="en">BuzzFeed Unsolved: True Crime</title>
+    <desc lang="en">Ryan and Shane delve into the theories surrounding the murder of actor William Desmond Taylor in 1922.</desc>
+  </programme>
   <channel id="LN_6ECC1D39-703F-46D1-8241-224BE936396C">
     <display-name>Unique Lives</display-name>
   </channel>
-  <programme start="20260815130116 +0000" stop="20260815134951 +0000" channel="LN_6ECC1D39-703F-46D1-8241-224BE936396C">
-    <title lang="en">Gypsy Sisters</title>
-    <desc lang="en">The sisters prepare for Christmas festivities, and Mellie has a secret.</desc>
-  </programme>
   <programme start="20260815134951 +0000" stop="20260815143825 +0000" channel="LN_6ECC1D39-703F-46D1-8241-224BE936396C">
     <title lang="en">Gypsy Sisters</title>
     <desc lang="en">Nettie and Kayla collide in an all-out gypsy fight.</desc>
@@ -3312,13 +3308,13 @@
     <title lang="en">Gypsy Sisters</title>
     <desc lang="en">A fight erupts between Mellie's boyfriend and father of her second child.</desc>
   </programme>
+  <programme start="20260815171010 +0000" stop="20260815180045 +0000" channel="LN_6ECC1D39-703F-46D1-8241-224BE936396C">
+    <title lang="en">Gypsy Sisters</title>
+    <desc lang="en">Nettie meets with Sheena to lay the family feud to rest.</desc>
+  </programme>
   <channel id="LN_6CFBAEF4-1219-48A1-8226-003FF3381BEF">
     <display-name>Judge Judy</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_6CFBAEF4-1219-48A1-8226-003FF3381BEF">
-    <title lang="en">Judge Judy</title>
-    <desc lang="en">Man sells sister's car without permission; feuding divorcees.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_6CFBAEF4-1219-48A1-8226-003FF3381BEF">
     <title lang="en">Judge Judy</title>
     <desc lang="en">Vandalized car; landlord's error.</desc>
@@ -3335,13 +3331,13 @@
     <title lang="en">Judge Judy</title>
     <desc lang="en">Returned engagement ring.</desc>
   </programme>
+  <programme start="20260815153000 +0000" stop="20260815160000 +0000" channel="LN_6CFBAEF4-1219-48A1-8226-003FF3381BEF">
+    <title lang="en">Judge Judy</title>
+    <desc lang="en">Runaway teen's belongings.</desc>
+  </programme>
   <channel id="LN_21E04998-CBAF-43BD-BEF1-F2E7F314AE00">
     <display-name>Hot Bench</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_21E04998-CBAF-43BD-BEF1-F2E7F314AE00">
-    <title lang="en">Hot Bench</title>
-    <desc lang="en">A woman cites a debilitating stroke as defense against accusations that she damaged her ex's trucks.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_21E04998-CBAF-43BD-BEF1-F2E7F314AE00">
     <title lang="en">Hot Bench</title>
     <desc lang="en">A young man admits he took money from his girlfriend to buy a car but says the money was a gift.</desc>
@@ -3358,17 +3354,13 @@
     <title lang="en">Hot Bench</title>
     <desc lang="en">An uninsured motorist insists that he was on his way home to pay his lapsed car insurance.</desc>
   </programme>
+  <programme start="20260815153000 +0000" stop="20260815160000 +0000" channel="LN_21E04998-CBAF-43BD-BEF1-F2E7F314AE00">
+    <title lang="en">Hot Bench</title>
+    <desc lang="en">A student says beauty school is unsanitary; the teacher says the student is a hysterical mess.</desc>
+  </programme>
   <channel id="LN_8CA5ED50-CF2B-4519-AAA0-51F645BADE10">
     <display-name>Cheaters</display-name>
   </channel>
-  <programme start="20260815125200 +0000" stop="20260815131800 +0000" channel="LN_8CA5ED50-CF2B-4519-AAA0-51F645BADE10">
-    <title lang="en">Cheaters</title>
-    <desc lang="en">Sheila's longtime lover relaxes in a private hot tub with another woman.</desc>
-  </programme>
-  <programme start="20260815131800 +0000" stop="20260815134300 +0000" channel="LN_8CA5ED50-CF2B-4519-AAA0-51F645BADE10">
-    <title lang="en">Cheaters</title>
-    <desc lang="en">Nicole's boyfriend has late-night liaisons with one of her friends.</desc>
-  </programme>
   <programme start="20260815134300 +0000" stop="20260815140600 +0000" channel="LN_8CA5ED50-CF2B-4519-AAA0-51F645BADE10">
     <title lang="en">Cheaters</title>
     <desc lang="en">Sharon's fiancé is planning his nuptials with a different bride.</desc>
@@ -3381,13 +3373,17 @@
     <title lang="en">Cheaters</title>
     <desc lang="en">Alexis' boyfriend spends his overtime with another woman.</desc>
   </programme>
+  <programme start="20260815145500 +0000" stop="20260815151800 +0000" channel="LN_8CA5ED50-CF2B-4519-AAA0-51F645BADE10">
+    <title lang="en">Cheaters</title>
+    <desc lang="en">Jessie's girlfriend is stepping out on him, but not with another man.</desc>
+  </programme>
+  <programme start="20260815151800 +0000" stop="20260815154600 +0000" channel="LN_8CA5ED50-CF2B-4519-AAA0-51F645BADE10">
+    <title lang="en">Cheaters</title>
+    <desc lang="en">Elisabeth's husband makes more than just art with his nude models.</desc>
+  </programme>
   <channel id="LN_6B2BBD02-7A96-4CE2-B782-26F20C975DB0">
     <display-name>Love &amp; Marriage</display-name>
   </channel>
-  <programme start="20260815125149 +0000" stop="20260815134123 +0000" channel="LN_6B2BBD02-7A96-4CE2-B782-26F20C975DB0">
-    <title lang="en">My Big Fat American Gypsy Wedding</title>
-    <desc lang="en">A teenage bride-to-be struggles to master a secret society's traditions.</desc>
-  </programme>
   <programme start="20260815134123 +0000" stop="20260815143058 +0000" channel="LN_6B2BBD02-7A96-4CE2-B782-26F20C975DB0">
     <title lang="en">My Big Fat American Gypsy Wedding</title>
     <desc lang="en">Star-crossed lovers Heath and Alyssa defy their parents.</desc>
@@ -3404,13 +3400,13 @@
     <title lang="en">My Big Fat American Gypsy Wedding</title>
     <desc lang="en">Gypsy housewife Nettie Stanley battles to keep her family together.</desc>
   </programme>
+  <programme start="20260815170247 +0000" stop="20260815175317 +0000" channel="LN_6B2BBD02-7A96-4CE2-B782-26F20C975DB0">
+    <title lang="en">My Big Fat American Gypsy Wedding</title>
+    <desc lang="en">This family reunion re-introduces the captivating Romanichal Gypsy culture.</desc>
+  </programme>
   <channel id="LN_5452C818-BB93-4942-8657-348FE9DED580">
     <display-name>Family Unscripted</display-name>
   </channel>
-  <programme start="20260815125303 +0000" stop="20260815134210 +0000" channel="LN_5452C818-BB93-4942-8657-348FE9DED580">
-    <title lang="en">Little People, Big World</title>
-    <desc lang="en">Amy struggles to define her relationship with Chris.</desc>
-  </programme>
   <programme start="20260815134210 +0000" stop="20260815143117 +0000" channel="LN_5452C818-BB93-4942-8657-348FE9DED580">
     <title lang="en">Little People, Big World</title>
     <desc lang="en">Zach and Tori's vision of their family is forever changed by tragedy.</desc>
@@ -3426,6 +3422,10 @@
   <programme start="20260815160931 +0000" stop="20260815165838 +0000" channel="LN_5452C818-BB93-4942-8657-348FE9DED580">
     <title lang="en">Little People, Big World</title>
     <desc lang="en">Tori and Zach must face the reality that she may need a C-section.</desc>
+  </programme>
+  <programme start="20260815165838 +0000" stop="20260815174955 +0000" channel="LN_5452C818-BB93-4942-8657-348FE9DED580">
+    <title lang="en">Little People, Big World</title>
+    <desc lang="en">Zach and Tori schedule their C-section, and the baby could come any time!</desc>
   </programme>
   <channel id="LN_5F1970E3-03D3-4762-A920-41FDB7EF71EC">
     <display-name>Car Chase</display-name>
@@ -3453,10 +3453,6 @@
   <channel id="LN_A25213BD-1D57-42BD-9EEE-FAB4BB048E4C">
     <display-name>Operation Repo</display-name>
   </channel>
-  <programme start="20260815131435 +0000" stop="20260815134859 +0000" channel="LN_A25213BD-1D57-42BD-9EEE-FAB4BB048E4C">
-    <title lang="en">Operation Repo</title>
-    <desc lang="en">Sonia and Froy arrive on the scene to a repo a car that's been refitted to run on biodiesel.</desc>
-  </programme>
   <programme start="20260815134859 +0000" stop="20260815142323 +0000" channel="LN_A25213BD-1D57-42BD-9EEE-FAB4BB048E4C">
     <title lang="en">Operation Repo</title>
     <desc lang="en">Sonia and Froy get locked in the battle of a lifetime with a pair of young debtors.</desc>
@@ -3472,6 +3468,10 @@
   <programme start="20260815153212 +0000" stop="20260815160636 +0000" channel="LN_A25213BD-1D57-42BD-9EEE-FAB4BB048E4C">
     <title lang="en">Operation Repo</title>
     <desc lang="en">Lyndah is put in a tough situation.</desc>
+  </programme>
+  <programme start="20260815160636 +0000" stop="20260815164100 +0000" channel="LN_A25213BD-1D57-42BD-9EEE-FAB4BB048E4C">
+    <title lang="en">Operation Repo</title>
+    <desc lang="en">Froy and Lyndah probably need to schedule a trip to the dentist after Lou's tooth gets knocked out.</desc>
   </programme>
   <channel id="LN_3E365F9C-E1F6-434F-9C51-0F331DCCBC2C">
     <display-name>NatureStream.TV</display-name>
@@ -3499,10 +3499,6 @@
   <channel id="LN_5B906B36-29CB-441B-ADCD-921E22A67BDD">
     <display-name>Drone TV</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_5B906B36-29CB-441B-ADCD-921E22A67BDD">
-    <title lang="en">FPV Drone Highlights, Episode 28</title>
-    <desc lang="en">Check out these amazing videos captured by first person view (FPV) racing drones</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_5B906B36-29CB-441B-ADCD-921E22A67BDD">
     <title lang="en">FPV Drone Highlights, Episode 32</title>
     <desc lang="en">Check out these amazing videos captured by first person view (FPV) racing drones</desc>
@@ -3517,6 +3513,10 @@
   </programme>
   <programme start="20260815150000 +0000" stop="20260815153000 +0000" channel="LN_5B906B36-29CB-441B-ADCD-921E22A67BDD">
     <title lang="en">FPV Drone Highlights, Episode 33</title>
+    <desc lang="en">Check out these amazing videos captured by first person view (FPV) racing drones</desc>
+  </programme>
+  <programme start="20260815153000 +0000" stop="20260815160000 +0000" channel="LN_5B906B36-29CB-441B-ADCD-921E22A67BDD">
+    <title lang="en">FPV Drone Highlights, Episode 31</title>
     <desc lang="en">Check out these amazing videos captured by first person view (FPV) racing drones</desc>
   </programme>
   <channel id="LN_2D77A7BA-2E3D-42AA-95DD-72494995A81E">
@@ -3545,10 +3545,6 @@
   <channel id="LN_2731FEB4-C4B5-4400-AE05-B6E8B10937F9">
     <display-name>Scripps Sports Network</display-name>
   </channel>
-  <programme start="20260815113000 +0000" stop="20260815133000 +0000" channel="LN_2731FEB4-C4B5-4400-AE05-B6E8B10937F9">
-    <title lang="en">NWSL Soccer</title>
-    <desc lang="en">Scripps Sports Network is your home for live games and original programming that bring fans closer to the action, the athletes, and the communities they love.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815153000 +0000" channel="LN_2731FEB4-C4B5-4400-AE05-B6E8B10937F9">
     <title lang="en">NWSL Soccer</title>
     <desc lang="en">Boston Legacy FC and the Kansas City Current meet at Centreville Bank Stadium for an NWSL matchup.</desc>
@@ -3565,13 +3561,13 @@
     <title lang="en">NWSL Soccer</title>
     <desc lang="en">Scripps Sports Network is your home for live games and original programming that bring fans closer to the action, the athletes, and the communities they love.</desc>
   </programme>
+  <programme start="20260815220000 +0000" stop="20260815223000 +0000" channel="LN_2731FEB4-C4B5-4400-AE05-B6E8B10937F9">
+    <title lang="en">NWSL On ION Pre Match Show</title>
+    <desc lang="en">In-depth studio coverage of the National Women's Soccer League from Scripps Sports.</desc>
+  </programme>
   <channel id="LN_CC63F1D9-7CF2-41EB-B97D-984C1320E32B">
     <display-name>Sports Illustrated TV</display-name>
   </channel>
-  <programme start="20260815131500 +0000" stop="20260815133000 +0000" channel="LN_CC63F1D9-7CF2-41EB-B97D-984C1320E32B">
-    <title lang="en">The Big Interview - Eric Weddle</title>
-    <desc lang="en">Originally published May 21, 2019 on Sports Illustrated. The Big Interview featuring Eric Weddle.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_CC63F1D9-7CF2-41EB-B97D-984C1320E32B">
     <title lang="en">Xavier Legette’s Wild Horse Ride</title>
     <desc lang="en">Xavier Legette takes SI host Claudette Montana to Mullins, S.C., to explore the life that shaped him.</desc>
@@ -3588,13 +3584,13 @@
     <title lang="en">The Big Interview - Terrell Owens</title>
     <desc lang="en">The Big Interview - Terrell Owens</desc>
   </programme>
+  <programme start="20260815151500 +0000" stop="20260815160000 +0000" channel="LN_CC63F1D9-7CF2-41EB-B97D-984C1320E32B">
+    <title lang="en">The Big Interview - Lane Kiffin</title>
+    <desc lang="en">The Big Interview - Lane Kiffin. Originally published August 29, 2018.</desc>
+  </programme>
   <channel id="LN_D5FE2064-E664-4725-A0EC-BF43F6CF2A43">
     <display-name>CBS Sports Golazo Network</display-name>
   </channel>
-  <programme start="20260815113000 +0000" stop="20260815133000 +0000" channel="LN_D5FE2064-E664-4725-A0EC-BF43F6CF2A43">
-    <title lang="en">EFL Championship</title>
-    <desc lang="en">CBS Sports Golazo Network is the year-round, 24/7 home for soccer fans with free matches, highlights, news and analysis.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_D5FE2064-E664-4725-A0EC-BF43F6CF2A43">
     <title lang="en">CBS Sports Golazo Matchday</title>
     <desc lang="en">CBS Sports Golazo Network is the year-round, 24/7 home for soccer fans with free matches, highlights, news and analysis.</desc>
@@ -3609,6 +3605,10 @@
   </programme>
   <programme start="20260815163000 +0000" stop="20260815183000 +0000" channel="LN_D5FE2064-E664-4725-A0EC-BF43F6CF2A43">
     <title lang="en">EFL Championship</title>
+    <desc lang="en">CBS Sports Golazo Network is the year-round, 24/7 home for soccer fans with free matches, highlights, news and analysis.</desc>
+  </programme>
+  <programme start="20260815183000 +0000" stop="20260815190000 +0000" channel="LN_D5FE2064-E664-4725-A0EC-BF43F6CF2A43">
+    <title lang="en">CBS Sports Golazo Matchday</title>
     <desc lang="en">CBS Sports Golazo Network is the year-round, 24/7 home for soccer fans with free matches, highlights, news and analysis.</desc>
   </programme>
   <channel id="LN_0F0BFEF7-EEB2-4AAE-8F98-637B07E19326">
@@ -3660,10 +3660,6 @@
   <channel id="LN_6F14011F-0ECA-4FB0-848D-A367216723C6">
     <display-name>HBCU Go!</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_6F14011F-0ECA-4FB0-848D-A367216723C6">
-    <title lang="en">Café Mocha TV</title>
-    <desc lang="en">Laila Muhammad visits the theater district and a famous restaurant in New York.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_6F14011F-0ECA-4FB0-848D-A367216723C6">
     <title lang="en">Café Mocha TV</title>
     <desc lang="en">Laila visits incredible colleges, art galleries &amp; restaurants in the Carolina Core, North Carolina.</desc>
@@ -3680,13 +3676,13 @@
     <title lang="en">Accelerating Brilliance</title>
     <desc lang="en">HBCU Go</desc>
   </programme>
+  <programme start="20260815160000 +0000" stop="20260815163000 +0000" channel="LN_6F14011F-0ECA-4FB0-848D-A367216723C6">
+    <title lang="en">HBCU Go Sports Presents Callin' Plays</title>
+    <desc lang="en">HBCU Go</desc>
+  </programme>
   <channel id="LN_CD879A56-FC42-412C-9389-DDBA47A2C285">
     <display-name>Best of Free Live Sports</display-name>
   </channel>
-  <programme start="20260815130600 +0000" stop="20260815134100 +0000" channel="LN_CD879A56-FC42-412C-9389-DDBA47A2C285">
-    <title lang="en">Top Barca - All the goals</title>
-    <desc lang="en">Top Barca - All the goals on Top Barca</desc>
-  </programme>
   <programme start="20260815134100 +0000" stop="20260815151100 +0000" channel="LN_CD879A56-FC42-412C-9389-DDBA47A2C285">
     <title lang="en">Top Barca - All the goals</title>
     <desc lang="en">Top Barca - All the goals on Top Barca</desc>
@@ -3703,15 +3699,13 @@
     <title lang="en">MTRSPT1 - LIVE: Rolex Monterey Motorsports Reunion</title>
     <desc lang="en">MTRSPT1 - LIVE: Rolex Monterey Motorsports Reunion on MTRSPT1</desc>
   </programme>
+  <programme start="20260816000000 +0000" stop="20260816022500 +0000" channel="LN_CD879A56-FC42-412C-9389-DDBA47A2C285">
+    <title lang="en">MTRSPT1 - LIVE: Rolex Monterey Motorsports Reunion</title>
+    <desc lang="en">MTRSPT1 - LIVE: Rolex Monterey Motorsports Reunion on MTRSPT1</desc>
+  </programme>
   <channel id="LN_1C62948D-D926-43A3-93F6-86EEC49CC051">
     <display-name>Locked On NFL</display-name>
   </channel>
-  <programme start="20260815125400 +0000" stop="20260815132800 +0000" channel="LN_1C62948D-D926-43A3-93F6-86EEC49CC051">
-    <title lang="en">Locked On NFL Draft</title>
-    <desc lang="en">Damian Parson, national scout at The Draft Network, and Keith Sanchez, senior NFL draft analyst for The Draft Network and 2019 LSU Football National Champion, bring the NFL Draft to life every day with insight and analysis on college football prospects, NFL Front office evaluation process and the NFL. 
-
-Part of the Locked on Podcast Network. #NFL #NFLDraft</desc>
-  </programme>
   <programme start="20260815132800 +0000" stop="20260815140200 +0000" channel="LN_1C62948D-D926-43A3-93F6-86EEC49CC051">
     <title lang="en">Locked On NFL Scouting</title>
     <desc lang="en">NFL experts Kyle Crabbs (@GrindingTheTape) and Joe Marino (@TheJoeMarino) break down professional and college scouting, roster construction, team building, salary cap management, and much more. 
@@ -3734,15 +3728,13 @@ Part of the Locked On Podcast Network.</desc>
     <title lang="en">The Big 3 in 30 NFL</title>
     <desc lang="en">The Big 3 in 30 NFL gives you a closer look at the day's biggest stories with insight from Locked On's local experts around the league.</desc>
   </programme>
+  <programme start="20260815154400 +0000" stop="20260815161800 +0000" channel="LN_1C62948D-D926-43A3-93F6-86EEC49CC051">
+    <title lang="en">Locked On NFL Spotlight</title>
+    <desc lang="en">Locked On NFL Spotlight brings you episodes on the biggest stories in the NFL, from local experts around the Locked On Podcast Network.</desc>
+  </programme>
   <channel id="LN_04935AA0-65BE-43C5-8E32-55C4304C64F0">
     <display-name>Locked On College Sports</display-name>
   </channel>
-  <programme start="20260815131600 +0000" stop="20260815135000 +0000" channel="LN_04935AA0-65BE-43C5-8E32-55C4304C64F0">
-    <title lang="en">Locked On Big 12</title>
-    <desc lang="en">Locked On Big 12 is THE daily podcast dedicated to Big 12 teams, hosted by Baylor graduate and ESPN Central Texas personality Drake C. Toll. Locked On Big 12 is built the Heartland way and will give you the excitement you expect from America's most dynamic conference. 
-
-Part of the Locked On Podcast Network.</desc>
-  </programme>
   <programme start="20260815135000 +0000" stop="20260815142400 +0000" channel="LN_04935AA0-65BE-43C5-8E32-55C4304C64F0">
     <title lang="en">Locked On NFL Draft</title>
     <desc lang="en">Damian Parson, national scout at The Draft Network, and Keith Sanchez, senior NFL draft analyst for The Draft Network and 2019 LSU Football National Champion, bring the NFL Draft to life every day with insight and analysis on college football prospects, NFL Front office evaluation process and the NFL. 
@@ -3763,19 +3755,13 @@ Part of the Locked on Podcast Network. #NFL #NFLDraft</desc>
 
 Part of the Locked On Podcast Network.</desc>
   </programme>
+  <programme start="20260815160600 +0000" stop="20260815164000 +0000" channel="LN_04935AA0-65BE-43C5-8E32-55C4304C64F0">
+    <title lang="en">Locked On SEC</title>
+    <desc lang="en">Chris Gordy hosts Locked On SEC, a daily podcast dedicated to bringing SEC fans the most up-to-date info when it comes to Southeastern Conference sports. The Locked On SEC podcast brings you interviews, analysis and match-up breakdowns heading into every week of games. If you're a fan of any school in the conference, it's a show that you do not want to miss. It's the Locked on SEC Podcast, part of the Locked On Podcast Network.</desc>
+  </programme>
   <channel id="LN_4CE5A5DE-CDEC-460A-B520-C37E1ABB1813">
     <display-name>Locked On Sports Today</display-name>
   </channel>
-  <programme start="20260815124800 +0000" stop="20260815132000 +0000" channel="LN_4CE5A5DE-CDEC-460A-B520-C37E1ABB1813">
-    <title lang="en">Locked On Spotlight</title>
-    <desc lang="en">Locked On Spotlight brings you episodes on the biggest stories in sports from around the Locked On Podcast Network. Tune in for in-depth analysis from local experts who know these stories best.
-
-Part of the Locked On Podcast Network. Your team. Every Day.</desc>
-  </programme>
-  <programme start="20260815132000 +0000" stop="20260815134400 +0000" channel="LN_4CE5A5DE-CDEC-460A-B520-C37E1ABB1813">
-    <title lang="en">Locked On Sports Today</title>
-    <desc lang="en">On Locked On Sports Today, host Peter Bukowski goes beyond the scoreboard with local experts to bring you the biggest stories from around the sports world.</desc>
-  </programme>
   <programme start="20260815134400 +0000" stop="20260815141800 +0000" channel="LN_4CE5A5DE-CDEC-460A-B520-C37E1ABB1813">
     <title lang="en">Locked On NFL Scouting</title>
     <desc lang="en">NFL experts Kyle Crabbs (@GrindingTheTape) and Joe Marino (@TheJoeMarino) break down professional and college scouting, roster construction, team building, salary cap management, and much more. 
@@ -3794,15 +3780,21 @@ Part of the Locked On Podcast Network.</desc>
 
 Part of the Locked on Podcast Network. #NFL #NFLDraft</desc>
   </programme>
-  <channel id="LN_D2300A27-E817-470E-86DD-04E2B176F870">
-    <display-name>Locked on NBA</display-name>
-  </channel>
-  <programme start="20260815130933 +0000" stop="20260815134333 +0000" channel="LN_D2300A27-E817-470E-86DD-04E2B176F870">
-    <title lang="en">Locked On NBA</title>
-    <desc lang="en">Locked On NBA is your daily NBA podcast breaking down games, basketball news, updates, and rumors in 30 minutes, hosted by local experts from across the Locked On Podcast Network.
+  <programme start="20260815152600 +0000" stop="20260815160000 +0000" channel="LN_4CE5A5DE-CDEC-460A-B520-C37E1ABB1813">
+    <title lang="en">Locked On NFL Scouting</title>
+    <desc lang="en">NFL experts Kyle Crabbs (@GrindingTheTape) and Joe Marino (@TheJoeMarino) break down professional and college scouting, roster construction, team building, salary cap management, and much more. 
 
 Part of the Locked On Podcast Network.</desc>
   </programme>
+  <programme start="20260815160000 +0000" stop="20260815163400 +0000" channel="LN_4CE5A5DE-CDEC-460A-B520-C37E1ABB1813">
+    <title lang="en">NFL Six Pack</title>
+    <desc lang="en">Hosted by Matt Williamson (former NFL and college scout) along with Brian Peacock (radio reporter and football analyst), the NFL Six Pack is a daily NFL podcast bringing you news, analysis, trades, rumors, fantasy advice, and interviews with fantastic guests.
+
+Part of the Locked On Podcast Network.</desc>
+  </programme>
+  <channel id="LN_D2300A27-E817-470E-86DD-04E2B176F870">
+    <display-name>Locked on NBA</display-name>
+  </channel>
   <programme start="20260815134333 +0000" stop="20260815141733 +0000" channel="LN_D2300A27-E817-470E-86DD-04E2B176F870">
     <title lang="en">Locked On NBA Best Of</title>
     <desc lang="en">Locked On is the first choice for NBA fans everywhere to follow their favorite teams. With a daily podcast for every NBA team, plus national shows Locked On NBA, Locked On Fantasy Basketball and Locked On Women’s Basketball, the Locked On Podcast Network has something for every basketball fan. From world class NBA Draft coverage, all the way to the NBA Finals, with in-depth offseason coverage in between, our local and national experts keep you in the know with daily news, insight, and all the analysis that only the Locked On Podcast Network can bring you. For year-round, daily coverage of your favorite NBA team, find your new go-to podcast today from Locked On. Your Team. Every Day.</desc>
@@ -3821,15 +3813,15 @@ Part of the Locked On Podcast Network.</desc>
 
 Part of the Locked On Podcast Network.</desc>
   </programme>
-  <channel id="LN_AF8A0869-F746-4CC3-8254-CD48E24F4F70">
-    <display-name>Locked On Sports Atlanta</display-name>
-  </channel>
-  <programme start="20260815130600 +0000" stop="20260815134000 +0000" channel="LN_AF8A0869-F746-4CC3-8254-CD48E24F4F70">
-    <title lang="en">Locked On College Basketball</title>
-    <desc lang="en">Locked On College Basketball is a daily college hoops podcast hosted by Isaac Schade and Andy Patton, often joined by big-name experts, coaches, and players throughout the college basketball landscape. 
+  <programme start="20260815155933 +0000" stop="20260815163333 +0000" channel="LN_D2300A27-E817-470E-86DD-04E2B176F870">
+    <title lang="en">Locked On NBA</title>
+    <desc lang="en">Locked On NBA is your daily NBA podcast breaking down games, basketball news, updates, and rumors in 30 minutes, hosted by local experts from across the Locked On Podcast Network.
 
 Part of the Locked On Podcast Network.</desc>
   </programme>
+  <channel id="LN_AF8A0869-F746-4CC3-8254-CD48E24F4F70">
+    <display-name>Locked On Sports Atlanta</display-name>
+  </channel>
   <programme start="20260815134000 +0000" stop="20260815141400 +0000" channel="LN_AF8A0869-F746-4CC3-8254-CD48E24F4F70">
     <title lang="en">Locked On Hawks</title>
     <desc lang="en">Host Brad Rowland brings you a daily glance at the Atlanta Hawks and the NBA with the insight, analysis and news that every fan of the team needs. 
@@ -3854,13 +3846,15 @@ Part of the Locked On Podcast Network.</desc>
 
 Part of the Locked On Podcast Network.</desc>
   </programme>
+  <programme start="20260815155600 +0000" stop="20260815163000 +0000" channel="LN_AF8A0869-F746-4CC3-8254-CD48E24F4F70">
+    <title lang="en">Locked On Bulldogs</title>
+    <desc lang="en">Join Daniel Monroe and Clint Shamblin, two regular guys who love Georgia Bulldogs football and basketball just as much as you do. They dive deep into all things Georgia football and basketball. This is a show for fans, by fans. 
+
+Part of the Locked On Podcast Network.</desc>
+  </programme>
   <channel id="LN_0809C39C-DE1C-464C-ACA0-87DF90E1DD17">
     <display-name>Locked On MLB</display-name>
   </channel>
-  <programme start="20260815125800 +0000" stop="20260815133200 +0000" channel="LN_0809C39C-DE1C-464C-ACA0-87DF90E1DD17">
-    <title lang="en">Locked On NL East</title>
-    <desc lang="en">Latest analysis and reaction from the Braves, Marlins, Nationals, and Phillies</desc>
-  </programme>
   <programme start="20260815133200 +0000" stop="20260815140600 +0000" channel="LN_0809C39C-DE1C-464C-ACA0-87DF90E1DD17">
     <title lang="en">Locked On Fantasy Baseball</title>
     <desc lang="en">Locked On Fantasy Baseball is fantasy baseball done right. Every day, lifelong friends and fantasy baseball experts Dominick Martino and Matthew Ahne bring an exciting, informative take on the game they both love. Follow their championship-winning techniques and dominate your league today.
@@ -3880,6 +3874,10 @@ Part of the Locked on Podcast Network.</desc>
   <programme start="20260815151400 +0000" stop="20260815154800 +0000" channel="LN_0809C39C-DE1C-464C-ACA0-87DF90E1DD17">
     <title lang="en">Locked On AL Central</title>
     <desc lang="en">Latest analysis and reaction from the Guardians, Royals, Tigers and Twins</desc>
+  </programme>
+  <programme start="20260815154800 +0000" stop="20260815162200 +0000" channel="LN_0809C39C-DE1C-464C-ACA0-87DF90E1DD17">
+    <title lang="en">Locked On White Sox</title>
+    <desc lang="en">The latest analysis and reaction on all things Chicago White Sox</desc>
   </programme>
   <channel id="LN_1EE99DA8-A888-477C-B04A-6936BE0C43E4">
     <display-name>PLL Network</display-name>
@@ -3953,10 +3951,6 @@ Part of the Locked on Podcast Network.</desc>
   <channel id="LN_9C74C2C7-6B77-4AFD-A514-4EF082394381">
     <display-name>World Poker Tour</display-name>
   </channel>
-  <programme start="20260815124600 +0000" stop="20260815134305 +0000" channel="LN_9C74C2C7-6B77-4AFD-A514-4EF082394381">
-    <title lang="en">The $200 Thousand Club WPT TV Challenge 2022 - Part 2</title>
-    <desc lang="en">Six talented ClubWPT players continue to battle at the final table with their eye on the first-place prize of $50,000.</desc>
-  </programme>
   <programme start="20260815134305 +0000" stop="20260815144010 +0000" channel="LN_9C74C2C7-6B77-4AFD-A514-4EF082394381">
     <title lang="en">WPT Cash Game $100/$200 No Limit Holdem 2022 - Part 1</title>
     <desc lang="en">WPT has invited a star-studded lineup to this high-stakes cash game showdown.</desc>
@@ -3973,13 +3967,13 @@ Part of the Locked on Podcast Network.</desc>
     <title lang="en">WPT Cash Game $100/$200 No Limit Holdem 2022 - Part 4</title>
     <desc lang="en">World-famous DJ Steve Aoki has joined the table in place of Brad Owen and Steve is more than ready to gamble.</desc>
   </programme>
+  <programme start="20260815173124 +0000" stop="20260815183027 +0000" channel="LN_9C74C2C7-6B77-4AFD-A514-4EF082394381">
+    <title lang="en">WPT Cash Game $100/$200 No Limit Holdem 2022 - Part 5</title>
+    <desc lang="en">The high-stakes action is heating up at this table full of stars on and off the felt.</desc>
+  </programme>
   <channel id="LN_780DDE63-269A-4B71-A59D-CD0B3F56FD4A">
     <display-name>Poker Night in America</display-name>
   </channel>
-  <programme start="20260815130040 +0000" stop="20260815133040 +0000" channel="LN_780DDE63-269A-4B71-A59D-CD0B3F56FD4A">
-    <title lang="en">Kentucky Fried Poker - Poker Night In America</title>
-    <desc lang="en">We head to Rivers Casino in Pittsburgh, PA where our very own Chris Hanson becomes an honorary Kentucky Colonel.  Plus, our crew tells the harrowing tale of #GroundPizza.  Featuring Matt Glantz, Chris Horter, Mark Smith, Phil Laak, Dave Eldridge, Jennifer Harman, Tom Schneider</desc>
-  </programme>
   <programme start="20260815133040 +0000" stop="20260815140040 +0000" channel="LN_780DDE63-269A-4B71-A59D-CD0B3F56FD4A">
     <title lang="en">Attack Of The Yinzers - Poker Night In America</title>
     <desc lang="en">The locals in Pittsburgh show the pros how its done from Rivers Casino in Pittsburgh, PA.  Featuring Jennifer Tilly, Chris Horter, Nick Immekus, David Baker, Dan Wolf, Jennifer Harman, Jason Andrews, Dave Eldridge, Matt Glantz, Phil Laak, Tom Schneider, Mark Smith</desc>
@@ -3995,6 +3989,10 @@ Part of the Locked on Podcast Network.</desc>
   <programme start="20260815150040 +0000" stop="20260815153040 +0000" channel="LN_780DDE63-269A-4B71-A59D-CD0B3F56FD4A">
     <title lang="en">Billionaire Besties - Poker Night In America</title>
     <desc lang="en">Some of Phil Hellmuth's best friends from Silicon Valley join our table at Thunder Valley Casino Resort.  Featuring Anthony Pagan, Jason Calacanis, David Baker, Phil Hellmuth, Tom West, Chamath Palihapitiya, Taylor Paur</desc>
+  </programme>
+  <programme start="20260815153040 +0000" stop="20260815160040 +0000" channel="LN_780DDE63-269A-4B71-A59D-CD0B3F56FD4A">
+    <title lang="en">Money Buys Happiness - Poker Night In America</title>
+    <desc lang="en">The poker action is non-stop, and so are the name drops from Thunder Valley Casino Resort.  Featuring Matt Glantz, Jason Calicanis, David Baker, Phil Hellmuth, Bob Mather, Chamath Palihapitiya, Bart Hanson, Anthony Pagan, Maria Ho, Taylor Paur, Tom West</desc>
   </programme>
   <channel id="LN_6E6E57BD-F5B8-4204-8162-AA89CA95E122">
     <display-name>Cornhole TV</display-name>
@@ -4091,10 +4089,6 @@ Part of the Locked on Podcast Network.</desc>
   <channel id="LN_592F6656-8FF0-4226-9365-53D1879F1F09">
     <display-name>GoPro TV</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_592F6656-8FF0-4226-9365-53D1879F1F09">
-    <title lang="en">S2E13 Capture &amp; Conquer</title>
-    <desc lang="en">GoPro Captures the best content in the world!</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_592F6656-8FF0-4226-9365-53D1879F1F09">
     <title lang="en">S2E14 Capture &amp; Conquer</title>
     <desc lang="en">GoPro Captures the best content in the world!</desc>
@@ -4109,6 +4103,10 @@ Part of the Locked on Podcast Network.</desc>
   </programme>
   <programme start="20260815150000 +0000" stop="20260815153000 +0000" channel="LN_592F6656-8FF0-4226-9365-53D1879F1F09">
     <title lang="en">S1E1 Air</title>
+    <desc lang="en">The very best of GoPro Air Sports.</desc>
+  </programme>
+  <programme start="20260815153000 +0000" stop="20260815160000 +0000" channel="LN_592F6656-8FF0-4226-9365-53D1879F1F09">
+    <title lang="en">S1E2 Air</title>
     <desc lang="en">The very best of GoPro Air Sports.</desc>
   </programme>
   <channel id="LN_49FEA0F7-7177-48B1-A3B2-46FE867C214F">
@@ -4137,10 +4135,6 @@ Part of the Locked on Podcast Network.</desc>
   <channel id="LN_5AA5E827-58E0-4035-9862-4EFD3BC9F11C">
     <display-name>Discovery Turbo TV</display-name>
   </channel>
-  <programme start="20260815124236 +0000" stop="20260815133606 +0000" channel="LN_5AA5E827-58E0-4035-9862-4EFD3BC9F11C">
-    <title lang="en">Iron Resurrection</title>
-    <desc lang="en">For his 50th birthday, a former pro wrestler restores a 1965 Ford Falcon.</desc>
-  </programme>
   <programme start="20260815133606 +0000" stop="20260815142937 +0000" channel="LN_5AA5E827-58E0-4035-9862-4EFD3BC9F11C">
     <title lang="en">Iron Resurrection</title>
     <desc lang="en">A return customer's prized Chevy 5-window truck might be unsalvageable.</desc>
@@ -4157,13 +4151,13 @@ Part of the Locked on Podcast Network.</desc>
     <title lang="en">Iron Resurrection</title>
     <desc lang="en">Joe and crew turn a salvaged '51 Chevy pickup into a Christmas spectacle.</desc>
   </programme>
+  <programme start="20260815170208 +0000" stop="20260815175339 +0000" channel="LN_5AA5E827-58E0-4035-9862-4EFD3BC9F11C">
+    <title lang="en">Iron Resurrection</title>
+    <desc lang="en">Joe and the team finish up the '51 Chevy 3100 Christmas-parade truck.</desc>
+  </programme>
   <channel id="LN_1E64B68E-714E-463A-852F-5662AF20F1C4">
     <display-name>Monster Jam</display-name>
   </channel>
-  <programme start="20260815122900 +0000" stop="20260815132200 +0000" channel="LN_1E64B68E-714E-463A-852F-5662AF20F1C4">
-    <title lang="en">Championship Series</title>
-    <desc lang="en">Monster Jam at Mercedes-Benz Stadium in Atlanta, Georgia.</desc>
-  </programme>
   <programme start="20260815132200 +0000" stop="20260815141500 +0000" channel="LN_1E64B68E-714E-463A-852F-5662AF20F1C4">
     <title lang="en">Championship Series</title>
     <desc lang="en">Stadium Championship Series East continues its tear through the sunshine state as Tyler Menninga attempts to drive Grave Digger to back-to-back event championships. Meanwhile, Tristan England is undefeated on the Ray-J racetrack and looks to pilot JCB ...</desc>
@@ -4180,13 +4174,13 @@ Part of the Locked on Podcast Network.</desc>
     <title lang="en">Championship Series</title>
     <desc lang="en">What goes up must come down- and that means carnage! Ten monster trucks attempt to make history or be history during the freestyle action at the Metrodome.</desc>
   </programme>
+  <programme start="20260815164900 +0000" stop="20260815174200 +0000" channel="LN_1E64B68E-714E-463A-852F-5662AF20F1C4">
+    <title lang="en">Championship Series</title>
+    <desc lang="en">Monster Jam's 2022 season continues with round 23 of the Stadium Championship Series, at MetLife Stadium, East Rutherford, NJ</desc>
+  </programme>
   <channel id="LN_662F6B8A-1762-479D-A542-4A6D78574774">
     <display-name>PowerSports World</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_662F6B8A-1762-479D-A542-4A6D78574774">
-    <title lang="en"> Utah Backcountry Riding</title>
-    <desc lang="en"> Struggling to ride through the snowed in trails in the Boise foothills..</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_662F6B8A-1762-479D-A542-4A6D78574774">
     <title lang="en"> Janus Motorcycles</title>
     <desc lang="en"> Janus motorcycles goes Flat Track racing!</desc>
@@ -4203,13 +4197,13 @@ Part of the Locked on Podcast Network.</desc>
     <title lang="en"> Can-AM Presents: Visions of Victory</title>
     <desc lang="en"> On this episode the S3 racing team heads to Las Vegas for the &amp;#34;Great American Off-Road Race&amp;#34;. The prestigious Mint 400. Then the S3 Powersports takes on the Best in the Desert Silver State 300</desc>
   </programme>
+  <programme start="20260815163000 +0000" stop="20260815170000 +0000" channel="LN_662F6B8A-1762-479D-A542-4A6D78574774">
+    <title lang="en"> That Ski-Doo Feeling-The Rancher</title>
+    <desc lang="en"> A rare story of a rocker turned rancher and his unique relationship with a Bison.</desc>
+  </programme>
   <channel id="LN_961DD3B6-5494-4BE4-BB56-877AAE5BED1E">
     <display-name>Speedvision</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_961DD3B6-5494-4BE4-BB56-877AAE5BED1E">
-    <title lang="en">Two Guys Garage</title>
-    <desc lang="en">The guys swap out a damaged clutch on a 2012 Mustang and go for performance with a lightweight twin plate clutch.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_961DD3B6-5494-4BE4-BB56-877AAE5BED1E">
     <title lang="en">Two Guys Garage</title>
     <desc lang="en">Our C5 project continues with a build up of the lower end of the LS1 engine.</desc>
@@ -4226,13 +4220,13 @@ Part of the Locked on Podcast Network.</desc>
     <title lang="en">Two Guys Garage</title>
     <desc lang="en">The guys do their best to help a friend out with some body damage on a 1950 5-window pickup truck.  Will it become too much to handle?</desc>
   </programme>
+  <programme start="20260815153000 +0000" stop="20260815160000 +0000" channel="LN_961DD3B6-5494-4BE4-BB56-877AAE5BED1E">
+    <title lang="en">Two Guys Garage</title>
+    <desc lang="en">A 2000 Silverado comes into the shop with a recurring cooling problem.  The guys put their detective hats on and find the root of the problem.</desc>
+  </programme>
   <channel id="LN_DAF8DC73-29E5-458C-87E1-8421786CBFD9">
     <display-name>Shooting Sports Life</display-name>
   </channel>
-  <programme start="20260815125607 +0000" stop="20260815133108 +0000" channel="LN_DAF8DC73-29E5-458C-87E1-8421786CBFD9">
-    <title lang="en">Gun Talk Hunt - Preparation Wins Hunts - S5E4</title>
-    <desc lang="en">David Draper, Tristan Davies, Neil Sanders &amp; Calvin Fardo share prep tips, gear trends &amp; skills for big game success.</desc>
-  </programme>
   <programme start="20260815133108 +0000" stop="20260815141255 +0000" channel="LN_DAF8DC73-29E5-458C-87E1-8421786CBFD9">
     <title lang="en">Gun Talk Hunt - Conservation to Custom Builds - S5E5</title>
     <desc lang="en">Iowa Game Warden Jeremy King on conservation funds; Josh Ward &amp; Todd Bonura discuss custom guns &amp; trends.</desc>
@@ -4248,6 +4242,10 @@ Part of the Locked on Podcast Network.</desc>
   <programme start="20260815144636 +0000" stop="20260815150139 +0000" channel="LN_DAF8DC73-29E5-458C-87E1-8421786CBFD9">
     <title lang="en">First Person Defender - Active Shooter Response - S14E3</title>
     <desc lang="en">Worker hears gunfire, confronts intruder holding coworker; trains movement, positioning.</desc>
+  </programme>
+  <programme start="20260815150139 +0000" stop="20260815151724 +0000" channel="LN_DAF8DC73-29E5-458C-87E1-8421786CBFD9">
+    <title lang="en">First Person Defender - Car Intrusion Defense - S14E4</title>
+    <desc lang="en">Wife alone in car faces armed intruder; trains escape, gun access tactics.</desc>
   </programme>
   <channel id="LN_C8596E36-9338-457D-BE4B-B96D1DDB8CC6">
     <display-name>PBS Antiques Roadshow</display-name>
@@ -4275,10 +4273,6 @@ Part of the Locked on Podcast Network.</desc>
   <channel id="LN_360B19CE-77A9-4F97-9D8C-0F71349CD5E6">
     <display-name>Antiques Road Trip</display-name>
   </channel>
-  <programme start="20260815122619 +0000" stop="20260815131736 +0000" channel="LN_360B19CE-77A9-4F97-9D8C-0F71349CD5E6">
-    <title lang="en">Antiques Road Trip</title>
-    <desc lang="en">Izzie Balmer’s silver brooch goes against Charlie Ross’ silver pen.</desc>
-  </programme>
   <programme start="20260815131736 +0000" stop="20260815140859 +0000" channel="LN_360B19CE-77A9-4F97-9D8C-0F71349CD5E6">
     <title lang="en">Antiques Road Trip</title>
     <desc lang="en">Angus Ashworth and Steven Moore travel from the Borders to the Lake District.</desc>
@@ -4294,6 +4288,10 @@ Part of the Locked on Podcast Network.</desc>
   <programme start="20260815155139 +0000" stop="20260815164302 +0000" channel="LN_360B19CE-77A9-4F97-9D8C-0F71349CD5E6">
     <title lang="en">Antiques Road Trip</title>
     <desc lang="en">Steven Moore and Angus Ashworth visit survivors from the Industrial Revolution.</desc>
+  </programme>
+  <programme start="20260815164302 +0000" stop="20260815173422 +0000" channel="LN_360B19CE-77A9-4F97-9D8C-0F71349CD5E6">
+    <title lang="en">Antiques Road Trip</title>
+    <desc lang="en">Angus Ashworth buys an expensive pen and Steven Moore springs for a "loving jug."</desc>
   </programme>
   <channel id="LN_C452694C-6430-40B3-887B-CC94F4EBA4F4">
     <display-name>Tastemade Travel</display-name>
@@ -4321,10 +4319,6 @@ Part of the Locked on Podcast Network.</desc>
   <channel id="LN_DD251713-B795-44EA-9E95-AC47A6096B15">
     <display-name>Travel Escapes</display-name>
   </channel>
-  <programme start="20260815125900 +0000" stop="20260815132900 +0000" channel="LN_DD251713-B795-44EA-9E95-AC47A6096B15">
-    <title lang="en">A Long Weekend in... With Rory O'Connell</title>
-    <desc lang="en">Rory O’Connell’s brand new series combines travel and cookery with the popular chef enjoying the culture as well as the cuisine of eight European cities – Palma de Mallorca, Vienna, Lisbon, Madrid, Bath, Nantes, Copenhagen and Edinburgh. Rory visits a ...</desc>
-  </programme>
   <programme start="20260815132900 +0000" stop="20260815135900 +0000" channel="LN_DD251713-B795-44EA-9E95-AC47A6096B15">
     <title lang="en">A Long Weekend in... With Rory O'Connell</title>
     <desc lang="en">Rory O’Connell’s brand new series combines travel and cookery with the popular chef enjoying the culture as well as the cuisine of eight European cities – Palma de Mallorca, Vienna, Lisbon, Madrid, Bath, Nantes, Copenhagen and Edinburgh. Rory visits a ...</desc>
@@ -4341,13 +4335,13 @@ Part of the Locked on Podcast Network.</desc>
     <title lang="en">A Long Weekend in... With Rory O'Connell</title>
     <desc lang="en">Rory O’Connell’s brand new series combines travel and cookery with the popular chef enjoying the culture as well as the cuisine of eight European cities – Palma de Mallorca, Vienna, Lisbon, Madrid, Bath, Nantes, Copenhagen and Edinburgh. Rory visits a ...</desc>
   </programme>
+  <programme start="20260815152900 +0000" stop="20260815155900 +0000" channel="LN_DD251713-B795-44EA-9E95-AC47A6096B15">
+    <title lang="en">A Long Weekend in... With Rory O'Connell</title>
+    <desc lang="en">Rory O’Connell’s brand new series combines travel and cookery with the popular chef enjoying the culture as well as the cuisine of eight European cities – Palma de Mallorca, Vienna, Lisbon, Madrid, Bath, Nantes, Copenhagen and Edinburgh. Rory visits a ...</desc>
+  </programme>
   <channel id="LN_D2EA2EC2-412C-40E3-BEC5-D03C12576435">
     <display-name>Lone Star</display-name>
   </channel>
-  <programme start="20260815120000 +0000" stop="20260815133000 +0000" channel="LN_D2EA2EC2-412C-40E3-BEC5-D03C12576435">
-    <title lang="en">Daniel Boone, Trailblazer</title>
-    <desc lang="en">Daniel Boone (Bruce Bennett) battles Shawnee warriors as he leads a band of settlers into Kentucky in this frontier potboiler from Albert C. Gannaway Productions. Made at the height of Hollywood's fascination with pioneer days, the film also stars Lon ...</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815144000 +0000" channel="LN_D2EA2EC2-412C-40E3-BEC5-D03C12576435">
     <title lang="en">Rawhide</title>
     <desc lang="en">Baseball superstar Gehrig is one of several ranchers being coerced by a bunch of bandits. His sister and her lawyer/lover organize the ranchers. Directed by Ray Taylor; starring Smith Ballew, Gehrig, Evelyn Knapp. Talk about stunt casting! Gehrig was a...</desc>
@@ -4364,13 +4358,13 @@ Part of the Locked on Podcast Network.</desc>
     <title lang="en">Wagon Trail</title>
     <desc lang="en">The son of Sheriff Clay Hartley, of the frontier town Elder, has gotten into bad company and hangs out with an outlaw gang in which, Collins, owner of the Golden Rule Saloon, is the secret head. Sheriff Hartley suspects him, but has been unable to gath...</desc>
   </programme>
+  <programme start="20260815182000 +0000" stop="20260815210000 +0000" channel="LN_D2EA2EC2-412C-40E3-BEC5-D03C12576435">
+    <title lang="en">One-Eyed Jacks</title>
+    <desc lang="en">Dad Longworth robs a Mexican bank, takes the loot, and leaves his partner Rio to be captured. However, Rio escapes capture and searches for Dad in California.</desc>
+  </programme>
   <channel id="LN_E3CBE4A5-777D-4FE4-B392-DCF0604AAAF0">
     <display-name>Wild West TV</display-name>
   </channel>
-  <programme start="20260815115335 +0000" stop="20260815134301 +0000" channel="LN_E3CBE4A5-777D-4FE4-B392-DCF0604AAAF0">
-    <title lang="en">Part I - The Vision</title>
-    <desc lang="en">Back in Texas, Capt. Call organizes a mustang drive to Montana.</desc>
-  </programme>
   <programme start="20260815134301 +0000" stop="20260815153130 +0000" channel="LN_E3CBE4A5-777D-4FE4-B392-DCF0604AAAF0">
     <title lang="en">Part II - The Forge</title>
     <desc lang="en">Gideon's mustang drive encounters problems. Agostina must fend off the unwanted advances of cowboys.</desc>
@@ -4387,13 +4381,13 @@ Part of the Locked on Podcast Network.</desc>
     <title lang="en">Part I - Leaving</title>
     <desc lang="en">Two former Texas Rangers decide to strike out from their south Texas base and drive a cattle herd to Montana.</desc>
   </programme>
+  <programme start="20260815204630 +0000" stop="20260815223646 +0000" channel="LN_E3CBE4A5-777D-4FE4-B392-DCF0604AAAF0">
+    <title lang="en">Part II - On The Trail</title>
+    <desc lang="en">McCrae and Wood's cattle drive faces deadly situations.</desc>
+  </programme>
   <channel id="LN_68C300D2-322E-4106-9A69-0041EFF79B32">
     <display-name>Grit Xtra</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_68C300D2-322E-4106-9A69-0041EFF79B32">
-    <title lang="en">The Californians</title>
-    <desc lang="en">Grit Xtra invites you to saddle up and ride alongside the larger-than-life stars of TV and cinema’s most iconic Westerns.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_68C300D2-322E-4106-9A69-0041EFF79B32">
     <title lang="en">The Californians</title>
     <desc lang="en">Grit Xtra invites you to saddle up and ride alongside the larger-than-life stars of TV and cinema’s most iconic Westerns.</desc>
@@ -4409,6 +4403,10 @@ Part of the Locked on Podcast Network.</desc>
   <programme start="20260815190000 +0000" stop="20260815213000 +0000" channel="LN_68C300D2-322E-4106-9A69-0041EFF79B32">
     <title lang="en">The Deadly Trackers</title>
     <desc lang="en">A Texas sheriff (Richard Harris) hunts an outlaw (Rod Taylor) and his gang.</desc>
+  </programme>
+  <programme start="20260815213000 +0000" stop="20260816000000 +0000" channel="LN_68C300D2-322E-4106-9A69-0041EFF79B32">
+    <title lang="en">Man in the Wilderness</title>
+    <desc lang="en">Expedition leader (John Huston) leaves mauled scout (Richard Harris) for dead.</desc>
   </programme>
   <channel id="LN_233F339E-2A7B-4F3B-8087-FE1D4EC8DC06">
     <display-name>Old West TV</display-name>
@@ -4574,14 +4572,6 @@ Part of the Locked on Podcast Network.</desc>
   <channel id="LN_7AA30D66-C290-4871-874A-D6C8764FE96A">
     <display-name>ONNJ On New Jersey</display-name>
   </channel>
-  <programme start="20260815130030 +0000" stop="20260815132306 +0000" channel="LN_7AA30D66-C290-4871-874A-D6C8764FE96A">
-    <title lang="en">Mornings with Ken Rosato</title>
-    <desc lang="en">Mornings with Ken Rosato</desc>
-  </programme>
-  <programme start="20260815132306 +0000" stop="20260815134743 +0000" channel="LN_7AA30D66-C290-4871-874A-D6C8764FE96A">
-    <title lang="en">Mornings with Ken Rosato</title>
-    <desc lang="en">Mornings with Ken Rosato</desc>
-  </programme>
   <programme start="20260815134743 +0000" stop="20260815140030 +0000" channel="LN_7AA30D66-C290-4871-874A-D6C8764FE96A">
     <title lang="en">Mornings with Ken Rosato</title>
     <desc lang="en">Mornings with Ken Rosato</desc>
@@ -4594,13 +4584,17 @@ Part of the Locked on Podcast Network.</desc>
     <title lang="en">Mornings with Ken Rosato</title>
     <desc lang="en">Mornings with Ken Rosato</desc>
   </programme>
+  <programme start="20260815144743 +0000" stop="20260815150131 +0000" channel="LN_7AA30D66-C290-4871-874A-D6C8764FE96A">
+    <title lang="en">Mornings with Ken Rosato</title>
+    <desc lang="en">Mornings with Ken Rosato</desc>
+  </programme>
+  <programme start="20260815150131 +0000" stop="20260815154147 +0000" channel="LN_7AA30D66-C290-4871-874A-D6C8764FE96A">
+    <title lang="en">In the Mix</title>
+    <desc lang="en">On New Jersey (ONNJ) is the state’s only 24/7 live-streaming television channel, delivering local news, political coverage, sports, and community-driven content across digital platforms. For more information, visit ONNJ.com.</desc>
+  </programme>
   <channel id="LN_823A7D6E-F4FE-49EA-B6B3-43B56DFE9D59">
     <display-name>NBC 10 Philadelphia News</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_823A7D6E-F4FE-49EA-B6B3-43B56DFE9D59">
-    <title lang="en">Live: NBC10 News @ 9AM</title>
-    <desc lang="en">The latest local news, weather and investigative stories impacting the Philadelphia area.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_823A7D6E-F4FE-49EA-B6B3-43B56DFE9D59">
     <title lang="en">Live: NBC10 News @ 9:30AM</title>
     <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
@@ -4616,6 +4610,10 @@ Part of the Locked on Podcast Network.</desc>
   <programme start="20260815150000 +0000" stop="20260815153000 +0000" channel="LN_823A7D6E-F4FE-49EA-B6B3-43B56DFE9D59">
     <title lang="en">11am: NBC10 News Today</title>
     <desc lang="en">Local news, weather and investigative stories impacting the Philadelphia area.</desc>
+  </programme>
+  <programme start="20260815153000 +0000" stop="20260815160000 +0000" channel="LN_823A7D6E-F4FE-49EA-B6B3-43B56DFE9D59">
+    <title lang="en">11:30AM: NBC10 News Today</title>
+    <desc lang="en">The latest local news, weather and investigative stories impacting the Philadelphia area.</desc>
   </programme>
   <channel id="LN_377229C8-C158-49BE-969B-08EB79FD1CB8">
     <display-name>CBS News Philadelphia</display-name>
@@ -4666,10 +4664,6 @@ Part of the Locked on Podcast Network.</desc>
   <channel id="LN_F62DE179-6022-485E-9D40-F4A77B179215">
     <display-name>WSB (ABC) News 2 Atlanta, GA</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_F62DE179-6022-485E-9D40-F4A77B179215">
-    <title lang="en">Destinations Discovered</title>
-    <desc lang="en">Join us as we uncover hidden gems and unforgettable experiences across the Southeast.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_F62DE179-6022-485E-9D40-F4A77B179215">
     <title lang="en">Clark Howard's Ways to Save</title>
     <desc lang="en">Consumer Adviser Clark Howard has you covered with ways to save and keep your money safe; Clark shows you steps to protect your money from scammers, old debts and pricey student loans.</desc>
@@ -4684,6 +4678,10 @@ Part of the Locked on Podcast Network.</desc>
   </programme>
   <programme start="20260815153000 +0000" stop="20260815160000 +0000" channel="LN_F62DE179-6022-485E-9D40-F4A77B179215">
     <title lang="en">Latest Local News</title>
+    <desc lang="en">Newscast covering important local topics and events.</desc>
+  </programme>
+  <programme start="20260815160000 +0000" stop="20260815163000 +0000" channel="LN_F62DE179-6022-485E-9D40-F4A77B179215">
+    <title lang="en">Live Local News</title>
     <desc lang="en">Newscast covering important local topics and events.</desc>
   </programme>
   <channel id="LN_0F9F3A85-2CAD-4492-BFE7-C809E79489CB">
@@ -4735,10 +4733,6 @@ Part of the Locked on Podcast Network.</desc>
   <channel id="LN_CF38ADFE-0D8D-4E70-BC0B-39BF1303D2BA">
     <display-name>NBC 4 Washington News</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_CF38ADFE-0D8D-4E70-BC0B-39BF1303D2BA">
-    <title lang="en">Live: News4 Today @ 9AM</title>
-    <desc lang="en">The latest local news, weather and investigative stories impacting the Washington, D.C. area.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_CF38ADFE-0D8D-4E70-BC0B-39BF1303D2BA">
     <title lang="en">Live: News4 Today @ 9:30AM</title>
     <desc lang="en">The latest local news, weather and investigative stories impacting the Washington, D.C. area.</desc>
@@ -4755,13 +4749,13 @@ Part of the Locked on Podcast Network.</desc>
     <title lang="en">11AM: News4 Today</title>
     <desc lang="en">The latest local news, weather and investigative stories impacting the Washington, D.C. area.</desc>
   </programme>
+  <programme start="20260815153000 +0000" stop="20260815160000 +0000" channel="LN_CF38ADFE-0D8D-4E70-BC0B-39BF1303D2BA">
+    <title lang="en">11:30AM: News4 Today</title>
+    <desc lang="en">The latest local news, weather and investigative stories impacting the Washington, D.C. area.</desc>
+  </programme>
   <channel id="LN_2A3827F4-2784-4890-A382-2091829FE1D0">
     <display-name>WTTG FOX 5 Washington DC</display-name>
   </channel>
-  <programme start="20260815113000 +0000" stop="20260815133000 +0000" channel="LN_2A3827F4-2784-4890-A382-2091829FE1D0">
-    <title lang="en">FOX 5 Morning</title>
-    <desc lang="en">News, weather, traffic and more from FOX 5, serving the District of Columbia, Maryland and Virginia.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_2A3827F4-2784-4890-A382-2091829FE1D0">
     <title lang="en">FOX 5 After Show</title>
     <desc lang="en">Keep the party going with your favorite FOX 5 anchors.</desc>
@@ -4777,6 +4771,10 @@ Part of the Locked on Podcast Network.</desc>
   <programme start="20260815230000 +0000" stop="20260816000000 +0000" channel="LN_2A3827F4-2784-4890-A382-2091829FE1D0">
     <title lang="en">FOX 5 Weekend Live</title>
     <desc lang="en">Watch the latest live and breaking news on Weekend Live.</desc>
+  </programme>
+  <programme start="20260816000000 +0000" stop="20260816010000 +0000" channel="LN_2A3827F4-2784-4890-A382-2091829FE1D0">
+    <title lang="en">FOX 5 News at 8</title>
+    <desc lang="en">News on The Plus from Fox 5, Washington DC.</desc>
   </programme>
   <channel id="LN_5CEC3AD7-2023-4ABE-AEB6-AF5757C5483A">
     <display-name>WJLA ABC7 Washington D.C. News</display-name>
@@ -5011,10 +5009,6 @@ Part of the Locked on Podcast Network.</desc>
   <channel id="LN_5CFE3081-C9BE-42D0-9557-01EC1FAEFFA1">
     <display-name>Very Tampa Bay by WMOR</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_5CFE3081-C9BE-42D0-9557-01EC1FAEFFA1">
-    <title lang="en">Ed and Day in the ‘Burgh: Verona- Tiny Yet Mighty</title>
-    <desc lang="en">Ed and Day venture to Verona and explore “the spot that’s more than a dot.” The guys play pickleball, dine on BBQ, get creative with splatter paint, and finish the day with a brew.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_5CFE3081-C9BE-42D0-9557-01EC1FAEFFA1">
     <title lang="en">Stitch: Incredible Rescues</title>
     <desc lang="en">These stories showcase courageous Americans who came to the rescue</desc>
@@ -5030,6 +5024,10 @@ Part of the Locked on Podcast Network.</desc>
   <programme start="20260815150000 +0000" stop="20260815153000 +0000" channel="LN_5CFE3081-C9BE-42D0-9557-01EC1FAEFFA1">
     <title lang="en">Absolutely Albuquerque : Facing Fears and New Frontiers</title>
     <desc lang="en">Join Amanda and comedian Sarah Kennedy on a journey that tests their limits–or at least makes them a little uncomfortable. From slippery footing to slithery friends, they push themselves and live to delight in Albuquerque another day.</desc>
+  </programme>
+  <programme start="20260815153000 +0000" stop="20260815160000 +0000" channel="LN_5CFE3081-C9BE-42D0-9557-01EC1FAEFFA1">
+    <title lang="en">Cheap Date: Food Festivals &amp; Stand-Up</title>
+    <desc lang="en">Two Orlando couples binge on burgers, bring out their inner nerd at geek-centric hot spots, and go nuts at a pinball lounge.</desc>
   </programme>
   <channel id="LN_CAB01DA5-907F-482E-A1F1-149DED2983EE">
     <display-name>CBS News Detroit</display-name>
@@ -5057,10 +5055,6 @@ Part of the Locked on Podcast Network.</desc>
   <channel id="LN_FB6EBBB1-EF1E-4F4E-B1AD-B086343F5A80">
     <display-name>WJBK FOX 2 Detroit MI</display-name>
   </channel>
-  <programme start="20260815103000 +0000" stop="20260815133000 +0000" channel="LN_FB6EBBB1-EF1E-4F4E-B1AD-B086343F5A80">
-    <title lang="en">FOX 2 News Morning</title>
-    <desc lang="en">News headlines in Metro Detroit</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_FB6EBBB1-EF1E-4F4E-B1AD-B086343F5A80">
     <title lang="en">CriticLEE Speaking</title>
     <desc lang="en">Movie critic Lee Thomas hosts our weekly movie review show.</desc>
@@ -5076,6 +5070,10 @@ Part of the Locked on Podcast Network.</desc>
   <programme start="20260815153000 +0000" stop="20260815163000 +0000" channel="LN_FB6EBBB1-EF1E-4F4E-B1AD-B086343F5A80">
     <title lang="en">LiveNOW from FOX</title>
     <desc lang="en">National news with LiveNOW from FOX.</desc>
+  </programme>
+  <programme start="20260815163000 +0000" stop="20260815173000 +0000" channel="LN_FB6EBBB1-EF1E-4F4E-B1AD-B086343F5A80">
+    <title lang="en">The Weatherboys</title>
+    <desc lang="en">Derek Kevra and Allen Longstreet's shenanigans continue in this week's episode.</desc>
   </programme>
   <channel id="LN_CA2562C7-49B7-48A0-8534-28C127506737">
     <display-name>WXYZ 7 Action News Detroit</display-name>
@@ -5862,10 +5860,6 @@ Part of the Locked on Podcast Network.</desc>
   <channel id="LN_1BB6CA00-453D-429A-8EED-62FEA3AE46FF">
     <display-name>WFMZ 69 News Allentown PA</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_1BB6CA00-453D-429A-8EED-62FEA3AE46FF">
-    <title lang="en">69 News Weekend</title>
-    <desc lang="en">The latest local, regional, statewide and national news events of the day, as well as detailed and timely reports on sports events, Allentown area weather conditions and the latest travel updates are offered by the 69 Weekend News Team.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140100 +0000" channel="LN_1BB6CA00-453D-429A-8EED-62FEA3AE46FF">
     <title lang="en">69 News Weekend</title>
     <desc lang="en">The latest local, regional, statewide and national news events of the day, as well as detailed and timely reports on sports events, Allentown area weather conditions and the latest travel updates are offered by the 69 Weekend News Team.</desc>
@@ -5879,6 +5873,10 @@ Part of the Locked on Podcast Network.</desc>
     <desc lang="en">The latest local, regional, statewide and national news events of the day, as well as detailed and timely reports on sports events, Allentown area weather conditions and the latest travel updates are offered by the 69 Weekend News Team.</desc>
   </programme>
   <programme start="20260815150200 +0000" stop="20260815153200 +0000" channel="LN_1BB6CA00-453D-429A-8EED-62FEA3AE46FF">
+    <title lang="en">69 News Weekend</title>
+    <desc lang="en">The latest local, regional, statewide and national news events of the day, as well as detailed and timely reports on sports events, Allentown area weather conditions and the latest travel updates are offered by the 69 Weekend News Team.</desc>
+  </programme>
+  <programme start="20260815153200 +0000" stop="20260815160300 +0000" channel="LN_1BB6CA00-453D-429A-8EED-62FEA3AE46FF">
     <title lang="en">69 News Weekend</title>
     <desc lang="en">The latest local, regional, statewide and national news events of the day, as well as detailed and timely reports on sports events, Allentown area weather conditions and the latest travel updates are offered by the 69 Weekend News Team.</desc>
   </programme>
@@ -5954,7 +5952,7 @@ Part of the Locked on Podcast Network.</desc>
   <channel id="LN_499E7B0A-B30B-4AE8-B742-A663AFCDE404">
     <display-name>9&amp;10 News Northern Michigan</display-name>
   </channel>
-  <programme start="20260815110000 +0000" stop="20260815140000 +0000" channel="LN_499E7B0A-B30B-4AE8-B742-A663AFCDE404">
+  <programme start="20260815130000 +0000" stop="20260815140000 +0000" channel="LN_499E7B0A-B30B-4AE8-B742-A663AFCDE404">
     <title lang="en">9&amp;10 News Live Webcams</title>
     <desc lang="en">Covering regional, state and national news along with the latest breaking news events, road conditions and the weather forecasts.</desc>
   </programme>
@@ -7012,10 +7010,6 @@ Part of the Locked on Podcast Network.</desc>
   <channel id="LN_84476C88-6975-4C5E-B74A-641247ADA955">
     <display-name>CBS News Texas</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_84476C88-6975-4C5E-B74A-641247ADA955">
-    <title lang="en">Eye on Health</title>
-    <desc lang="en">Medical and wellness segment covering health headlines and wellness tips from local health experts.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_84476C88-6975-4C5E-B74A-641247ADA955">
     <title lang="en">Latest Texas News &amp; Headlines</title>
     <desc lang="en">CBS News Texas streams local news 24/7. Your home for top stories, breaking news, weather, traffic and more.</desc>
@@ -7029,6 +7023,10 @@ Part of the Locked on Podcast Network.</desc>
     <desc lang="en">CBS News Texas streams local news 24/7. Your home for top stories, breaking news, weather, traffic and more.</desc>
   </programme>
   <programme start="20260815160000 +0000" stop="20260815170000 +0000" channel="LN_84476C88-6975-4C5E-B74A-641247ADA955">
+    <title lang="en">CBS News Texas 9am</title>
+    <desc lang="en">CBS News Texas streams local news 24/7. Your home for top stories, breaking news, weather, traffic and more.</desc>
+  </programme>
+  <programme start="20260815170000 +0000" stop="20260815173000 +0000" channel="LN_84476C88-6975-4C5E-B74A-641247ADA955">
     <title lang="en">CBS News Texas 9am</title>
     <desc lang="en">CBS News Texas streams local news 24/7. Your home for top stories, breaking news, weather, traffic and more.</desc>
   </programme>
@@ -7357,10 +7355,6 @@ Part of the Locked on Podcast Network.</desc>
   <channel id="LN_E3140482-1FDF-4A4F-AC5D-B2B4A7367957">
     <display-name>KTBC FOX 7 Austin TX</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_E3140482-1FDF-4A4F-AC5D-B2B4A7367957">
-    <title lang="en">Austin Live: FOX LOCAL with Adaleigh Rowe</title>
-    <desc lang="en">Raw and unfiltered news covering Austin and Central Texas. Non-stop breaking news, live events and stories.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_E3140482-1FDF-4A4F-AC5D-B2B4A7367957">
     <title lang="en">Tierra's Texas</title>
     <desc lang="en">Lifestyle show hosted by Tierra Neubaum with a look at Texas food, fashion, and more.</desc>
@@ -7376,6 +7370,10 @@ Part of the Locked on Podcast Network.</desc>
   <programme start="20260815180000 +0000" stop="20260815200000 +0000" channel="LN_E3140482-1FDF-4A4F-AC5D-B2B4A7367957">
     <title lang="en">FOX Weather</title>
     <desc lang="en">National &amp; local weather forecasts &amp; radar, news &amp; advisories.</desc>
+  </programme>
+  <programme start="20260815200000 +0000" stop="20260815220000 +0000" channel="LN_E3140482-1FDF-4A4F-AC5D-B2B4A7367957">
+    <title lang="en">Local News from Austin</title>
+    <desc lang="en">Live &amp; breaking news for the entire Austin area.</desc>
   </programme>
   <channel id="LN_C8F7A8F5-718F-47E7-B166-F6EDAE2BD7DE">
     <display-name>KEYE CBS Austin News Austin, TX</display-name>
@@ -7978,10 +7976,6 @@ Part of the Locked on Podcast Network.</desc>
   <channel id="LN_5821A408-36D3-4238-9B0C-48B2F56E9C65">
     <display-name>WISC Madison, WI</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_5821A408-36D3-4238-9B0C-48B2F56E9C65">
-    <title lang="en">News 3 Now Weekend Mornings</title>
-    <desc lang="en">Get the latest local news updates from the weekend on News 3 Now</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_5821A408-36D3-4238-9B0C-48B2F56E9C65">
     <title lang="en">News 3 Now Weekend Mornings</title>
     <desc lang="en">Get the latest local news updates from the weekend on News 3 Now</desc>
@@ -7995,6 +7989,10 @@ Part of the Locked on Podcast Network.</desc>
     <desc lang="en">A roundup of the latest local news stories from Channel 3000+</desc>
   </programme>
   <programme start="20260815150000 +0000" stop="20260815153000 +0000" channel="LN_5821A408-36D3-4238-9B0C-48B2F56E9C65">
+    <title lang="en">Channel 3000+ News Headlines</title>
+    <desc lang="en">A roundup of the latest local news stories from Channel 3000+</desc>
+  </programme>
+  <programme start="20260815153000 +0000" stop="20260815160000 +0000" channel="LN_5821A408-36D3-4238-9B0C-48B2F56E9C65">
     <title lang="en">Channel 3000+ News Headlines</title>
     <desc lang="en">A roundup of the latest local news stories from Channel 3000+</desc>
   </programme>
@@ -8369,10 +8367,6 @@ Part of the Locked on Podcast Network.</desc>
   <channel id="LN_A7D8B630-06E6-47B0-AE2C-D9458ABA6F72">
     <display-name>WKBT (CBS) News 8 La Crosse, WI</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_A7D8B630-06E6-47B0-AE2C-D9458ABA6F72">
-    <title lang="en">News 8 Now Weekend</title>
-    <desc lang="en">Get the latest local news updates from the weekend on News 8 Now</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_A7D8B630-06E6-47B0-AE2C-D9458ABA6F72">
     <title lang="en">News 8 Now Weekend</title>
     <desc lang="en">Get the latest local news updates from the weekend on News 8 Now</desc>
@@ -8386,6 +8380,10 @@ Part of the Locked on Podcast Network.</desc>
     <desc lang="en">A roundup of the latest local news stories from News 8+</desc>
   </programme>
   <programme start="20260815150000 +0000" stop="20260815153000 +0000" channel="LN_A7D8B630-06E6-47B0-AE2C-D9458ABA6F72">
+    <title lang="en">News 8+ News Headlines</title>
+    <desc lang="en">A roundup of the latest local news stories from News 8+</desc>
+  </programme>
+  <programme start="20260815153000 +0000" stop="20260815160000 +0000" channel="LN_A7D8B630-06E6-47B0-AE2C-D9458ABA6F72">
     <title lang="en">News 8+ News Headlines</title>
     <desc lang="en">A roundup of the latest local news stories from News 8+</desc>
   </programme>
@@ -8507,10 +8505,6 @@ Part of the Locked on Podcast Network.</desc>
   <channel id="LN_0EAB5096-8CB3-4B61-9FCD-2E862D70E638">
     <display-name>WDIO ABC Duluth MN</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_0EAB5096-8CB3-4B61-9FCD-2E862D70E638">
-    <title lang="en">WDIO News at Ten (REPEAT)</title>
-    <desc lang="en">WDIO News is the Northland's best source for the latest news, sports, and weather coverage. With you for life.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_0EAB5096-8CB3-4B61-9FCD-2E862D70E638">
     <title lang="en">WDIO News at Ten (REPEAT)</title>
     <desc lang="en">WDIO News is the Northland's best source for the latest news, sports, and weather coverage. With you for life.</desc>
@@ -8524,6 +8518,10 @@ Part of the Locked on Podcast Network.</desc>
     <desc lang="en">WDIO News is the Northland's best source for the latest news, sports, and weather coverage. With you for life.</desc>
   </programme>
   <programme start="20260815150000 +0000" stop="20260815153000 +0000" channel="LN_0EAB5096-8CB3-4B61-9FCD-2E862D70E638">
+    <title lang="en">WDIO News at Ten (REPEAT)</title>
+    <desc lang="en">WDIO News is the Northland's best source for the latest news, sports, and weather coverage. With you for life.</desc>
+  </programme>
+  <programme start="20260815153000 +0000" stop="20260815160000 +0000" channel="LN_0EAB5096-8CB3-4B61-9FCD-2E862D70E638">
     <title lang="en">WDIO News at Ten (REPEAT)</title>
     <desc lang="en">WDIO News is the Northland's best source for the latest news, sports, and weather coverage. With you for life.</desc>
   </programme>
@@ -8576,10 +8574,6 @@ Part of the Locked on Podcast Network.</desc>
   <channel id="LN_A3200D29-05E6-4ED9-AD44-8BF177220A0B">
     <display-name>KOAM (FOX) NEWS NOW Joplin, MO</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_A3200D29-05E6-4ED9-AD44-8BF177220A0B">
-    <title lang="en">KOAM+ News Headlines</title>
-    <desc lang="en">A roundup of the latest local news stories from KOAM News Now</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_A3200D29-05E6-4ED9-AD44-8BF177220A0B">
     <title lang="en">KOAM+ News Headlines</title>
     <desc lang="en">A roundup of the latest local news stories from KOAM News Now</desc>
@@ -8596,13 +8590,13 @@ Part of the Locked on Podcast Network.</desc>
     <title lang="en">KOAM+ News Headlines</title>
     <desc lang="en">A roundup of the latest local news stories from KOAM News Now</desc>
   </programme>
+  <programme start="20260815153000 +0000" stop="20260815160000 +0000" channel="LN_A3200D29-05E6-4ED9-AD44-8BF177220A0B">
+    <title lang="en">KOAM+ News Headlines</title>
+    <desc lang="en">A roundup of the latest local news stories from KOAM News Now</desc>
+  </programme>
   <channel id="LN_0DA6A863-18F9-41DF-BBDE-BB6B3FB5E340">
     <display-name>KAAL  6 News (ABC) Rochester MN</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_0DA6A863-18F9-41DF-BBDE-BB6B3FB5E340">
-    <title lang="en">ABC 6 NEWS AT 10:00 PM (REPEAT)</title>
-    <desc lang="en">The day's big stories, along with news to help plan the next day, weather and sports provided by the ABC 6 News Team.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_0DA6A863-18F9-41DF-BBDE-BB6B3FB5E340">
     <title lang="en">ABC 6 NEWS AT 10:00 PM (REPEAT)</title>
     <desc lang="en">The day's big stories, along with news to help plan the next day, weather and sports provided by the ABC 6 News Team.</desc>
@@ -8616,6 +8610,10 @@ Part of the Locked on Podcast Network.</desc>
     <desc lang="en">The day's big stories, along with news to help plan the next day, weather and sports provided by the ABC 6 News Team.</desc>
   </programme>
   <programme start="20260815150000 +0000" stop="20260815153000 +0000" channel="LN_0DA6A863-18F9-41DF-BBDE-BB6B3FB5E340">
+    <title lang="en">ABC 6 NEWS AT 10:00 PM (REPEAT)</title>
+    <desc lang="en">The day's big stories, along with news to help plan the next day, weather and sports provided by the ABC 6 News Team.</desc>
+  </programme>
+  <programme start="20260815153000 +0000" stop="20260815160000 +0000" channel="LN_0DA6A863-18F9-41DF-BBDE-BB6B3FB5E340">
     <title lang="en">ABC 6 NEWS AT 10:00 PM (REPEAT)</title>
     <desc lang="en">The day's big stories, along with news to help plan the next day, weather and sports provided by the ABC 6 News Team.</desc>
   </programme>
@@ -8691,10 +8689,6 @@ Part of the Locked on Podcast Network.</desc>
   <channel id="LN_44EC97EC-FF9A-4BFC-9E82-F423299341FC">
     <display-name>KSAZ FOX 10 Phoenix AZ</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_44EC97EC-FF9A-4BFC-9E82-F423299341FC">
-    <title lang="en">LiveNOW from FOX</title>
-    <desc lang="en">Watch a non-stop stream of breaking news, live events and stories across the nation.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815135900 +0000" channel="LN_44EC97EC-FF9A-4BFC-9E82-F423299341FC">
     <title lang="en">NFC West Huddle</title>
     <desc lang="en">Reporters who cover the Arizona Cardinals and the rest of the NFC get ready for the upcoming NFL season.</desc>
@@ -8710,6 +8704,10 @@ Part of the Locked on Podcast Network.</desc>
   <programme start="20260815160000 +0000" stop="20260815170000 +0000" channel="LN_44EC97EC-FF9A-4BFC-9E82-F423299341FC">
     <title lang="en">FOX 10 AZAM Saturday</title>
     <desc lang="en">The latest Arizona headlines, national news events of the day + sports, weather, and traffic updates.</desc>
+  </programme>
+  <programme start="20260815170000 +0000" stop="20260815173000 +0000" channel="LN_44EC97EC-FF9A-4BFC-9E82-F423299341FC">
+    <title lang="en">Giants in Granite: The Rushmore Epic | Great American Story</title>
+    <desc lang="en">The breathtaking scale &amp; intricate details of Mount Rushmore, which was completed without a single fatality.</desc>
   </programme>
   <channel id="LN_7EA306AB-A6D7-48BF-8325-C5CC273A2927">
     <display-name>KPNX NBC 12News Phoenix AZ</display-name>
@@ -8898,10 +8896,6 @@ Part of the Locked on Podcast Network.</desc>
   <channel id="LN_7EAA292D-2FA5-4B92-B87C-C95E87C5EB33">
     <display-name>KOB 4 Albuquerque NM</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_7EAA292D-2FA5-4B92-B87C-C95E87C5EB33">
-    <title lang="en">KOB 4 Eyewitness News (REPEAT)</title>
-    <desc lang="en">The KOB 4 Team provides the latest news, weather, traffic, and sports for Albuquerque and all of New Mexico</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_7EAA292D-2FA5-4B92-B87C-C95E87C5EB33">
     <title lang="en">KOB 4 Eyewitness News (REPEAT)</title>
     <desc lang="en">The KOB 4 Team provides the latest news, weather, traffic, and sports for Albuquerque and all of New Mexico</desc>
@@ -8915,6 +8909,10 @@ Part of the Locked on Podcast Network.</desc>
     <desc lang="en">The KOB 4 Team provides the latest news, weather, traffic, and sports for Albuquerque and all of New Mexico</desc>
   </programme>
   <programme start="20260815150000 +0000" stop="20260815153000 +0000" channel="LN_7EAA292D-2FA5-4B92-B87C-C95E87C5EB33">
+    <title lang="en">KOB 4 Eyewitness News (REPEAT)</title>
+    <desc lang="en">The KOB 4 Team provides the latest news, weather, traffic, and sports for Albuquerque and all of New Mexico</desc>
+  </programme>
+  <programme start="20260815153000 +0000" stop="20260815160000 +0000" channel="LN_7EAA292D-2FA5-4B92-B87C-C95E87C5EB33">
     <title lang="en">KOB 4 Eyewitness News (REPEAT)</title>
     <desc lang="en">The KOB 4 Team provides the latest news, weather, traffic, and sports for Albuquerque and all of New Mexico</desc>
   </programme>
@@ -9128,10 +9126,6 @@ Part of the Locked on Podcast Network.</desc>
   <channel id="LN_2209886A-B6DF-4D26-8940-BEBF4195EB22">
     <display-name>KIFI ABC Local News 8 Idaho Falls ID</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_2209886A-B6DF-4D26-8940-BEBF4195EB22">
-    <title lang="en">Now News Replay</title>
-    <desc lang="en">Covering regional, state and national news along with the latest breaking news events, road conditions and the weather forecasts.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815163000 +0000" channel="LN_2209886A-B6DF-4D26-8940-BEBF4195EB22">
     <title lang="en">Local News 8 This Morning in HD</title>
     <desc lang="en">The Local News 8 Morning Team provides a comprehensive look at updated overnight and early morning news events, a detailed and an up-to-the-minute weather forecast for the Idaho Falls area and the latest sports scores for early-rising viewers.</desc>
@@ -9145,6 +9139,10 @@ Part of the Locked on Podcast Network.</desc>
     <desc lang="en">Covering regional, state and national news along with the latest breaking news events, road conditions and the weather forecasts.</desc>
   </programme>
   <programme start="20260815173000 +0000" stop="20260815180000 +0000" channel="LN_2209886A-B6DF-4D26-8940-BEBF4195EB22">
+    <title lang="en">Now News Replay</title>
+    <desc lang="en">Covering regional, state and national news along with the latest breaking news events, road conditions and the weather forecasts.</desc>
+  </programme>
+  <programme start="20260815180000 +0000" stop="20260815183000 +0000" channel="LN_2209886A-B6DF-4D26-8940-BEBF4195EB22">
     <title lang="en">Now News Replay</title>
     <desc lang="en">Covering regional, state and national news along with the latest breaking news events, road conditions and the weather forecasts.</desc>
   </programme>
@@ -9358,10 +9356,6 @@ Part of the Locked on Podcast Network.</desc>
   <channel id="LN_F3D41A53-6140-46C9-B3D8-7460FDF2EB93">
     <display-name>NBC 4 Los Angeles News</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_F3D41A53-6140-46C9-B3D8-7460FDF2EB93">
-    <title lang="en">6AM: NBC4 Late News</title>
-    <desc lang="en">Major news of the day, investigative stories and local weather reports.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815135900 +0000" channel="LN_F3D41A53-6140-46C9-B3D8-7460FDF2EB93">
     <title lang="en">California Live</title>
     <desc lang="en">Previously recorded; lifestyle show featuring the latest in travel, food and fashion.</desc>
@@ -9376,6 +9370,10 @@ Part of the Locked on Podcast Network.</desc>
   </programme>
   <programme start="20260815160000 +0000" stop="20260815170000 +0000" channel="LN_F3D41A53-6140-46C9-B3D8-7460FDF2EB93">
     <title lang="en">9AM: Today in LA</title>
+    <desc lang="en">The latest local news, weather &amp; investigative stories impacting Southern California.</desc>
+  </programme>
+  <programme start="20260815170000 +0000" stop="20260815180000 +0000" channel="LN_F3D41A53-6140-46C9-B3D8-7460FDF2EB93">
+    <title lang="en">10AM: Today in LA</title>
     <desc lang="en">The latest local news, weather &amp; investigative stories impacting Southern California.</desc>
   </programme>
   <channel id="LN_70F8DB34-78C6-4032-B1C8-0BEB946B2841">
@@ -9427,10 +9425,6 @@ Part of the Locked on Podcast Network.</desc>
   <channel id="LN_2D4F00E3-0752-421D-8875-BC0665862A1F">
     <display-name>NBC Bay Area News</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_2D4F00E3-0752-421D-8875-BC0665862A1F">
-    <title lang="en">6AM: NBC Bay Area Late News</title>
-    <desc lang="en">Local news stories, up-to-the-minute weather and traffic, and community events.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_2D4F00E3-0752-421D-8875-BC0665862A1F">
     <title lang="en">6:30AM: NBC Bay Area Late News</title>
     <desc lang="en">Local news stories, up-to-the-minute weather and traffic, and community events.</desc>
@@ -9445,6 +9439,10 @@ Part of the Locked on Podcast Network.</desc>
   </programme>
   <programme start="20260815160000 +0000" stop="20260815170000 +0000" channel="LN_2D4F00E3-0752-421D-8875-BC0665862A1F">
     <title lang="en">9AM: Today In The Bay</title>
+    <desc lang="en">Local news stories, up-to-the-minute weather and traffic, and community events.</desc>
+  </programme>
+  <programme start="20260815170000 +0000" stop="20260815180000 +0000" channel="LN_2D4F00E3-0752-421D-8875-BC0665862A1F">
+    <title lang="en">10AM: Today In The Bay</title>
     <desc lang="en">Local news stories, up-to-the-minute weather and traffic, and community events.</desc>
   </programme>
   <channel id="LN_27ED28BE-CEA7-4C7C-B5FD-97AB9308C9C6">
@@ -9496,10 +9494,6 @@ Part of the Locked on Podcast Network.</desc>
   <channel id="LN_5A82A266-838C-4E90-B31F-8C32951F0A91">
     <display-name>KIRO (CBS) News 7 Seattle, WA</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_5A82A266-838C-4E90-B31F-8C32951F0A91">
-    <title lang="en">Latest Local News</title>
-    <desc lang="en">Newscast covering important local topics and events.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_5A82A266-838C-4E90-B31F-8C32951F0A91">
     <title lang="en">Latest Local News</title>
     <desc lang="en">Newscast covering important local topics and events.</desc>
@@ -9515,6 +9509,10 @@ Part of the Locked on Podcast Network.</desc>
   <programme start="20260815150000 +0000" stop="20260815153000 +0000" channel="LN_5A82A266-838C-4E90-B31F-8C32951F0A91">
     <title lang="en">All For America</title>
     <desc lang="en">Stories of everyday heroes and acts of kindness that often go unnoticed.</desc>
+  </programme>
+  <programme start="20260815153000 +0000" stop="20260815160000 +0000" channel="LN_5A82A266-838C-4E90-B31F-8C32951F0A91">
+    <title lang="en">Latest Local News</title>
+    <desc lang="en">Newscast covering important local topics and events.</desc>
   </programme>
   <channel id="LN_991C9E73-687C-4B95-AD6A-1ED471747562">
     <display-name>KCPQ FOX 13 Seattle WA</display-name>
@@ -9703,10 +9701,6 @@ Part of the Locked on Podcast Network.</desc>
   <channel id="LN_B7E95F9E-101E-4ACC-AC8C-F4A80B6CEB77">
     <display-name>NBC 7 San Diego News</display-name>
   </channel>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="LN_B7E95F9E-101E-4ACC-AC8C-F4A80B6CEB77">
-    <title lang="en">6AM: NBC7 Late News</title>
-    <desc lang="en">Local news stories, up-to-the-minute weather and traffic, and community events.</desc>
-  </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="LN_B7E95F9E-101E-4ACC-AC8C-F4A80B6CEB77">
     <title lang="en">6:30AM: NBC7 Late News</title>
     <desc lang="en">Local news stories, up-to-the-minute weather and traffic, and community events.</desc>
@@ -9721,6 +9715,10 @@ Part of the Locked on Podcast Network.</desc>
   </programme>
   <programme start="20260815160000 +0000" stop="20260815170000 +0000" channel="LN_B7E95F9E-101E-4ACC-AC8C-F4A80B6CEB77">
     <title lang="en">9AM: NBC7 News Today</title>
+    <desc lang="en">Local news stories, up-to-the-minute weather and traffic, and community events.</desc>
+  </programme>
+  <programme start="20260815170000 +0000" stop="20260815180000 +0000" channel="LN_B7E95F9E-101E-4ACC-AC8C-F4A80B6CEB77">
+    <title lang="en">10AM: NBC7 News Today</title>
     <desc lang="en">Local news stories, up-to-the-minute weather and traffic, and community events.</desc>
   </programme>
   <channel id="LN_3259D4AA-BB93-4FE1-8C84-B6A7A8122A4D">
