@@ -394,10 +394,6 @@
   <channel id="LN_6901EB4F-8CD3-468D-B1F6-3001FF467777">
     <display-name>ROI TV</display-name>
   </channel>
-  <programme start="20261121162200 +0000" stop="20261121165300 +0000" channel="LN_6901EB4F-8CD3-468D-B1F6-3001FF467777">
-    <title lang="en">How Money Works</title>
-    <desc lang="en">Senior executives, business owners and management consultants all have a strong incentive to cut down costs in their businesses wherever they can. It’s been less than three years since ChatGPT first launched but since then all of these people have clea...</desc>
-  </programme>
   <programme start="20261121165300 +0000" stop="20261121172200 +0000" channel="LN_6901EB4F-8CD3-468D-B1F6-3001FF467777">
     <title lang="en">How Money Works</title>
     <desc lang="en">Being single is becoming an unaffordable luxury for a lot of people. The cost of everything is exploding right now and without a partner to share the financial burden with, single people are financially falling behind their friends who are in consisten...</desc>
@@ -413,6 +409,10 @@
   <programme start="20261121182200 +0000" stop="20261121185200 +0000" channel="LN_6901EB4F-8CD3-468D-B1F6-3001FF467777">
     <title lang="en">How Money Works</title>
     <desc lang="en">Dumb people make more money than smart people and it took a study conducted by really smart people to prove it. A study out of Sweden has found that top earners have lower intelligence than the people in income levels directly below them. The Plateauin...</desc>
+  </programme>
+  <programme start="20261121185200 +0000" stop="20261121192200 +0000" channel="LN_6901EB4F-8CD3-468D-B1F6-3001FF467777">
+    <title lang="en">How Money Works</title>
+    <desc lang="en">Go to school, get good grades, get into college, become a professional and work your way up the corporate ladder until you can retire with your savings or a pension. That’s the plan for a lot of people and despite what a lot of hustle bros on the inter...</desc>
   </programme>
   <channel id="LN_12EBEC2E-2C3E-4FE9-812A-B69DF4F7C925">
     <display-name>NEWSMAX2</display-name>
@@ -486,10 +486,6 @@
   <channel id="LN_FFC12EAC-4763-4A35-929E-1CAE65C53061">
     <display-name>The Don Lemon Channel</display-name>
   </channel>
-  <programme start="20261121163619 +0000" stop="20261121165228 +0000" channel="LN_FFC12EAC-4763-4A35-929E-1CAE65C53061">
-    <title lang="en">Who Is REALLY Behind the FlyDubai Attack?</title>
-    <desc lang="en">NEWSGIRLS examines the alleged FlyDubai attack, the pilot involved and the political fallout around it.</desc>
-  </programme>
   <programme start="20261121165228 +0000" stop="20261121182105 +0000" channel="LN_FFC12EAC-4763-4A35-929E-1CAE65C53061">
     <title lang="en">Psychologist Issues Dire Warning About Trump &amp; Scott Colom Makes History In Mississippi</title>
     <desc lang="en">Don Lemon interviews Dr. John Gartner about Trump and highlights Scott Colom's Mississippi milestone.</desc>
@@ -505,6 +501,10 @@
   <programme start="20261121194042 +0000" stop="20261121201701 +0000" channel="LN_FFC12EAC-4763-4A35-929E-1CAE65C53061">
     <title lang="en">I Really Wanted To Get There, Angie Nixon Gets Emotional After Election Loss</title>
     <desc lang="en">Don Lemon and Angie Nixon discuss her election defeat, healthcare access, and continued political activism.</desc>
+  </programme>
+  <programme start="20261121201701 +0000" stop="20261121204630 +0000" channel="LN_FFC12EAC-4763-4A35-929E-1CAE65C53061">
+    <title lang="en">The Nvidia Sex Scandal Goes All the Way to Trump?!</title>
+    <desc lang="en">NEWSGIRLS examines allegations involving Nvidia's CEO, Chinese espionage, AI chips, and Trump.</desc>
   </programme>
   <channel id="LN_8769310B-908B-4288-A631-742D5E88C492">
     <display-name>MeidasTouch Network</display-name>
@@ -601,10 +601,6 @@
   <channel id="LN_D08B8566-8303-4C43-B854-782AF2D7EB8F">
     <display-name>Dateline 24/7</display-name>
   </channel>
-  <programme start="20261121160500 +0000" stop="20261121165300 +0000" channel="LN_D08B8566-8303-4C43-B854-782AF2D7EB8F">
-    <title lang="en">Dateline NBC</title>
-    <desc lang="en">When a woman is found murdered in her bed, her husband and her son accuse each other of being the killer.</desc>
-  </programme>
   <programme start="20261121165300 +0000" stop="20261121183000 +0000" channel="LN_D08B8566-8303-4C43-B854-782AF2D7EB8F">
     <title lang="en">Dateline NBC</title>
     <desc lang="en">Years after a Montana man is found dead, his son opens up a box of case files to find out what really happened.</desc>
@@ -620,6 +616,10 @@
   <programme start="20261121214500 +0000" stop="20261121223200 +0000" channel="LN_D08B8566-8303-4C43-B854-782AF2D7EB8F">
     <title lang="en">Dateline NBC</title>
     <desc lang="en">Recently uncovered pages from John Hinckley Jr.'s diary, which he began writing after he was arrested for trying to assassinate President Ronald Reagan; an interview with the officer who questioned Hinckley after the attempted assassination.</desc>
+  </programme>
+  <programme start="20261121223200 +0000" stop="20261121231900 +0000" channel="LN_D08B8566-8303-4C43-B854-782AF2D7EB8F">
+    <title lang="en">Dateline NBC</title>
+    <desc lang="en">Police begin to doubt a man's claim that his wife was murdered by a friend.</desc>
   </programme>
   <channel id="LN_D10ACB25-D8D4-4445-9D47-30195BD2DE7E">
     <display-name>American Crimes</display-name>
@@ -831,10 +831,6 @@
   <channel id="LN_105AF9C8-EDE4-4F5B-95E7-9DD5A17E261F">
     <display-name>True Crime Now</display-name>
   </channel>
-  <programme start="20261121160520 +0000" stop="20261121165540 +0000" channel="LN_105AF9C8-EDE4-4F5B-95E7-9DD5A17E261F">
-    <title lang="en">The Real Manhunter</title>
-    <desc lang="en">Dig through piles of clues after a reclusive hoarder is found dead in his home.</desc>
-  </programme>
   <programme start="20261121165540 +0000" stop="20261121174919 +0000" channel="LN_105AF9C8-EDE4-4F5B-95E7-9DD5A17E261F">
     <title lang="en">The Real Manhunter</title>
     <desc lang="en">Delve into the dark secrets that drove Iain and Sally’s marriage over the edge.</desc>
@@ -850,6 +846,10 @@
   <programme start="20261121193419 +0000" stop="20261121202651 +0000" channel="LN_105AF9C8-EDE4-4F5B-95E7-9DD5A17E261F">
     <title lang="en">The Real Manhunter</title>
     <desc lang="en">Look for links between grisly knife crimes in the search for a serial killer.</desc>
+  </programme>
+  <programme start="20261121202651 +0000" stop="20261121212241 +0000" channel="LN_105AF9C8-EDE4-4F5B-95E7-9DD5A17E261F">
+    <title lang="en">Fred Dinenages: Murder Casebook Files</title>
+    <desc lang="en">Gasp at a vicious fraudster with a diabolical method of covering his tracks.</desc>
   </programme>
   <channel id="LN_70E6008B-8E98-4B80-8CE2-D721592DF1C1">
     <display-name>World's Most Evil Killers</display-name>
@@ -900,10 +900,6 @@
   <channel id="LN_7DB404D9-5CF0-414C-9A60-A05839756563">
     <display-name>Kung Fu Movies</display-name>
   </channel>
-  <programme start="20261121145908 +0000" stop="20261121165531 +0000" channel="LN_7DB404D9-5CF0-414C-9A60-A05839756563">
-    <title lang="en">37 Plots of Kung Fu</title>
-    <desc lang="en">Slow Coach and Luck Boy are two knockabout scheming orphans who were saved from a life of begging by Granny- a fierce kung fu mistress. The Leopard Fist dispatches Granny iand now Slow Coach and Lucky Boy have to step up to the plate and avenge the Granny and fight for the survival of the Xin Yi clan.</desc>
-  </programme>
   <programme start="20261121165531 +0000" stop="20261121185400 +0000" channel="LN_7DB404D9-5CF0-414C-9A60-A05839756563">
     <title lang="en">Black Fist</title>
     <desc lang="en">To make money, a Los Angeles street-fighter goes to work for gangsters.</desc>
@@ -919,6 +915,10 @@
   <programme start="20261121224225 +0000" stop="20261122003302 +0000" channel="LN_7DB404D9-5CF0-414C-9A60-A05839756563">
     <title lang="en">Spirits of Bruce Lee</title>
     <desc lang="en">Chang Chen-Wai, a martial arts expert who runs a jade-importing business, follows his missing brother to Thailand and learns he has been murdered. Chang vows revenge</desc>
+  </programme>
+  <programme start="20261122003302 +0000" stop="20261122023819 +0000" channel="LN_7DB404D9-5CF0-414C-9A60-A05839756563">
+    <title lang="en">Fearless Hyena</title>
+    <desc lang="en">A young man whose sickly grandfather has taught him a secret form of Kung Fu, starts to make a living off of his unique fighting style, only to attract the attention of his grandfather's mortal enemy.</desc>
   </programme>
   <channel id="LN_E1323824-8949-45C5-B8B9-DF36E8B84232">
     <display-name>Urban Action Channel</display-name>
@@ -992,10 +992,6 @@
   <channel id="LN_E817E82A-A322-4FA4-8F55-0E17116F726B">
     <display-name>The Carol Burnett Show</display-name>
   </channel>
-  <programme start="20261121154202 +0000" stop="20261121165004 +0000" channel="LN_E817E82A-A322-4FA4-8F55-0E17116F726B">
-    <title lang="en">The Best Of The Carol Burnett Show</title>
-    <desc lang="en">Roddy McDowell and The Jackson 5 guest star!</desc>
-  </programme>
   <programme start="20261121165004 +0000" stop="20261121172011 +0000" channel="LN_E817E82A-A322-4FA4-8F55-0E17116F726B">
     <title lang="en">The Carol Burnett Show</title>
     <desc lang="en">Kaye Stevens and Audrey Meadows guest star, featuring "As The Stomach Turns" and the "10th Avenue Family."</desc>
@@ -1011,6 +1007,10 @@
   <programme start="20261121181838 +0000" stop="20261121184938 +0000" channel="LN_E817E82A-A322-4FA4-8F55-0E17116F726B">
     <title lang="en">The Carol Burnett Show</title>
     <desc lang="en">Art Carney &amp; Pat Carroll guest. Art plays an exterminator, then he &amp; Pat appear on "As The Stomach Turns."</desc>
+  </programme>
+  <programme start="20261121184938 +0000" stop="20261121192044 +0000" channel="LN_E817E82A-A322-4FA4-8F55-0E17116F726B">
+    <title lang="en">The Carol Burnett Show</title>
+    <desc lang="en">Guests Ken Berry &amp; Eydie Gorme salute to RKO Pictures. And tax time is stressful for Harvey in "Carol &amp; Sis."</desc>
   </programme>
   <channel id="LN_30A3BFFC-A9BE-44F0-9EF4-69B96AA51F43">
     <display-name>The Dick Van Dyke Show</display-name>
@@ -1038,10 +1038,6 @@
   <channel id="LN_4571DFCC-78BE-46A8-9808-E7E9A312FCC7">
     <display-name>FilmRise Classic TV</display-name>
   </channel>
-  <programme start="20261121162300 +0000" stop="20261121165000 +0000" channel="LN_4571DFCC-78BE-46A8-9808-E7E9A312FCC7">
-    <title lang="en">The Beverly Hillbillies</title>
-    <desc lang="en">Her neighbors are aghast when Granny decides to start a vegetable garden on the mansion grounds.</desc>
-  </programme>
   <programme start="20261121165000 +0000" stop="20261121174100 +0000" channel="LN_4571DFCC-78BE-46A8-9808-E7E9A312FCC7">
     <title lang="en">Bonanza</title>
     <desc lang="en">A bank robber takes a job with the Cartwrights to hide his accomplices on the Ponderosa.</desc>
@@ -1057,6 +1053,10 @@
   <programme start="20261121192500 +0000" stop="20261121201900 +0000" channel="LN_4571DFCC-78BE-46A8-9808-E7E9A312FCC7">
     <title lang="en">Bonanza</title>
     <desc lang="en">Ben tries to help his paraplegic neighbor Tom by setting up a grain mill on his unused land.</desc>
+  </programme>
+  <programme start="20261121201900 +0000" stop="20261121211000 +0000" channel="LN_4571DFCC-78BE-46A8-9808-E7E9A312FCC7">
+    <title lang="en">Bonanza</title>
+    <desc lang="en">Outlaws plot to steal a trunk containing the savings of a religious group.</desc>
   </programme>
   <channel id="LN_38D9E180-1A43-439F-800D-74268C5EC966">
     <display-name>ALF</display-name>
@@ -1107,10 +1107,6 @@
   <channel id="LN_CF478ED2-CE98-4C90-B325-62095E95CBF7">
     <display-name>The Bob Ross Channel</display-name>
   </channel>
-  <programme start="20261121162000 +0000" stop="20261121165500 +0000" channel="LN_CF478ED2-CE98-4C90-B325-62095E95CBF7">
-    <title lang="en">The Joy of Painting with Bob Ross</title>
-    <desc lang="en">Join television artist Bob Ross and take a peek through the fog of a snowy morning as the awakening sun enters into a new day.</desc>
-  </programme>
   <programme start="20261121165500 +0000" stop="20261121173000 +0000" channel="LN_CF478ED2-CE98-4C90-B325-62095E95CBF7">
     <title lang="en">The Joy of Painting with Bob Ross</title>
     <desc lang="en">Travel to the tropics with Bob Ross, stroll along the palm tree shores and drink in the soul-cleansing beauty of the sea. An oval masterpiece youll enjoy.</desc>
@@ -1126,6 +1122,10 @@
   <programme start="20261121184000 +0000" stop="20261121191500 +0000" channel="LN_CF478ED2-CE98-4C90-B325-62095E95CBF7">
     <title lang="en">The Joy of Painting with Bob Ross</title>
     <desc lang="en">Bob Ross travels with his paint brushes into the density of an evening grove and discovers the beauty of a gentle, hushed rippling river.</desc>
+  </programme>
+  <programme start="20261121191500 +0000" stop="20261121195000 +0000" channel="LN_CF478ED2-CE98-4C90-B325-62095E95CBF7">
+    <title lang="en">The Joy of Painting with Bob Ross</title>
+    <desc lang="en">Take a stroll into the woods with Bob Ross and experience the reflections of a jeweled sun bursting into the soft, vibrant day.</desc>
   </programme>
   <channel id="LN_366A93FC-968E-4242-A28E-75B470E3195B">
     <display-name>Hot Ones</display-name>
@@ -1270,10 +1270,6 @@ wedding clips.</desc>
   <channel id="LN_27B297E5-83A0-457F-B9EC-33C5A020F040">
     <display-name>FailArmy</display-name>
   </channel>
-  <programme start="20261121162200 +0000" stop="20261121165300 +0000" channel="LN_27B297E5-83A0-457F-B9EC-33C5A020F040">
-    <title lang="en">FailArmy: 50 vs. 50</title>
-    <desc lang="en">The call could be coming from inside the house or maybe the call of the wild is more Mari's style.</desc>
-  </programme>
   <programme start="20261121165300 +0000" stop="20261121172400 +0000" channel="LN_27B297E5-83A0-457F-B9EC-33C5A020F040">
     <title lang="en">Fall of Fame</title>
     <desc lang="en">Loose wheels, icy spills, and high impact fails prove these athletes never stop falling for the game.</desc>
@@ -1289,6 +1285,10 @@ wedding clips.</desc>
   <programme start="20261121182600 +0000" stop="20261121185700 +0000" channel="LN_27B297E5-83A0-457F-B9EC-33C5A020F040">
     <title lang="en">Fall of Fame</title>
     <desc lang="en">From flying gear to hard landings, these competitors show that sometimes the biggest hit comes after the play.</desc>
+  </programme>
+  <programme start="20261121185700 +0000" stop="20261121192800 +0000" channel="LN_27B297E5-83A0-457F-B9EC-33C5A020F040">
+    <title lang="en">Fall of Fame</title>
+    <desc lang="en">Big swings, missed landings, and spectacular crashes remind us that the road to glory is paved with wipeouts.</desc>
   </programme>
   <channel id="LN_081016AD-69A3-4236-A8A0-75391DB6F522">
     <display-name>Mystery Science Theater 3000</display-name>
@@ -1569,10 +1569,6 @@ wedding clips.</desc>
   <channel id="LN_195280D1-654A-45BE-BCCB-556B9E56CA80">
     <display-name>WeatherSpy</display-name>
   </channel>
-  <programme start="20261121162000 +0000" stop="20261121165000 +0000" channel="LN_195280D1-654A-45BE-BCCB-556B9E56CA80">
-    <title lang="en">Angry Planet | 2009 Hurricane</title>
-    <desc lang="en">The “Angry Planet” team will be tracking storms through the 2009 Hurricane season, and plan to film george as he heads into a big one.</desc>
-  </programme>
   <programme start="20261121165000 +0000" stop="20261121171930 +0000" channel="LN_195280D1-654A-45BE-BCCB-556B9E56CA80">
     <title lang="en">Alaska's Ultimate Bush Pilots | Meet Island Air</title>
     <desc lang="en">Alaskan bush pilots risk everything to save hunters struggling to stay alive in a remote area of Kodiak.</desc>
@@ -1589,13 +1585,13 @@ wedding clips.</desc>
     <title lang="en">Alaska's Ultimate Bush Pilots | Heaven at 5,000 Feet</title>
     <desc lang="en">Pilot Josiah Freeman takes a professional snowboarder Mark Barajas to the top of the Chugach Mountains for some hellacious heli-skiing.</desc>
   </programme>
+  <programme start="20261121184800 +0000" stop="20261121191730 +0000" channel="LN_195280D1-654A-45BE-BCCB-556B9E56CA80">
+    <title lang="en">Alaska's Ultimate Bush Pilots | Deadman's Survival</title>
+    <desc lang="en">Island Air battles time and the elements, to rescue a group trapped in Deadman's Bay.</desc>
+  </programme>
   <channel id="LN_0E92A400-3EE9-47D0-ABDB-0E07238B32EE">
     <display-name>Shockwave</display-name>
   </channel>
-  <programme start="20261121155708 +0000" stop="20261121165417 +0000" channel="LN_0E92A400-3EE9-47D0-ABDB-0E07238B32EE">
-    <title lang="en">China Quake</title>
-    <desc lang="en">In 2008, China’s monster quake claimed 80,000 lives and destroyed five million buildings.</desc>
-  </programme>
   <programme start="20261121165417 +0000" stop="20261121175755 +0000" channel="LN_0E92A400-3EE9-47D0-ABDB-0E07238B32EE">
     <title lang="en">Frozen North</title>
     <desc lang="en">Learn about the adventures of Sir Hubert Wilkins, who devoted his life to the exploration of the North Pole.</desc>
@@ -1611,6 +1607,10 @@ wedding clips.</desc>
   <programme start="20261121203827 +0000" stop="20261121223003 +0000" channel="LN_0E92A400-3EE9-47D0-ABDB-0E07238B32EE">
     <title lang="en">Shackleton: The Greatest Story of Survival</title>
     <desc lang="en">After losing their lifeline, twenty-eight adventurers fight for survival in Antarctica with Ernest Shackleton.</desc>
+  </programme>
+  <programme start="20261121223003 +0000" stop="20261121232423 +0000" channel="LN_0E92A400-3EE9-47D0-ABDB-0E07238B32EE">
+    <title lang="en">SuperTornado: Anatomy of a Megadisaster</title>
+    <desc lang="en">A look at Joplin, Missouri five years after one of the worst natural disasters in U.S. history razed the town.</desc>
   </programme>
   <channel id="LN_11F7EC73-20B1-4BF8-BDB1-FAA2B48AC5DF">
     <display-name>Popular Science</display-name>
@@ -2190,10 +2190,6 @@ wedding clips.</desc>
   <channel id="LN_8CA12BB0-5B8F-4696-9B09-42C1D0D4F366">
     <display-name>Pure Flix TV</display-name>
   </channel>
-  <programme start="20261121150709 +0000" stop="20261121165253 +0000" channel="LN_8CA12BB0-5B8F-4696-9B09-42C1D0D4F366">
-    <title lang="en">An Unlikely Angel</title>
-    <desc lang="en">Janie (Jillian Murray) is a power player in the boardroom but is falling apart at the thought of becoming a</desc>
-  </programme>
   <programme start="20261121165253 +0000" stop="20261121191721 +0000" channel="LN_8CA12BB0-5B8F-4696-9B09-42C1D0D4F366">
     <title lang="en">Indivisible</title>
     <desc lang="en">The extraordinary true story of Army Chaplain Darren Turner and his wife Heather. When war etches battle scars on their hearts, they face one more battle: the fight to save their marriage. One marriage, one family, under God.</desc>
@@ -2209,6 +2205,10 @@ wedding clips.</desc>
   <programme start="20261121231200 +0000" stop="20261122012639 +0000" channel="LN_8CA12BB0-5B8F-4696-9B09-42C1D0D4F366">
     <title lang="en">The Mulligan</title>
     <desc lang="en">An inspiring story about relationships, forgiveness and second chances. Paul seems to have it all, but his life starts to fall apart. Guided by the wisdom of an old golf pro, he learns about playing a good game both on and off the course.</desc>
+  </programme>
+  <programme start="20261122012639 +0000" stop="20261122033301 +0000" channel="LN_8CA12BB0-5B8F-4696-9B09-42C1D0D4F366">
+    <title lang="en">Pardoned by Grace</title>
+    <desc lang="en">Based on the incredible true story of Scott Highberger's transformation from a man who ran from God into a man who brought thousands to Him.</desc>
   </programme>
   <channel id="LN_8182FC5A-C716-40EF-86BB-9A5F84AED954">
     <display-name>Joel Osteen Network</display-name>
@@ -2259,14 +2259,6 @@ wedding clips.</desc>
   <channel id="LN_C59E1BA3-BC22-4CDA-BD58-75F78895A7AF">
     <display-name>In Touch+</display-name>
   </channel>
-  <programme start="20261121163031 +0000" stop="20261121165014 +0000" channel="LN_C59E1BA3-BC22-4CDA-BD58-75F78895A7AF">
-    <title lang="en">Courage For Life</title>
-    <desc lang="en">Jesus taught disciples to serve and love one another. In John 13, Ann White explains what true love looks like</desc>
-  </programme>
-  <programme start="20261121165014 +0000" stop="20261121165352 +0000" channel="LN_C59E1BA3-BC22-4CDA-BD58-75F78895A7AF">
-    <title lang="en">The Bible Project</title>
-    <desc lang="en">Public Reading of Scripture - Explore the origins and development of this fascinating biblical topic, and see how it offers us a model for engaging the Scriptures in our own day.</desc>
-  </programme>
   <programme start="20261121165352 +0000" stop="20261121170015 +0000" channel="LN_C59E1BA3-BC22-4CDA-BD58-75F78895A7AF">
     <title lang="en">Dr Charles Stanley Life Lessons</title>
     <desc lang="en">Dr. Charles Stanley - Life Lessons: How can a Blackslider still be saved?</desc>
@@ -2278,6 +2270,14 @@ wedding clips.</desc>
   <programme start="20261121173015 +0000" stop="20261121183014 +0000" channel="LN_C59E1BA3-BC22-4CDA-BD58-75F78895A7AF">
     <title lang="en">Therapy &amp; Theology</title>
     <desc lang="en">Their Chaos Doesn't Have to be Your Chaos Therapy &amp; Theology</desc>
+  </programme>
+  <programme start="20261121183014 +0000" stop="20261121190022 +0000" channel="LN_C59E1BA3-BC22-4CDA-BD58-75F78895A7AF">
+    <title lang="en">Charles Stanley Institute</title>
+    <desc lang="en">Dr. Stanley and the Charles Stanley Institute Team help you identify God’s voice</desc>
+  </programme>
+  <programme start="20261121190022 +0000" stop="20261121193121 +0000" channel="LN_C59E1BA3-BC22-4CDA-BD58-75F78895A7AF">
+    <title lang="en">Gerald Wolfe Gospel Music Hymn Sing</title>
+    <desc lang="en">Gospel Music Hymn Sing Ep 10 Sing along with Host Gerald Wolfe on the Gospel Music Hymn Sing</desc>
   </programme>
   <channel id="LN_EE1BDF9D-693D-44CC-98E4-4C922FE0618B">
     <display-name>Elevation Church Network</display-name>
@@ -2466,10 +2466,6 @@ wedding clips.</desc>
   <channel id="LN_4D2A3ADC-5310-4895-A676-6A1BEEB941EE">
     <display-name>Beyond Belief: Fact or Fiction</display-name>
   </channel>
-  <programme start="20261121160400 +0000" stop="20261121165600 +0000" channel="LN_4D2A3ADC-5310-4895-A676-6A1BEEB941EE">
-    <title lang="en">Beyond Belief: Fact or Fiction?</title>
-    <desc lang="en">Murder victim aids police; woman meets a future husband who's shockingly familiar via the Internet.</desc>
-  </programme>
   <programme start="20261121165600 +0000" stop="20261121174700 +0000" channel="LN_4D2A3ADC-5310-4895-A676-6A1BEEB941EE">
     <title lang="en">Beyond Belief: Fact or Fiction?</title>
     <desc lang="en">Featuring the following cases, The Motorcycle; Blind Man's Dog; Deer Hunters; Tribal Curse.</desc>
@@ -2485,6 +2481,10 @@ wedding clips.</desc>
   <programme start="20261121193100 +0000" stop="20261121202200 +0000" channel="LN_4D2A3ADC-5310-4895-A676-6A1BEEB941EE">
     <title lang="en">Beyond Belief: Fact or Fiction?</title>
     <desc lang="en">Man learns a woman he met has been dead for seven years.</desc>
+  </programme>
+  <programme start="20261121202200 +0000" stop="20261121211400 +0000" channel="LN_4D2A3ADC-5310-4895-A676-6A1BEEB941EE">
+    <title lang="en">Beyond Belief: Fact or Fiction?</title>
+    <desc lang="en">Medical misdiagnosis in the 1800s could change history.</desc>
   </programme>
   <channel id="LN_E856E29A-0D9D-4250-B163-CCCCEE58E228">
     <display-name>Haunt TV</display-name>
@@ -2535,10 +2535,6 @@ wedding clips.</desc>
   <channel id="LN_15F7FB08-92A3-4376-9096-28697AC18E2F">
     <display-name>NBC LX Home</display-name>
   </channel>
-  <programme start="20261121162900 +0000" stop="20261121165400 +0000" channel="LN_15F7FB08-92A3-4376-9096-28697AC18E2F">
-    <title lang="en">Open House</title>
-    <desc lang="en">Taking a closer look at midcentury modern reimagined with architect Paul McClean.</desc>
-  </programme>
   <programme start="20261121165400 +0000" stop="20261121171900 +0000" channel="LN_15F7FB08-92A3-4376-9096-28697AC18E2F">
     <title lang="en">Open House</title>
     <desc lang="en">Visiting the city of Brotherly Love; touring an art filled home; other properties in Pennsylvania.</desc>
@@ -2554,6 +2550,10 @@ wedding clips.</desc>
   <programme start="20261121180900 +0000" stop="20261121183400 +0000" channel="LN_15F7FB08-92A3-4376-9096-28697AC18E2F">
     <title lang="en">Open House</title>
     <desc lang="en">Some of the nation's most sustainable properties, including a shared office space in New Jersey.</desc>
+  </programme>
+  <programme start="20261121183400 +0000" stop="20261121185900 +0000" channel="LN_15F7FB08-92A3-4376-9096-28697AC18E2F">
+    <title lang="en">Open House</title>
+    <desc lang="en">Real estate trends and opportunities; home design.</desc>
   </programme>
   <channel id="LN_1C9943C5-A055-4CEB-9ED4-A184056D102F">
     <display-name>Gusto TV</display-name>
@@ -3548,12 +3548,6 @@ wedding clips.</desc>
   <channel id="LN_1C62948D-D926-43A3-93F6-86EEC49CC051">
     <display-name>Locked On NFL</display-name>
   </channel>
-  <programme start="20261121162103 +0000" stop="20261121165503 +0000" channel="LN_1C62948D-D926-43A3-93F6-86EEC49CC051">
-    <title lang="en">NFL Six Pack</title>
-    <desc lang="en">Hosted by Matt Williamson (former NFL and college scout) along with Brian Peacock (radio reporter and football analyst), the NFL Six Pack is a daily NFL podcast bringing you news, analysis, trades, rumors, fantasy advice, and interviews with fantastic guests.
-
-Part of the Locked On Podcast Network.</desc>
-  </programme>
   <programme start="20261121165503 +0000" stop="20261121172903 +0000" channel="LN_1C62948D-D926-43A3-93F6-86EEC49CC051">
     <title lang="en">Locked On NFL</title>
     <desc lang="en">Locked On NFL is a daily NFL podcast giving you football news, updates, rumors, and analysis in 30 minutes from the local expects of the Locked on Podcast Network. 
@@ -3574,6 +3568,12 @@ Part of the Locked On Podcast Network.</desc>
     <desc lang="en">Damian Parson, national scout at The Draft Network, and Keith Sanchez, senior NFL draft analyst for The Draft Network and 2019 LSU Football National Champion, bring the NFL Draft to life every day with insight and analysis on college football prospects, NFL Front office evaluation process and the NFL. 
 
 Part of the Locked on Podcast Network. #NFL #NFLDraft</desc>
+  </programme>
+  <programme start="20261121191103 +0000" stop="20261121194503 +0000" channel="LN_1C62948D-D926-43A3-93F6-86EEC49CC051">
+    <title lang="en">Locked On NFL Scouting</title>
+    <desc lang="en">NFL experts Kyle Crabbs (@GrindingTheTape) and Joe Marino (@TheJoeMarino) break down professional and college scouting, roster construction, team building, salary cap management, and much more. 
+
+Part of the Locked On Podcast Network.</desc>
   </programme>
   <channel id="LN_04935AA0-65BE-43C5-8E32-55C4304C64F0">
     <display-name>Locked On College Sports</display-name>
